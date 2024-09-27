@@ -1,0 +1,2198 @@
+food_category,food_name,per_serving,cal_per_serving,kj_per_serving
+Fruit Juices,Acai Juice,8 fl. oz. (240 ml),139.0,586.0
+Fruit Juices,Aloe Vera,8 fl. oz. (240 ml),106.0,444.0
+Fruit Juices,Apple Juice,8 fl. oz. (240 ml),110.0,463.0
+Fruit Juices,Apricot Nectar,8 fl. oz. (240 ml),134.0,564.0
+Fruit Juices,Banana Juice,8 fl. oz. (240 ml),120.0,504.0
+Fruit Juices,Blackberry Juice,8 fl. oz. (240 ml),115.0,485.0
+Fruit Juices,Boysenberry Juice,8 fl. oz. (240 ml),130.0,545.0
+Fruit Juices,Capri-Sun,1 capri-sun (200 ml),82.0,344.0
+Fruit Juices,Carrot Juice,8 fl. oz. (240 ml),96.0,403.0
+Fruit Juices,Cherry Juice,8 fl. oz. (240 ml),108.0,454.0
+Fruit Juices,Clamato,8 fl. oz. (240 ml),144.0,605.0
+Fruit Juices,Coconut Milk,8 fl. oz. (240 ml),559.0,2350.0
+Fruit Juices,Coconut Water,8 fl. oz. (240 ml),46.0,192.0
+Fruit Juices,Concord Grape,8 fl. oz. (240 ml),170.0,715.0
+Fruit Juices,Cranberry Apple Juice,8 fl. oz. (240 ml),161.0,674.0
+Fruit Juices,Cranberry Grape Juice,8 fl. oz. (240 ml),170.0,715.0
+Fruit Juices,Cranberry Juice,8 fl. oz. (240 ml),110.0,463.0
+Fruit Juices,Cucumber Juice,8 fl. oz. (240 ml),24.0,101.0
+Fruit Juices,Currant Juice,8 fl. oz. (240 ml),115.0,485.0
+Fruit Juices,Energy-Drink,12 fl. oz. (355 ml),309.0,1296.0
+Fruit Juices,Fruitopia,8 fl. oz. (240 ml),264.0,1109.0
+Fruit Juices,Grape Juice,8 fl. oz. (240 ml),144.0,605.0
+Fruit Juices,Grapefruit Juice,8 fl. oz. (240 ml),110.0,463.0
+Fruit Juices,Lemon Juice,8 fl. oz. (240 ml),50.0,211.0
+Fruit Juices,Lemonade,8 fl. oz. (240 ml),120.0,504.0
+Fruit Juices,Lime Juice,8 fl. oz. (240 ml),50.0,211.0
+Fruit Juices,Limeade,8 fl. oz. (240 ml),307.0,1291.0
+Fruit Juices,Mango Lassi,8 fl. oz. (240 ml),158.0,665.0
+Fruit Juices,Nestea,8 fl. oz. (240 ml),50.0,211.0
+Fruit Juices,Orange Juice,8 fl. oz. (240 ml),110.0,463.0
+Fruit Juices,Papaya Juice,8 fl. oz. (240 ml),139.0,586.0
+Fruit Juices,Passion Fruit Juice,8 fl. oz. (240 ml),115.0,485.0
+Fruit Juices,Peach Juice,8 fl. oz. (240 ml),130.0,545.0
+Fruit Juices,Peach Nectar,8 fl. oz. (240 ml),130.0,545.0
+Fruit Juices,Pear Juice,8 fl. oz. (240 ml),144.0,605.0
+Fruit Juices,Pear Nectar,8 fl. oz. (240 ml),144.0,605.0
+Fruit Juices,Pineapple Juice,8 fl. oz. (240 ml),127.0,535.0
+Fruit Juices,Pineapple Orange Juice,8 fl. oz. (240 ml),120.0,504.0
+Fruit Juices,Plum Juice,8 fl. oz. (240 ml),170.0,715.0
+Fruit Juices,Pomegranate Juice,8 fl. oz. (240 ml),158.0,665.0
+Fruit Juices,Sauerkraut Juice,8 fl. oz. (240 ml),34.0,142.0
+Fruit Juices,Tangerine Juice,8 fl. oz. (240 ml),103.0,434.0
+Fruit Juices,Tomato Juice,8 fl. oz. (240 ml),41.0,170.0
+Fruit Juices,Vegetable Juice,8 fl. oz. (240 ml),50.0,211.0
+Fruit Juices,White Grape Juice,8 fl. oz. (240 ml),180.0,756.0
+Alcoholic Drinks & Beverages,Absinthe,1 1/2 fl. oz. (44 ml),153.0,643.0
+Alcoholic Drinks & Beverages,Advocaat,1 1/2 fl. oz. (44 ml),125.0,523.0
+Alcoholic Drinks & Beverages,Amaretto,1 shot (25 ml),78.0,326.0
+Alcoholic Drinks & Beverages,Applejack,1 1/2 fl. oz. (44 ml),103.0,431.0
+Alcoholic Drinks & Beverages,Asti,1 glass (100 ml),138.0,580.0
+Alcoholic Drinks & Beverages,Baileys,1 1/2 fl. oz. (44 ml),144.0,604.0
+Alcoholic Drinks & Beverages,Bailey’s Irish Cream,1 1/2 fl. oz. (44 ml),144.0,604.0
+Alcoholic Drinks & Beverages,Beer,1 can (355 ml),153.0,643.0
+Alcoholic Drinks & Beverages,Blue Curacao,1 fl. oz. (30 ml),73.0,306.0
+Alcoholic Drinks & Beverages,Bourbon,1 1/2 fl. oz. (44 ml),103.0,431.0
+Alcoholic Drinks & Beverages,Brandy,1 1/2 fl. oz. (44 ml),94.0,394.0
+Alcoholic Drinks & Beverages,Canadian Whiskey,1 1/2 fl. oz. (44 ml),95.0,399.0
+Alcoholic Drinks & Beverages,Chambord,1 glass (150 ml),522.0,2193.0
+Alcoholic Drinks & Beverages,Champagne,1 glass (100 ml),75.0,315.0
+Alcoholic Drinks & Beverages,Cider,1 glass (150 ml),74.0,309.0
+Alcoholic Drinks & Beverages,Cognac,1 1/2 fl. oz. (44 ml),103.0,434.0
+Alcoholic Drinks & Beverages,Cointreau,1 1/2 fl. oz. (44 ml),141.0,591.0
+Alcoholic Drinks & Beverages,Drambuie,1 1/2 fl. oz. (44 ml),158.0,662.0
+Alcoholic Drinks & Beverages,Frangelico,1 1/2 fl. oz. (44 ml),105.0,440.0
+Alcoholic Drinks & Beverages,Gin,1 shot (25 ml),66.0,276.0
+Alcoholic Drinks & Beverages,Glenfiddich,1 1/2 fl. oz. (44 ml),101.0,425.0
+Alcoholic Drinks & Beverages,Grand Marnier,1 1/2 fl. oz. (44 ml),111.0,468.0
+Alcoholic Drinks & Beverages,Irish Whiskey,1 1/2 fl. oz. (44 ml),103.0,431.0
+Alcoholic Drinks & Beverages,Jack Daniel’s,1 1/2 fl. oz. (44 ml),64.0,270.0
+Alcoholic Drinks & Beverages,Jagermeister,1 shot (25 ml),63.0,263.0
+Alcoholic Drinks & Beverages,Jim Beam,1 1/2 fl. oz. (44 ml),98.0,410.0
+Alcoholic Drinks & Beverages,Kahlua,1 shot (25 ml),45.0,189.0
+Alcoholic Drinks & Beverages,Liqueur,1 shot (25 ml),63.0,263.0
+Alcoholic Drinks & Beverages,Liquor,1 shot (25 ml),63.0,263.0
+Alcoholic Drinks & Beverages,Midori,1 fl. oz. (30 ml),80.0,336.0
+Alcoholic Drinks & Beverages,Prosecco,1 glass (100 ml),66.0,277.0
+Alcoholic Drinks & Beverages,Punch,1 cup (237 ml),147.0,616.0
+Alcoholic Drinks & Beverages,Red Wine,1 glass (150 ml),128.0,536.0
+Alcoholic Drinks & Beverages,Rose Wine,1 glass (150 ml),107.0,447.0
+Alcoholic Drinks & Beverages,Rum,1 1/2 fl. oz. (44 ml),102.0,427.0
+Alcoholic Drinks & Beverages,Sambuca,1 shot (25 ml),83.0,350.0
+Alcoholic Drinks & Beverages,Sangria,1 glass (250 ml),240.0,1008.0
+Alcoholic Drinks & Beverages,Scotch,1 1/2 fl. oz. (44 ml),98.0,410.0
+Alcoholic Drinks & Beverages,Sherry,1 1/2 fl. oz. (44 ml),51.0,214.0
+Alcoholic Drinks & Beverages,Sloe Gin,1 shot (25 ml),83.0,349.0
+Alcoholic Drinks & Beverages,Southern Comfort,1 1/2 fl. oz. (44 ml),109.0,456.0
+Alcoholic Drinks & Beverages,Tequila,1 shot (25 ml),28.0,116.0
+Alcoholic Drinks & Beverages,Triple Sec,1 glass (150 ml),230.0,965.0
+Alcoholic Drinks & Beverages,Vermouth,1 1/2 fl. oz. (44 ml),57.0,240.0
+Alcoholic Drinks & Beverages,Vodka,1 shot (25 ml),58.0,243.0
+Alcoholic Drinks & Beverages,Whisky,1 1/2 fl. oz. (44 ml),110.0,462.0
+Alcoholic Drinks & Beverages,White Wine,1 glass (150 ml),123.0,516.0
+Alcoholic Drinks & Beverages,Wine,1 glass (150 ml),125.0,524.0
+Baking Ingredients,Agar-Agar,1 tbsp (5 g),1.0,5.0
+Baking Ingredients,Agave Syrup,1/4 cup (55 ml),171.0,716.0
+Baking Ingredients,All Purpose Flour,1 cup (120 ml),437.0,1835.0
+Baking Ingredients,Almond Extract,1 tbsp (8 ml),21.0,87.0
+Baking Ingredients,Almonds,1 cup (92 g),487.0,2044.0
+Baking Ingredients,Apple Pie Filling,1 serving (60 g),60.0,252.0
+Baking Ingredients,Baking Powder,1 tsp (4.6 g),2.0,9.0
+Baking Ingredients,Bread Flour,1 cup (137 g),495.0,2077.0
+Baking Ingredients,Brittle,1 oz. (28.4 g),166.0,696.0
+Baking Ingredients,Brown Sugar,1 cup (220 g),869.0,3650.0
+Baking Ingredients,Buttermilk,1 cup (245 ml),152.0,637.0
+Baking Ingredients,Butterscotch Chips,1 cup (170 g),916.0,3849.0
+Baking Ingredients,Cake Flour,1 cup (137 g),496.0,2082.0
+Baking Ingredients,Candied Orange Peel,1 tbsp (6 g),6.0,24.0
+Baking Ingredients,Cane Sugar,1 tbsp (5 g),19.0,81.0
+Baking Ingredients,Chocolate Chips,1 tbsp (15 g),70.0,294.0
+Baking Ingredients,Chocolate Sprinkles,1 tbsp (5 g),25.0,105.0
+Baking Ingredients,Cocoa Powder,1 tbsp (5.4 g),11.0,48.0
+Baking Ingredients,Coconut Flakes,1 cup (85 g),388.0,1628.0
+Baking Ingredients,Coconut Milk,1 cup (240 ml),120.0,504.0
+Baking Ingredients,Corn Flour,1 cup (117 g),422.0,1774.0
+Baking Ingredients,Corn Syrup,1 tbsp (19 ml),53.0,224.0
+Baking Ingredients,Cornmeal,1 cup (138 g),500.0,2098.0
+Baking Ingredients,Cornstarch,1 cup (128 g),488.0,2048.0
+Baking Ingredients,Couverture,1 oz. (28.4 g),168.0,706.0
+Baking Ingredients,Cream Cheese,1 serving (20 g),11.0,45.0
+Baking Ingredients,Cream of Tartar,1 tbsp (15 g),39.0,163.0
+Baking Ingredients,Crystallized Ginger,1 tbsp (5.2 g),17.0,70.0
+Baking Ingredients,Custard Powder,1 tbsp (17.5 g),57.0,241.0
+Baking Ingredients,Dark Rum,1 fl. oz. (28 ml),60.0,254.0
+Baking Ingredients,Dextrose,1 tsp (3.2 g),11.0,47.0
+Baking Ingredients,Dried Apricots,"1 cup, halves (130 g)",313.0,1316.0
+Baking Ingredients,Dried Cranberries,1/3 cup (40 g),123.0,518.0
+Baking Ingredients,Dried Figs,1 fig (8.4 g),20.0,84.0
+Baking Ingredients,Dried Prunes,"1 cup, pitted (248 g)",265.0,1114.0
+Baking Ingredients,Duck Egg,1 egg (70 g),130.0,544.0
+Baking Ingredients,Egg,1 egg (60 g),58.0,244.0
+Baking Ingredients,Egg Nog,1 cup (254 g),224.0,940.0
+Baking Ingredients,Egg White,1 egg white (25 g),3.0,14.0
+Baking Ingredients,Egg Yolk,1 egg yolk (16 g),52.0,216.0
+Baking Ingredients,Evaporated Milk,1 cup (252 g),338.0,1419.0
+Baking Ingredients,Flour,1 cup (120 g),437.0,1835.0
+Baking Ingredients,Fructose,1 tsp (4 g),15.0,62.0
+Baking Ingredients,Gelatin,1 tbsp (7 g),23.0,98.0
+Baking Ingredients,Glucose,1 tbsp (20 g),57.0,240.0
+Baking Ingredients,Glucose Syrup,1 oz. (28.4 g),108.0,455.0
+Baking Ingredients,Granulated Sugar,1 packet (2.8 g),8.0,33.0
+Baking Ingredients,Ground Cinnamon,1 tsp (2.6 g),5.0,21.0
+Baking Ingredients,Hazelnuts,"1 cup, ground (75 g)",471.0,1979.0
+Baking Ingredients,Heavy Cream,"1 cup, whipped (120 g)",414.0,1739.0
+Baking Ingredients,Jaggery,1 tbsp (12 g),46.0,193.0
+Baking Ingredients,Lemon Pie Filling,1 oz. (28.4 g),40.0,168.0
+Baking Ingredients,Malt Powder,1 cup (162 g),585.0,2456.0
+Baking Ingredients,Malted Milk,1 tbsp (7 g),28.0,119.0
+Baking Ingredients,Maltitol,1 tsp (4.5 g),8.0,35.0
+Baking Ingredients,Maltodextrin,1 tsp (3.2 g),11.0,47.0
+Baking Ingredients,Maltose,1 tbsp (13 g),45.0,188.0
+Baking Ingredients,Maple Syrup,60 millilitre (80 ml),216.0,907.0
+Baking Ingredients,Molasses,1 cup (337 g),977.0,4105.0
+Baking Ingredients,Nonpareils,1 tbsp (5 g),24.0,100.0
+Baking Ingredients,Poppy Seeds,1 tbsp (8.8 g),42.0,176.0
+Baking Ingredients,Powdered Milk,1 cup (68 g),337.0,1416.0
+Baking Ingredients,Powdered Sugar,"1 cup, unsifted (120 g)",467.0,1961.0
+Baking Ingredients,Protein Powder,1 tbsp (11 g),45.0,190.0
+Baking Ingredients,Raisins,1 cup (165 g),782.0,3285.0
+Baking Ingredients,Rice Milk,1 cup (245 ml),120.0,505.0
+Baking Ingredients,Rock Sugar,1 tsp (4 g),25.0,105.0
+Baking Ingredients,Rolled Oats,1 cup (156 g),599.0,2516.0
+Baking Ingredients,Rum,1 serving (40 ml),98.0,413.0
+Baking Ingredients,Semolina Flour,1 cup (120 g),420.0,1764.0
+Baking Ingredients,Sesame Seeds,1 cup (144 g),825.0,3466.0
+Baking Ingredients,Shredded Coconut,1 cup (93 g),466.0,1957.0
+Baking Ingredients,Sorbitol,1 tsp (4 g),15.0,63.0
+Baking Ingredients,Soy Milk,1 cup (243 ml),100.0,418.0
+Baking Ingredients,Soy Protein Powder,1 oz. (28.4 g),95.0,398.0
+Baking Ingredients,Sprinkles,1 tsp (2 g),10.0,42.0
+Baking Ingredients,Starch,1 cup (128 g),488.0,2048.0
+Baking Ingredients,Strawberry Preserves,1 tbsp (20 g),56.0,234.0
+Baking Ingredients,Sucrose,1 tsp (4 g),15.0,65.0
+Baking Ingredients,Sugar,1 tsp (5 g),20.0,85.0
+Baking Ingredients,Sunflower Seeds,1 serving (20 g),23.0,98.0
+Baking Ingredients,Sweetened Condensed Milk,1 cup (306 ml),982.0,4125.0
+Baking Ingredients,Sweetener,1 packet (1 g),4.0,15.0
+Baking Ingredients,Unsalted Butter,1 cup (227 g),1628.0,6835.0
+Baking Ingredients,Vanilla Extract,1 tbsp (13 ml),37.0,157.0
+Baking Ingredients,Vanilla Sugar,1 tsp (2.4 g),7.0,30.0
+Baking Ingredients,Vegetable Oil,1 tbsp (13.6 g),115.0,483.0
+Baking Ingredients,Vegetable Shortening,1 tbsp (12.8 g),106.0,446.0
+Baking Ingredients,Walnuts,1 walnut (20 g),26.0,110.0
+Baking Ingredients,Whole Milk,1 cup (244 ml),149.0,625.0
+Baking Ingredients,Whole Wheat Flour,1 cup (120 g),408.0,1714.0
+Baking Ingredients,Xylitol,1 tsp (4 g),10.0,40.0
+Baking Ingredients,Yeast (dry),1 tsp (4 g),13.0,55.0
+Beef & Veal,Beef,6 oz. (168 g),287.0,1206.0
+Beef & Veal,Beef Brisket,1 piece (178 g),244.0,1024.0
+Beef & Veal,Beef Fillet,6 oz. (168 g),318.0,1334.0
+Beef & Veal,Beef Goulash,1 cup (227 g),279.0,1174.0
+Beef & Veal,Beef Minute Steak,6 oz. (168 g),223.0,939.0
+Beef & Veal,Beef Neck,1 piece (224 g),477.0,2005.0
+Beef & Veal,Beef Pancreas,1 piece (222 g),602.0,2526.0
+Beef & Veal,Beef Patty,1 patty  (64 g),158.0,664.0
+Beef & Veal,Beef Prime Rib,1 piece (278 g),1123.0,4718.0
+Beef & Veal,Beef Ribs,1 rib (340 g),666.0,2798.0
+Beef & Veal,Beef Sirloin,1 serving (85 g),155.0,649.0
+Beef & Veal,Beef Suet,1 oz. (28 g),239.0,1004.0
+Beef & Veal,Beef Tallow,1 cup (205 g),1849.0,7765.0
+Beef & Veal,Beef Thymus,1 piece (381 g),1215.0,5105.0
+Beef & Veal,Beef Tripe,1 serving (85 g),80.0,336.0
+Beef & Veal,Chuck Roast,1 piece (224 g),316.0,1326.0
+Beef & Veal,Chuck Steak,1 piece (340 g),466.0,1955.0
+Beef & Veal,Filet Mignon,6 oz. (168 g),348.0,1460.0
+Beef & Veal,Flank Steak,1 steak (320 g),621.0,2608.0
+Beef & Veal,Ground Beef,6 oz. (168 g),405.0,1700.0
+Beef & Veal,Ground Chuck,6 oz. (168 g),420.0,1764.0
+Beef & Veal,Ground Round,6 oz. (168 g),356.0,1495.0
+Beef & Veal,Minced Veal,6 oz. (168 g),240.0,1010.0
+Beef & Veal,Porterhouse Steak,1 steak (320 g),790.0,3318.0
+Beef & Veal,Rib Eye Steak,1 steak (281 g),610.0,2560.0
+Beef & Veal,Roast Beef,1 slice (341 g),638.0,2677.0
+Beef & Veal,Rump Steak,1 steak (205 g),351.0,1472.0
+Beef & Veal,Skirt Steak,6 oz. (168 g),344.0,1446.0
+Beef & Veal,Stew Beef,1 lb. (454 g),867.0,3641.0
+Beef & Veal,Strip Steak,3 slices (34 g),40.0,167.0
+Beef & Veal,T-Bone-Steak,6 oz. (168 g),371.0,1559.0
+Beef & Veal,Veal,1 piece (291 g),821.0,3445.0
+Beef & Veal,Veal Breast,1 piece (291 g),821.0,3445.0
+Beef & Veal,Veal Leg,1 piece (272 g),574.0,2410.0
+Beef & Veal,Veal Roast Beef,1 piece (208 g),364.0,1529.0
+Beef & Veal,Veal Shank,1 piece (223 g),395.0,1657.0
+Beef & Veal,Veal Shoulder,1 piece (283 g),518.0,2176.0
+Beef & Veal,Veal Sirloin,1 piece (183 g),373.0,1568.0
+Beef & Veal,Veal Tenderloin,1 piece (229 g),497.0,2086.0
+Beer,Ale,1 can/bottle (354 ml),124.0,520.0
+Beer,Altbier,1 can/bottle (354 ml),152.0,641.0
+Beer,Bass,1 can/bottle (354 ml),159.0,669.0
+Beer,Beck’s,1 can/bottle (354 ml),138.0,581.0
+Beer,Beer,1 can/bottle (354 ml),152.0,641.0
+Beer,Blue Moon,1 can/bottle (354 ml),170.0,715.0
+Beer,Bock Beer,1 can/bottle (354 ml),177.0,743.0
+Beer,Buckler (N.A.),1 can/bottle (354 ml),74.0,312.0
+Beer,Bud Ice,1 can/bottle (354 ml),124.0,520.0
+Beer,Bud Light,1 can/bottle (354 ml),103.0,432.0
+Beer,Bud Light Chelada,1 can/bottle (354 ml),152.0,641.0
+Beer,Bud Light Lime,1 can/bottle (354 ml),120.0,506.0
+Beer,Bud Select,1 can/bottle (354 ml),99.0,418.0
+Beer,Bud Select 55,1 can/bottle (354 ml),53.0,223.0
+Beer,Budweiser,1 can/bottle (354 ml),145.0,609.0
+Beer,Budweiser Chelada,1 can/bottle (354 ml),184.0,772.0
+Beer,Busch,1 can/bottle (354 ml),131.0,549.0
+Beer,Busch Light,1 can/bottle (354 ml),96.0,400.0
+Beer,Busch N.A.,1 can/bottle (354 ml),60.0,251.0
+Beer,Carlsberg,1 can/bottle (354 ml),113.0,474.0
+Beer,Clausthaler (N.A.),1 can/bottle (354 ml),92.0,386.0
+Beer,Colt 45,1 can/bottle (354 ml),156.0,655.0
+Beer,Coors,1 can/bottle (354 ml),149.0,623.0
+Beer,Coors Light,1 can/bottle (354 ml),103.0,432.0
+Beer,Coors N.A.,1 can/bottle (354 ml),64.0,269.0
+Beer,Corona,1 can/bottle (354 ml),149.0,623.0
+Beer,Dark Beer,1 can/bottle (354 ml),163.0,683.0
+Beer,Genesee Cream Ale,1 can/bottle (354 ml),163.0,683.0
+Beer,Ginger Beer,1 can/bottle (354 ml),149.0,623.0
+Beer,Guinness,1 pint (568 ml),199.0,835.0
+Beer,Heineken,1 can/bottle (354 ml),124.0,520.0
+Beer,Honey Brown,1 can/bottle (354 ml),149.0,623.0
+Beer,Hurricane High Gravity,1 can/bottle (354 ml),138.0,581.0
+Beer,IPA,1 can/bottle (354 ml),181.0,758.0
+Beer,Keystone Ice,1 can/bottle (354 ml),142.0,595.0
+Beer,Keystone Light,1 can/bottle (354 ml),103.0,432.0
+Beer,Koelsch,1 can/bottle (354 ml),152.0,641.0
+Beer,Labatt,1 can/bottle (354 ml),152.0,641.0
+Beer,Lager Beer,1 can/bottle (354 ml),152.0,641.0
+Beer,Land Shark,1 can/bottle (354 ml),149.0,623.0
+Beer,Light Beer,1 can/bottle (354 ml),103.0,432.0
+Beer,Lowenbrau,1 can/bottle (354 ml),159.0,669.0
+Beer,Malt Beer,1 can/bottle (354 ml),131.0,549.0
+Beer,Michelob Amber Bock,1 can/bottle (354 ml),166.0,697.0
+Beer,Michelob Lager,1 can/bottle (354 ml),156.0,655.0
+Beer,Michelob Light,1 can/bottle (354 ml),113.0,474.0
+Beer,Michelob Ultra,1 can/bottle (354 ml),96.0,400.0
+Beer,Michelob Ultra Amber,1 can/bottle (354 ml),92.0,386.0
+Beer,Michelob Ultra Lime Cactus,1 can/bottle (354 ml),96.0,400.0
+Beer,Miller Chill,1 can/bottle (354 ml),110.0,460.0
+Beer,Miller Genuine Draft,1 can/bottle (354 ml),142.0,595.0
+Beer,Miller High Life,1 can/bottle (354 ml),142.0,595.0
+Beer,Miller High Life Light,1 can/bottle (354 ml),110.0,460.0
+Beer,Miller Lite,1 can/bottle (354 ml),96.0,400.0
+Beer,Milwaukee’s Best,1 can/bottle (354 ml),127.0,535.0
+Beer,Milwaukee’s Best Light,1 can/bottle (354 ml),99.0,418.0
+Beer,Molson,1 can/bottle (354 ml),149.0,623.0
+Beer,Natural Ice,1 can/bottle (354 ml),156.0,655.0
+Beer,Natural Light,1 can/bottle (354 ml),96.0,400.0
+Beer,Newcastle,1 can/bottle (354 ml),138.0,581.0
+Beer,Non-alcoholic Beer,1 can/bottle (354 ml),131.0,549.0
+Beer,Old Milwaukee,1 can/bottle (354 ml),145.0,609.0
+Beer,Old Milwaukee N.A.,1 can/bottle (354 ml),57.0,237.0
+Beer,Olde English,1 can/bottle (354 ml),159.0,669.0
+Beer,O’Doul’s (N.A.),1 can/bottle (354 ml),67.0,283.0
+Beer,Pabst Blue Ribbon,1 can/bottle (354 ml),145.0,609.0
+Beer,Pale Ale,1 can/bottle (354 ml),149.0,623.0
+Beer,Pilsner,1 can/bottle (354 ml),152.0,641.0
+Beer,Porter,1 can/bottle (354 ml),191.0,804.0
+Beer,Redbridge (Gluten-free),1 can/bottle (354 ml),159.0,669.0
+Beer,Rolling Rock,1 can/bottle (354 ml),131.0,549.0
+Beer,Rolling Rock Light,1 can/bottle (354 ml),106.0,446.0
+Beer,Root Beer,1 can/bottle (354 ml),145.0,609.0
+Beer,Samuel Adams,1 can/bottle (354 ml),159.0,669.0
+Beer,Shock Top,1 can/bottle (354 ml),166.0,697.0
+Beer,Shock Top Raspberry Wheat,1 can/bottle (354 ml),177.0,743.0
+Beer,Sierra Nevada Strong,1 can/bottle (354 ml),219.0,920.0
+Beer,Sparks,1 can/bottle (354 ml),262.0,1101.0
+Beer,St. Pauli Girl,1 can/bottle (354 ml),149.0,623.0
+Beer,Steel Reserve,1 can/bottle (354 ml),223.0,938.0
+Beer,Stout,1 can/bottle (354 ml),181.0,758.0
+Beer,Stout Beer,1 can/bottle (354 ml),181.0,758.0
+Beer,Strong Beer,1 can/bottle (354 ml),195.0,818.0
+Beer,Tilt,1 can/bottle (354 ml),227.0,952.0
+Beer,Wheat Beer,1 can/bottle (354 ml),159.0,669.0
+Cakes & Pies,Angel Food Cake,1 piece (28 g),72.0,304.0
+Cakes & Pies,Apple Cake,1 serving (100 g),252.0,1058.0
+Cakes & Pies,Apple Cobbler,1 serving (100 g),198.0,832.0
+Cakes & Pies,Apple Crisp,1 serving (100 g),156.0,655.0
+Cakes & Pies,Apple Crumble,1 serving (100 g),156.0,655.0
+Cakes & Pies,Apple Pie,1 slice (125 g),296.0,1244.0
+Cakes & Pies,Apple Strudel,1 piece (71 g),195.0,817.0
+Cakes & Pies,Apple Turnover,1 turnover (82 g),285.0,1199.0
+Cakes & Pies,Applesauce Cake,1 piece (62 g),222.0,932.0
+Cakes & Pies,Baked Alaska,1 piece (103 g),254.0,1068.0
+Cakes & Pies,Bakewell Tart,1 piece (59 g),254.0,1066.0
+Cakes & Pies,Banoffee Pie,1 serving (100 g),395.0,1659.0
+Cakes & Pies,Birthday Cake,1 piece (85 g),395.0,1660.0
+Cakes & Pies,Black and White Cookie,1 cookie (113 g),431.0,1808.0
+Cakes & Pies,Black Forest Cake,1 piece (107 g),282.0,1187.0
+Cakes & Pies,Blueberry Cobbler,1 slice (100 g),234.0,983.0
+Cakes & Pies,Blueberry Muffin,1 muffin (57 g),215.0,902.0
+Cakes & Pies,Blueberry Pie,1 piece (125 g),290.0,1218.0
+Cakes & Pies,Bundt Cake,1 slice (91 g),337.0,1414.0
+Cakes & Pies,Buttermilk Pie,1 piece (144 g),547.0,2298.0
+Cakes & Pies,Caramel Cake,1 slice (64 g),304.0,1277.0
+Cakes & Pies,Carrot Cake,1 piece (133 g),543.0,2280.0
+Cakes & Pies,Cheesecake,1 piece (80 g),257.0,1078.0
+Cakes & Pies,Cherry Pie,1 piece (125 g),325.0,1365.0
+Cakes & Pies,Chess Pie,1 piece (89 g),366.0,1536.0
+Cakes & Pies,Chocolate Cake,1 piece (138 g),537.0,2255.0
+Cakes & Pies,Chocolate Cream Pie,1 piece (99 g),301.0,1264.0
+Cakes & Pies,Chocolate Mousse Cake,1 piece (95 g),247.0,1037.0
+Cakes & Pies,Chocolate Mousse Pie,1 piece (95 g),247.0,1037.0
+Cakes & Pies,Chocolate Muffin,1 muffin (100 g),420.0,1764.0
+Cakes & Pies,Coconut Cake,1 piece (66 g),235.0,987.0
+Cakes & Pies,Coffee Cake,1 piece (90 g),298.0,1251.0
+Cakes & Pies,Cream Puff,1 cream puff (130 g),434.0,1824.0
+Cakes & Pies,Crumb Cake,1 piece (57 g),251.0,1056.0
+Cakes & Pies,Cupcake,1 cupcake (43 g),131.0,551.0
+Cakes & Pies,Danish Pastry,1 pastry (71 g),266.0,1115.0
+Cakes & Pies,Donut,1 donut (60 g),242.0,1016.0
+Cakes & Pies,Doughnut,1 doughnut (60 g),242.0,1016.0
+Cakes & Pies,Flan,1/2 cup (153 g),222.0,932.0
+Cakes & Pies,Flourless Chocolate Cake,1 piece (80 g),407.0,1710.0
+Cakes & Pies,French Cruller,1 cruller (41 g),169.0,709.0
+Cakes & Pies,Fruit Cake,1 piece (43 g),139.0,585.0
+Cakes & Pies,Funnel Cake,1 cake (90 g),276.0,1160.0
+Cakes & Pies,German Chocolate Cake,1 piece (110 g),407.0,1709.0
+Cakes & Pies,Gingerbread,1 piece (74 g),263.0,1106.0
+Cakes & Pies,Ice Cream Cake,1 piece (120 g),240.0,1008.0
+Cakes & Pies,Key Lime Pie,1 piece (80 g),287.0,1206.0
+Cakes & Pies,King Cake,1 piece (91 g),343.0,1441.0
+Cakes & Pies,Layer Cake,1 slice (107 g),430.0,1806.0
+Cakes & Pies,Lemon Cake,1 piece (66 g),232.0,975.0
+Cakes & Pies,Lemon Meringue Pie,1 piece (113 g),303.0,1272.0
+Cakes & Pies,Madeira Cake,1 slice (50 g),197.0,828.0
+Cakes & Pies,Marble Cake,1 piece (109 g),370.0,1552.0
+Cakes & Pies,Meringue,1 piece (127 g),362.0,1520.0
+Cakes & Pies,Opera Cake,1 piece (25 g),80.0,336.0
+Cakes & Pies,Paczki,1 paczki (85 g),286.0,1199.0
+Cakes & Pies,Pancake,1 pancake (38 g),86.0,362.0
+Cakes & Pies,Panettone,1 slice (50 g),180.0,756.0
+Cakes & Pies,Pavlova,1 serving (65 g),191.0,803.0
+Cakes & Pies,Peach Cobbler,1 tbsp (15 g),10.0,41.0
+Cakes & Pies,Peach Pie,1 piece (117 g),261.0,1096.0
+Cakes & Pies,Pecan Pie,1 slice (133 g),541.0,2273.0
+Cakes & Pies,Pineapple Upside-Down Cake,1 piece (115 g),367.0,1541.0
+Cakes & Pies,Plum Cake,1 piece (150 g),164.0,687.0
+Cakes & Pies,Poppy-Seed Cake,1 piece (90 g),355.0,1490.0
+Cakes & Pies,Pound Cake,1 serving (55 g),215.0,901.0
+Cakes & Pies,Profiterole,1 serving (113 g),377.0,1585.0
+Cakes & Pies,Puff Pastry,1 sheet (245 g),1367.0,5743.0
+Cakes & Pies,Pumpkin Bread,1 slice (60 g),179.0,751.0
+Cakes & Pies,Pumpkin Cheesecake,1 piece (100 g),340.0,1428.0
+Cakes & Pies,Pumpkin Pie,1 slice (133 g),323.0,1358.0
+Cakes & Pies,Raspberry Pie,1 piece (137 g),329.0,1381.0
+Cakes & Pies,Red Velvet Cake,1 piece (80 g),294.0,1233.0
+Cakes & Pies,Rhubarb Pie,1 piece (137 g),336.0,1410.0
+Cakes & Pies,Rum Cake,1 piece (57 g),200.0,840.0
+Cakes & Pies,Sacher Torte,1 piece (125 g),440.0,1848.0
+Cakes & Pies,Sponge Cake,1 piece (38 g),110.0,461.0
+Cakes & Pies,Strawberry Cheesecake,1 slice (61 g),199.0,838.0
+Cakes & Pies,Strawberry Pie,1 piece (167 g),384.0,1613.0
+Cakes & Pies,Strawberry Rhubarb Pie,1 piece (150 g),422.0,1770.0
+Cakes & Pies,Sweet Potato Pie,1 piece (131 g),341.0,1431.0
+Cakes & Pies,Swiss Roll,1 cake (31 g),136.0,572.0
+Cakes & Pies,Tarte Tatin,1 piece (100 g),210.0,882.0
+Cakes & Pies,Tiramisu,1 serving (174 g),492.0,2069.0
+Cakes & Pies,Tiramisu Cake,1 piece (108 g),314.0,1320.0
+Cakes & Pies,Treacle Tart,1 serving (100 g),369.0,1550.0
+Cakes & Pies,Tres Leches Cake,1 piece (120 g),295.0,1240.0
+Cakes & Pies,Trifle,1 serving (100 g),180.0,756.0
+Cakes & Pies,Victoria Sponge Cake,1 piece (28 g),72.0,302.0
+Cakes & Pies,Waffles,1 waffle (33 g),103.0,432.0
+Cakes & Pies,Wedding Cake,1 piece (109 g),415.0,1744.0
+Candy & Sweets,3 Musketeers,1 bar (60 g),240.0,1008.0
+Candy & Sweets,After Eight,1 after eight (8 g),36.0,152.0
+Candy & Sweets,Airheads,1 bar (16 g),60.0,252.0
+Candy & Sweets,Almond Roca,3 pieces (35 g),200.0,839.0
+Candy & Sweets,Angel Delight,1 sachet (59 g),266.0,1117.0
+Candy & Sweets,Animal Crackers,10 crackers (19 g),85.0,356.0
+Candy & Sweets,Baby Ruth,1 bar (21 g),98.0,414.0
+Candy & Sweets,Butterfinger,1 bar (60 g),270.0,1134.0
+Candy & Sweets,Buttermilk Pancakes,1 pancake (35 g),83.0,350.0
+Candy & Sweets,Candy Apple,1 apple (141 g),214.0,900.0
+Candy & Sweets,Candy Cane,1 piece (14 g),59.0,249.0
+Candy & Sweets,Candy canes,1 piece (14 g),59.0,249.0
+Candy & Sweets,Candy Corn,20 pieces (41 g),148.0,620.0
+Candy & Sweets,Candy Floss,1 bag (10 g),40.0,168.0
+Candy & Sweets,Caramel Popcorn,1 cup (43 g),162.0,679.0
+Candy & Sweets,Caramel squares,1 square (10 g),37.0,154.0
+Candy & Sweets,Celebrations,1 piece (9 g),44.0,185.0
+Candy & Sweets,Cheez-It’s,20 crackers (22 g),117.0,493.0
+Candy & Sweets,Chocolate,1 piece (7 g),37.0,156.0
+Candy & Sweets,Chocolate Bar,1 bar (45 g),240.0,1008.0
+Candy & Sweets,Chocolate Chips,1 tbsp (14 g),69.0,290.0
+Candy & Sweets,Cookies,1 cookie (16 g),78.0,328.0
+Candy & Sweets,Cotton Candy,1/2 bag (14 g),90.0,378.0
+Candy & Sweets,Eggy Bread,1 eggy bread (85 g),167.0,700.0
+Candy & Sweets,Fairy Cakes,1 cake (15 g),66.0,277.0
+Candy & Sweets,Ferrero Rocher,1 piece (12.5 g),69.0,290.0
+Candy & Sweets,Flapjack,1 bar (75 g),365.0,1531.0
+Candy & Sweets,Fortune Cookies,1 cookie (7 g),15.0,63.0
+Candy & Sweets,Granola Bars,1 bar (21 g),95.0,399.0
+Candy & Sweets,Gumdrops,20 pieces (74 g),238.0,998.0
+Candy & Sweets,Gummi Bears,20 pieces (54 g),171.0,717.0
+Candy & Sweets,Hanuta,1 hanuta (22 g),119.0,500.0
+Candy & Sweets,Hershey Kisses,10 pieces (50 g),236.0,989.0
+Candy & Sweets,Jelly Beans,10 pieces (30 g),106.0,446.0
+Candy & Sweets,Jelly Belly,10 pieces (30 g),106.0,446.0
+Candy & Sweets,Jolly Ranchers,1 piece (7 g),27.0,113.0
+Candy & Sweets,Jordan Almonds,20 pieces (65 g),279.0,1171.0
+Candy & Sweets,Kit Kat,1 bar (45 g),234.0,985.0
+Candy & Sweets,Laffy Taffy,1 bar (9 g),33.0,141.0
+Candy & Sweets,Licorice,5 pieces (29 g),109.0,457.0
+Candy & Sweets,LifeSavers,10 pieces (20 g),100.0,420.0
+Candy & Sweets,Lindt Chocolate,1 piece (5 g),27.0,115.0
+Candy & Sweets,Liquorice,5 pieces (29 g),109.0,457.0
+Candy & Sweets,Lollipop,1 lollipop (12 g),47.0,198.0
+Candy & Sweets,M&M’s,20 pieces (14 g),67.0,282.0
+Candy & Sweets,Maltesers,1 bag (37 g),184.0,774.0
+Candy & Sweets,Mars Bar,1 bar (45 g),202.0,847.0
+Candy & Sweets,Marshmallows,5 pieces (39 g),124.0,521.0
+Candy & Sweets,Marzipan,1 piece (20 g),82.0,345.0
+Candy & Sweets,Mike and Ike,20 pieces (37 g),133.0,559.0
+Candy & Sweets,Milk Duds,20 pieces (62 g),262.0,1099.0
+Candy & Sweets,Milky Way,1 bar (22 g),99.0,415.0
+Candy & Sweets,PayDay,1 bar (52 g),240.0,1009.0
+Candy & Sweets,Peanut Bar,1 bar (45 g),240.0,1008.0
+Candy & Sweets,Peanut Brittle,1/2 cup (36 g),66.0,277.0
+Candy & Sweets,Peanut Butter Bars,1 bar (77 g),292.0,1226.0
+Candy & Sweets,Peanut Butter Cookies,1 cookie  (20 g),95.0,399.0
+Candy & Sweets,Peppermint bark,1 piece (28 g),140.0,588.0
+Candy & Sweets,Pez,1 roll (8 g),34.0,143.0
+Candy & Sweets,Pop Rocks,1 bag (10 g),36.0,150.0
+Candy & Sweets,Popcorn,1 cup (11 g),64.0,269.0
+Candy & Sweets,Pumpkin Seeds,1 tbsp (10 g),56.0,235.0
+Candy & Sweets,Reeses Peanut Butter Cups,1 cup (28 g),150.0,630.0
+Candy & Sweets,Rice Pudding,1 cup (225 g),302.0,1267.0
+Candy & Sweets,Roasted Almonds,1 bar (21 g),95.0,399.0
+Candy & Sweets,Rolo,5 pieces (30 g),142.0,597.0
+Candy & Sweets,Semolina,1 tbsp (11 g),37.0,157.0
+Candy & Sweets,Skittles,20 pieces (22 g),89.0,374.0
+Candy & Sweets,Smarties,1 roll (7 g),25.0,105.0
+Candy & Sweets,Smores,1 bar (43 g),215.0,903.0
+Candy & Sweets,Snickers,1 bar (50 g),242.0,1017.0
+Candy & Sweets,Sour Patch Kids,20 pieces (37 g),134.0,564.0
+Candy & Sweets,Speculoos,1 cookie (8 g),38.0,158.0
+Candy & Sweets,Spritz Cookies,1 cookie (11 g),55.0,231.0
+Candy & Sweets,S’mores,1 bar (43 g),215.0,903.0
+Candy & Sweets,Take 5,1 bar (42 g),200.0,840.0
+Candy & Sweets,Toblerone,1 piece (9 g),47.0,198.0
+Candy & Sweets,Trifle,1/2 trifle (250 g),465.0,1953.0
+Candy & Sweets,Twix,1 bar (25 g),124.0,520.0
+Candy & Sweets,Waffles,1 waffle (35 g),95.0,400.0
+Candy & Sweets,Whoopie Pie,10 crackers (19 g),76.0,319.0
+Canned Fruit,Applesauce,1 cup (114 g),71.0,296.0
+Canned Fruit,Canned Apricots,1 cup (246 g),118.0,497.0
+Canned Fruit,Canned Blackberries,1 cup (256 g),236.0,988.0
+Canned Fruit,Canned Blueberries,1 cup (256 g),225.0,947.0
+Canned Fruit,Canned Cherries,1 cup (250 g),135.0,568.0
+Canned Fruit,Canned Cranberries,1 cup (275 g),490.0,2057.0
+Canned Fruit,Canned Crushed Pineapple,1 cup (225 g),119.0,502.0
+Canned Fruit,Canned Figs,1 cup (261 g),279.0,1172.0
+Canned Fruit,Canned Fruit Cocktail,1 cup (246 g),199.0,836.0
+Canned Fruit,Canned Fruit Salad,1 cup (259 g),130.0,544.0
+Canned Fruit,Canned Gooseberries,1 cup (252 g),184.0,774.0
+Canned Fruit,Canned Grapefruit,1 cup (249 g),92.0,386.0
+Canned Fruit,Canned Grapes,1 cup (256 g),195.0,817.0
+Canned Fruit,Canned Mandarin Oranges,1 container (113 g),80.0,337.0
+Canned Fruit,Canned Mango,1 cup (165 g),107.0,450.0
+Canned Fruit,Canned Mangosteen,1 cup (216 g),158.0,663.0
+Canned Fruit,Canned Mixed Fruit,1 can (113 g),80.0,337.0
+Canned Fruit,Canned Morello Cherries,1 cup (270 g),219.0,918.0
+Canned Fruit,Canned Oranges,1 can (113 g),70.0,294.0
+Canned Fruit,Canned Peaches,1/2 peach (98 g),53.0,222.0
+Canned Fruit,Canned Pears,1 cup (284 g),99.0,417.0
+Canned Fruit,Canned Pineapple,1 cup (232 g),139.0,585.0
+Canned Fruit,Canned Plums,1 plum (46 g),27.0,112.0
+Canned Fruit,Canned Raspberries,1 cup (256 g),233.0,978.0
+Canned Fruit,Canned Sliced Pineapple,1 cup (225 g),119.0,502.0
+Canned Fruit,Canned Sour Cherries,1 cup (261 g),298.0,1250.0
+Canned Fruit,Canned Strawberries,1 cup (254 g),234.0,980.0
+Canned Fruit,Canned Tangerines,1 cup (252 g),154.0,645.0
+Canned Fruit,Dried Fruit,2 oz. (56 g),136.0,572.0
+Cereal Products,Amaranth,1 cup (193 g),716.0,3007.0
+Cereal Products,Barley,1 cup (157 g),556.0,2335.0
+Cereal Products,Barley Groats,1 cup (31 g),31.0,130.0
+Cereal Products,Brown Rice,1 cup (195 g),757.0,3179.0
+Cereal Products,Buckwheat,1 cup (170 g),583.0,2450.0
+Cereal Products,Buckwheat Groats,1 cup (164 g),567.0,2383.0
+Cereal Products,Corn Waffles,1 waffle (40 g),110.0,460.0
+Cereal Products,Cornmeal,1 cup (122 g),442.0,1854.0
+Cereal Products,Cornstarch,1 cup (128 g),488.0,2048.0
+Cereal Products,Couscous,1 cup (173 g),650.0,2732.0
+Cereal Products,Cracker,1 cracker (7 g),35.0,148.0
+Cereal Products,Durum Wheat Semolina,1 tbsp (30 g),119.0,500.0
+Cereal Products,Flaxseed,1 cup (168 g),897.0,3768.0
+Cereal Products,Freekeh,1 cup (160 g),832.0,3494.0
+Cereal Products,Gluten,1 oz. (28 g),104.0,435.0
+Cereal Products,Grissini,1 grissini (5 g),20.0,86.0
+Cereal Products,Kamut,1 cup (186 g),627.0,2632.0
+Cereal Products,Millet,1 cup (128 g),484.0,2033.0
+Cereal Products,Millet Flour,1 cup (140 g),521.0,2187.0
+Cereal Products,Millet Gruel,1 cup (174 g),80.0,336.0
+Cereal Products,Oat Bran,1 cup  (94 g),231.0,971.0
+Cereal Products,Pearl Barley,1 cup (157 g),553.0,2320.0
+Cereal Products,Polenta,1 cup (150 g),549.0,2306.0
+Cereal Products,Prawn Crackers,1 cracker (3 g),16.0,66.0
+Cereal Products,Pretzel Sticks,20 sticks (12 g),46.0,192.0
+Cereal Products,Quinoa,1 cup (170 g),626.0,2628.0
+Cereal Products,Rusk,1 rusk (10 g),41.0,172.0
+Cereal Products,Rye Bran,1 cup (150 g),422.0,1770.0
+Cereal Products,Sago,1 oz. (28 g),99.0,416.0
+Cereal Products,Savoury Biscuits,40 grams (40 g),139.0,583.0
+Cereal Products,Shortbread,1 cookie (19 g),95.0,401.0
+Cereal Products,Spelt,1 cup (174 g),588.0,2471.0
+Cereal Products,Spelt Bran,1 cup (160 g),283.0,1189.0
+Cereal Products,Spelt Semolina,1 cup (167 g),601.0,2525.0
+Cereal Products,Sunflower Seeds,1 cup (140 g),818.0,3434.0
+Cereal Products,Tortilla,1 tortilla (197 g),467.0,1960.0
+Cereal Products,Tortilla Chips,20 chips (32 g),160.0,671.0
+Cereal Products,Wheat Bran,1 cup (58 g),125.0,526.0
+Cereal Products,Wheat Germ,1 cup (113 g),432.0,1813.0
+Cereal Products,Wheat Gluten,1 tsp (3 g),10.0,41.0
+Cereal Products,Wheat Semolina,1 cup (167 g),601.0,2525.0
+Cereal Products,Wheat Starch,1 cup (110 g),386.0,1621.0
+Cereal Products,Whole Grain Wheat,1 cup (120 g),407.0,1709.0
+Cereal Products,Wholegrain Oat,1 cup (80 g),300.0,1260.0
+Cheese,American Cheese,1 slice (21 g),31.0,131.0
+Cheese,Applewood,1 slice (20 g),82.0,344.0
+Cheese,Asiago Cheese,1 oz. (28.35 g),110.0,461.0
+Cheese,Babybel,1 piece (21 g),70.0,294.0
+Cheese,Blue Cheese,1 oz. (28.35 g),99.0,415.0
+Cheese,Brie,1 slice (30 g),100.0,421.0
+Cheese,Camembert,1 slice (30 g),90.0,378.0
+Cheese,Cheddar,1 slice (22 g),89.0,372.0
+Cheese,Cheese Fondue,1 packet (400 g),912.0,3832.0
+Cheese,Cheese Spread,1 tbsp (15 g),44.0,183.0
+Cheese,Cheese Whiz,1 tbsp (33 g),91.0,382.0
+Cheese,Chester,1 oz. (28.35 g),108.0,455.0
+Cheese,Colby Cheese,1 cup (132 g),520.0,2185.0
+Cheese,Colby-Jack Cheese,1 cup (132 g),520.0,2185.0
+Cheese,Cottage Cheese,1 cup (210 g),206.0,865.0
+Cheese,Dutch Cheese,1 oz. (28.35 g),110.0,462.0
+Cheese,Edam Cheese,1 package (198 g),707.0,2968.0
+Cheese,Emmentaler,1 slice (25 g),89.0,375.0
+Cheese,Feta,1 oz. (28.35 g),74.0,311.0
+Cheese,Fontina,1 slice (30 g),117.0,490.0
+Cheese,Fresh Mozzarella,1 slice (28 g),78.0,329.0
+Cheese,Gjetost,1 package (227 g),1058.0,4442.0
+Cheese,Goat Cheese,1 oz. (28.35 g),102.0,428.0
+Cheese,Gorgonzola,1 oz. (28.35 g),98.0,412.0
+Cheese,Gouda,1 package (198 g),705.0,2960.0
+Cheese,Grated Parmesan,1 tsp (5 g),22.0,91.0
+Cheese,Grilled Cheese,1 piece (83 g),291.0,1220.0
+Cheese,Gruyere,1 slice (25 g),103.0,434.0
+Cheese,Halloumi,1 oz. (28.35 g),90.0,377.0
+Cheese,Havarti,1 slice (28 g),104.0,436.0
+Cheese,Italian Cheese,1 serving (30 g),119.0,500.0
+Cheese,Jarlsberg,1 oz. (28.35 g),99.0,414.0
+Cheese,Maasdam Cheese,1 slice (18 g),62.0,260.0
+Cheese,Manchego Cheese,1 serving (28 g),90.0,376.0
+Cheese,Monterey,1 cup (132 g),492.0,2068.0
+Cheese,Monterey Jack Cheese,1 cup (132 g),492.0,2068.0
+Cheese,Mozzarella,1 slice (28 g),78.0,329.0
+Cheese,Muenster Cheese,1 slice (28 g),103.0,433.0
+Cheese,Neufchatel,1 package (85 g),215.0,904.0
+Cheese,Parmesan,1 tsp (5 g),22.0,91.0
+Cheese,Pecorino,1 tbsp (5 g),19.0,81.0
+Cheese,Provolone,1 slice (28 g),98.0,413.0
+Cheese,Raclette Cheese,1 slice (25 g),89.0,375.0
+Cheese,Ricotta,1 cup (246 g),428.0,1798.0
+Cheese,Romano,5 package (142 g),550.0,2308.0
+Cheese,Roquefort,1 oz. (28.35 g),103.0,434.0
+Cheese,Sheep Cheese,1 oz. (28.35 g),102.0,428.0
+Cheese,Soft Cheese,1 oz. (28.35 g),75.0,315.0
+Cheese,Stilton Cheese,1 oz. (28.35 g),110.0,462.0
+Cheese,String Cheese,1 stick (28 g),70.0,294.0
+Cheese,Swiss Cheese,1 slice (25 g),95.0,399.0
+Cheese,White Cheddar,1 cup (132 g),532.0,2235.0
+Cheese,Wisconsin Cheese,1 oz. (28.35 g),109.0,458.0
+Cold Cuts & Lunch Meat,Baked Ham,1 slice (21 g),72.0,303.0
+Cold Cuts & Lunch Meat,Beef Salami,1 slice (10 g),38.0,158.0
+Cold Cuts & Lunch Meat,Boiled Ham,1 slice (21 g),26.0,111.0
+Cold Cuts & Lunch Meat,Bologna,1 slice (23 g),57.0,239.0
+Cold Cuts & Lunch Meat,Bresaola,1 slice (9 g),16.0,67.0
+Cold Cuts & Lunch Meat,Capicola,1 slice (21 g),23.0,97.0
+Cold Cuts & Lunch Meat,Chicken Breast Fillet,1 slice (21 g),17.0,70.0
+Cold Cuts & Lunch Meat,Chopped Ham,1 slice (28 g),50.0,212.0
+Cold Cuts & Lunch Meat,Chorizo,1 oz. (28.35 g),127.0,535.0
+Cold Cuts & Lunch Meat,Corned Beef,1 slice (21 g),53.0,221.0
+Cold Cuts & Lunch Meat,Dutch Loaf,1 slice (21 g),56.0,236.0
+Cold Cuts & Lunch Meat,Ham,1 slice (23 g),33.0,140.0
+Cold Cuts & Lunch Meat,Ham Sausage,1 slice (23 g),38.0,158.0
+Cold Cuts & Lunch Meat,Head Cheese,1 slice (28 g),44.0,185.0
+Cold Cuts & Lunch Meat,Hickory Ham,1 slice (21 g),39.0,166.0
+Cold Cuts & Lunch Meat,Honey Ham,1 slice (22 g),27.0,113.0
+Cold Cuts & Lunch Meat,Liverwurst,1 slice (18 g),59.0,246.0
+Cold Cuts & Lunch Meat,Olive Loaf,1 slice (23 g),53.0,224.0
+Cold Cuts & Lunch Meat,Oven-Roasted Turkey Breast,1 slice (21 g),22.0,92.0
+Cold Cuts & Lunch Meat,Parma Ham,1 slice (11 g),38.0,159.0
+Cold Cuts & Lunch Meat,Pastrami,1 slice (29 g),39.0,162.0
+Cold Cuts & Lunch Meat,Pepperoni,1 slice (2 g),10.0,42.0
+Cold Cuts & Lunch Meat,Pimento Loaf,1 slice (28 g),74.0,312.0
+Cold Cuts & Lunch Meat,Pork Roast,1 slice (21 g),52.0,218.0
+Cold Cuts & Lunch Meat,Prosciutto,1 slice (9 g),18.0,74.0
+Cold Cuts & Lunch Meat,Roast Beef,1 slice (21 g),56.0,235.0
+Cold Cuts & Lunch Meat,Salami,1 slice (12.3 g),40.0,169.0
+Cold Cuts & Lunch Meat,Serrano Ham,1 slice (15 g),45.0,189.0
+Cold Cuts & Lunch Meat,Smoked Ham,1 slice (21 g),22.0,94.0
+Cold Cuts & Lunch Meat,Smoked Turkey Breast,1 slice (21 g),22.0,92.0
+Cold Cuts & Lunch Meat,Summer Sausage,1 slice (21 g),63.0,263.0
+Cold Cuts & Lunch Meat,Tongue,1 slice (28 g),80.0,334.0
+Cold Cuts & Lunch Meat,Turkey Breast,1 slice (21 g),22.0,92.0
+Cold Cuts & Lunch Meat,Turkey Ham,1 slice (21 g),26.0,111.0
+Cold Cuts & Lunch Meat,Turkey Salami,1 slice (23 g),35.0,147.0
+Cream Cheese,Chive Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Cottage Cheese,1 cup (226 g),221.0,931.0
+Cream Cheese,Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Cream Cheese with Herbs,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Feta Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Garlic Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Goat Cheese,1 tsp (10 g),36.0,153.0
+Cream Cheese,Horseradish,1 tbsp (15 g),7.0,30.0
+Cream Cheese,Mascarpone,1 tbsp (14.5 g),63.0,265.0
+Cream Cheese,Obatzda,1 tbsp (15 g),45.0,191.0
+Cream Cheese,Olive Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Pesto Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Philadelphia Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Pineapple Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Salmon Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Vegetable Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Cream Cheese,Walnut Cream Cheese,1 tbsp (14.5 g),48.0,201.0
+Dishes & Meals,Baby Back Ribs,1 serving (139 g),360.0,1512.0
+Dishes & Meals,Bacon and Eggs,1 serving (214 g),539.0,2264.0
+Dishes & Meals,Baked Beans,1 cup (260 g),244.0,1027.0
+Dishes & Meals,Baked Chicken,1 breast (172 g),282.0,1185.0
+Dishes & Meals,BBQ Ribs,1 rib (141 g),360.0,1510.0
+Dishes & Meals,Beef Stew,1 cup (196 g),186.0,782.0
+Dishes & Meals,Biryani,1 cup (275 g),484.0,2032.0
+Dishes & Meals,Black Pudding,1 pudding (40 g),101.0,425.0
+Dishes & Meals,Black Rice,1/2 cup (100 g),323.0,1357.0
+Dishes & Meals,BLT,1 item (240 g),593.0,2489.0
+Dishes & Meals,Brown Rice,1 cup (185 g),670.0,2812.0
+Dishes & Meals,Burrito,1 burrito (200 g),326.0,1370.0
+Dishes & Meals,Butter Chicken,1 tray (350 g),490.0,2058.0
+Dishes & Meals,California Roll,1 roll (35 g),33.0,137.0
+Dishes & Meals,Chicken Caesar Salad,1 salad (309 g),392.0,1647.0
+Dishes & Meals,Chicken Fried Steak,1 steak  (280 g),423.0,1775.0
+Dishes & Meals,Chicken Marsala,1 serving (2301 g),2209.0,9273.0
+Dishes & Meals,Chicken Parmesan,1 piece (227 g),250.0,1049.0
+Dishes & Meals,Chicken Pot Pie,1 pie (302 g),673.0,2830.0
+Dishes & Meals,Chicken Tikka Masala,1 serving (241 g),195.0,819.0
+Dishes & Meals,Chili con Carne,1 cup (253 g),266.0,1116.0
+Dishes & Meals,Chimichanga,1 item (180 g),418.0,1753.0
+Dishes & Meals,Cobb Salad,1 serving (536 g),632.0,2659.0
+Dishes & Meals,Collard Greens,1 cup (45 g),13.0,53.0
+Dishes & Meals,Corn Dog,1 item (175 g),438.0,1838.0
+Dishes & Meals,Corned Beef Hash,1 can (213 g),349.0,1468.0
+Dishes & Meals,Cottage Pie,1 pie (376 g),523.0,2196.0
+Dishes & Meals,Dal,1/2 cup (92 g),304.0,1275.0
+Dishes & Meals,Deviled Eggs,1/2 egg (31 g),62.0,262.0
+Dishes & Meals,Dim Sum,1 piece (19 g),37.0,154.0
+Dishes & Meals,Dosa,1 serving (435 g),287.0,1205.0
+Dishes & Meals,Enchiladas,1 enchilada (192 g),323.0,1356.0
+Dishes & Meals,Fajita,1 serving (248 g),290.0,1218.0
+Dishes & Meals,Fish and Chips,1 serving (300 g),585.0,2457.0
+Dishes & Meals,Fried Rice,1 serving (356 g),662.0,2780.0
+Dishes & Meals,Fried Shrimp,1 shrimp (27 g),75.0,314.0
+Dishes & Meals,Grilled Cheese Sandwich,1 sandwich (136 g),392.0,1646.0
+Dishes & Meals,Ham and Cheese Sandwich,1 sandwich (146 g),352.0,1478.0
+Dishes & Meals,Hummus,1 cup (246 g),435.0,1828.0
+Dishes & Meals,Jambalaya,1 cup (250 g),250.0,1050.0
+Dishes & Meals,Kebab,1 kebab (360 g),774.0,3251.0
+Dishes & Meals,Lasagne,1 serving (215 g),284.0,1191.0
+Dishes & Meals,Mac and Cheese,1 serving (189 g),699.0,2937.0
+Dishes & Meals,Macaroni and Cheese,1 serving (189 g),699.0,2937.0
+Dishes & Meals,Mashed Potatoes,1 cup (210 g),174.0,733.0
+Dishes & Meals,Meat Pie,1 pie (120 g),290.0,1219.0
+Dishes & Meals,Meatloaf,1 loaf (284 g),721.0,3030.0
+Dishes & Meals,Naan,1 bread (84 g),260.0,1094.0
+Dishes & Meals,Orange Chicken,1 serving (162 g),420.0,1763.0
+Dishes & Meals,Pad Thai,1 cup (250 g),375.0,1575.0
+Dishes & Meals,Paella,1/2 package (128 g),200.0,838.0
+Dishes & Meals,Paratha,1 paratha (80 g),260.0,1092.0
+Dishes & Meals,Pea Soup,1 cup (253 g),190.0,797.0
+Dishes & Meals,Peanut Butter Sandwich,1 sandwich (49 g),200.0,840.0
+Dishes & Meals,Peking Duck,1/2 duck (178 g),401.0,1682.0
+Dishes & Meals,Philly Cheese Steak,1 sandwich (120 g),300.0,1260.0
+Dishes & Meals,Pizza,1 slice (102 g),272.0,1143.0
+Dishes & Meals,Pork Chop,1 chop (131 g),295.0,1238.0
+Dishes & Meals,Potato Salad,1/3 cup (95 g),136.0,571.0
+Dishes & Meals,Pulled Pork Sandwich,1 sandwich (261 g),551.0,2312.0
+Dishes & Meals,Ramen,"1 package, dry (85 g)",380.0,1595.0
+Dishes & Meals,Ravioli,5 ravioli (66 g),134.0,563.0
+Dishes & Meals,Reuben Sandwich,1 sandwich (308 g),641.0,2692.0
+Dishes & Meals,Roast Beef,1 slice (21 g),23.0,98.0
+Dishes & Meals,Roast Dinner,1 slice (121 g),240.0,1007.0
+Dishes & Meals,Samosa,1 samosa (50 g),107.0,450.0
+Dishes & Meals,Sausage Roll,1 roll (103 g),361.0,1514.0
+Dishes & Meals,Sausage Rolls,1 roll (34 g),101.0,424.0
+Dishes & Meals,Shepherds Pie,1 pie (227 g),159.0,667.0
+Dishes & Meals,Shrimp Cocktail,1 oz. (28 g),130.0,546.0
+Dishes & Meals,Sloppy Joe,1/2 cup (142 g),101.0,423.0
+Dishes & Meals,Sloppy Joes,1 bun (258 g),397.0,1669.0
+Dishes & Meals,Spaghetti Bolognese,1 serving (283 g),374.0,1568.0
+Dishes & Meals,Spring Roll,1 roll (140 g),350.0,1470.0
+Dishes & Meals,Spring Rolls,1 roll (140 g),350.0,1470.0
+Dishes & Meals,Taco,1 taco (98 g),213.0,893.0
+Dishes & Meals,Tandoori Chicken,1 serving (175 g),198.0,831.0
+Dishes & Meals,Yorkshire Pudding,1 pudding (15 g),83.0,348.0
+Fast Food,Arby’s Grand Turkey Club,1 sandwich (233 g),489.0,2055.0
+Fast Food,Arby’s Reuben,1 sandwich (308 g),641.0,2692.0
+Fast Food,Arby’s Roast Beef Classic,1 burger (154 g),360.0,1514.0
+Fast Food,Arby’s Roast Beef Max,1 burger (154 g),360.0,1514.0
+Fast Food,BBQ Rib,1 rib (67 g),142.0,596.0
+Fast Food,Bean Burrito,1 burrito (190 g),380.0,1596.0
+Fast Food,Big N’ Tasty,1 sandwich (232 g),517.0,2174.0
+Fast Food,Bratwurst,1 piece (85 g),283.0,1189.0
+Fast Food,Burger King Angry Whopper,1 burger (290 g),740.0,3106.0
+Fast Food,Burger King Double Whopper,1 burger (374 g),894.0,3755.0
+Fast Food,Burger King Double Whopper with Cheese,1 sandwich (399 g),994.0,4174.0
+Fast Food,Burger King Original Chicken Sandwich,1 sandwich (219 g),659.0,2768.0
+Fast Food,Burger King Premium Alaskan Fish Sandwich,1 burger (228 g),591.0,2481.0
+Fast Food,Burger King Triple Whopper,1 burger (547 g),1471.0,6181.0
+Fast Food,Burger King Whopper,1 burger (291 g),672.0,2823.0
+Fast Food,Burger King Whopper Jr.,1 burger (148 g),346.0,1455.0
+Fast Food,Burger King Whopper with Cheese,1 burger (315 g),759.0,3188.0
+Fast Food,Cheeseburger,1 burger (156 g),410.0,1724.0
+Fast Food,Chicken Breast,1 piece (71 g),116.0,486.0
+Fast Food,Chicken Fajita,1 sandwich (222 g),326.0,1370.0
+Fast Food,Chicken McNuggets,1 nugget (16 g),48.0,203.0
+Fast Food,Chicken Nuggets,1 piece (20 g),59.0,249.0
+Fast Food,Chicken Pizziola,1 sandwich (320 g),451.0,1894.0
+Fast Food,Chicken Sandwich,1 sandwich (170 g),410.0,1720.0
+Fast Food,Chicken Teriyaki Sandwich,1 sandwich (266 g),367.0,1543.0
+Fast Food,Chicken Wings,1 piece (29 g),94.0,395.0
+Fast Food,Chop Suey,1 serving (340 g),585.0,2455.0
+Fast Food,Curly Fries,1 serving (128 g),398.0,1672.0
+Fast Food,Double Cheeseburger,1 burger (155 g),414.0,1738.0
+Fast Food,Egg Roll,1 roll (80 g),200.0,840.0
+Fast Food,Falafel,1 patty (17 g),57.0,239.0
+Fast Food,Filet-o-Fish,1 sandwich (142 g),400.0,1681.0
+Fast Food,Fish and Chips,1 serving (300 g),585.0,2457.0
+Fast Food,Fish Sandwich,1 sandwich (158 g),431.0,1812.0
+Fast Food,French Fries,1 serving (71 g),222.0,930.0
+Fast Food,Grilled Chicken Salad,1 salad (305 g),268.0,1129.0
+Fast Food,Ham Sandwich,1 sandwich (146 g),352.0,1478.0
+Fast Food,Hamburger,1 sandwich (110 g),279.0,1174.0
+Fast Food,Hot Dog,1 hot dog (116 g),312.0,1311.0
+Fast Food,Italian BMT,1 sandwich (224 g),410.0,1723.0
+Fast Food,Lasagna,1 piece (130 g),172.0,720.0
+Fast Food,McDonald’s Big Mac,1 burger (219 g),561.0,2354.0
+Fast Food,McDonald’s Cheeseburger,1 sandwich (114 g),300.0,1260.0
+Fast Food,McDonald’s Chicken Nuggets,1 nugget (16 g),48.0,200.0
+Fast Food,McDonald’s Double Cheeseburger,1 burger (155 g),437.0,1835.0
+Fast Food,McDonald’s Filet-o-Fish,1 sandwich (142 g),391.0,1640.0
+Fast Food,McDonald’s McChicken,1 burger (143 g),359.0,1507.0
+Fast Food,McDonald’s McDouble,1 burger (160 g),403.0,1693.0
+Fast Food,McDonald’s McMuffi Egg,1 burger (129 g),290.0,1219.0
+Fast Food,McDonald’s McRib,1 sandwich (170 g),451.0,1892.0
+Fast Food,McDonald’s Mighty Wings,1 wing (31 g),95.0,401.0
+Fast Food,McRib,1 sandwich (170 g),451.0,1892.0
+Fast Food,Meatball Sandwich,1 sandwich (299 g),481.0,2021.0
+Fast Food,Nachos with Cheese,10 nachos (188 g),575.0,2416.0
+Fast Food,Onion Rings,1 ring (6.5 g),25.0,104.0
+Fast Food,Poutine,1 serving (225 g),511.0,2144.0
+Fast Food,Smoked Salmon,1 oz. (28.35 g),44.0,186.0
+Fast Food,Spicy Italian,1 sandwich (219 g),480.0,2015.0
+Fast Food,Subway Club Sandwich,1 sandwich (238 g),312.0,1309.0
+Fast Food,Tortilla Wrap,1 wrap (63 g),171.0,717.0
+Fast Food,Tuna,1 oz. (28.35 g),24.0,101.0
+Fast Food,Turkey,1 oz. (28.35 g),29.0,122.0
+Fast Food,Veggie Burger,1 burger (215 g),389.0,1634.0
+Fast Food,Veggie Delight,1 sandwich (166 g),229.0,963.0
+Fast Food,Veggie Patty,1 sandwich (247 g),963.0,4046.0
+Fast Food,Wendy’s Baconator,1 burger (276 g),839.0,3525.0
+Fast Food,Wendy’s Jr. Bacon Cheeseburger,1 burger (161 g),420.0,1765.0
+Fast Food,Wendy’s Jr. Cheeseburger,1 burger (129 g),290.0,1219.0
+Fast Food,Wendy’s Son of Baconator,1 burger (218 g),700.0,2939.0
+Fast Food,Whopper,1 burger (291 g),672.0,2823.0
+Fast Food,Zinger,1 sandwich (202 g),517.0,2172.0
+Fast Food,Zinger Burger,1 sandwich (202 g),517.0,2172.0
+Fish & Seafood,Anchovy,3 oz. (85 g),111.0,468.0
+Fish & Seafood,Bluefish,1 fillet (117 g),186.0,782.0
+Fish & Seafood,Bream,1 serving (125 g),169.0,709.0
+Fish & Seafood,Butterfish,1 fillet (25 g),47.0,196.0
+Fish & Seafood,Calamari,1 piece (12 g),21.0,88.0
+Fish & Seafood,Carp,1 fillet (170 g),275.0,1156.0
+Fish & Seafood,Caviar,1 tbsp (16 g),42.0,177.0
+Fish & Seafood,Clam,3 oz. (85 g),126.0,529.0
+Fish & Seafood,Cod,1 fillet (180 g),189.0,794.0
+Fish & Seafood,Crawfish,1 crawfish (12 g),10.0,41.0
+Fish & Seafood,Crayfish,3 oz. (85 g),74.0,310.0
+Fish & Seafood,Eel,1 oz. (28.4 g),66.0,277.0
+Fish & Seafood,Fish Fingers,1 stick (28 g),81.0,341.0
+Fish & Seafood,Fish Sticks,1 stick (28 g),81.0,341.0
+Fish & Seafood,Flounder,1 fillet (127 g),109.0,458.0
+Fish & Seafood,Grouper,1 fillet (202 g),238.0,1002.0
+Fish & Seafood,Haddock,1 fillet (150 g),135.0,567.0
+Fish & Seafood,Hake,1 fillet (113 g),80.0,337.0
+Fish & Seafood,Halibut,1/2 fillet (200 g),222.0,932.0
+Fish & Seafood,Herring,1 fillet (143 g),290.0,1220.0
+Fish & Seafood,Hoki,1 serving (70 g),85.0,356.0
+Fish & Seafood,Kipper,1 fillet (40 g),87.0,364.0
+Fish & Seafood,Ling,1 fillet (151 g),165.0,692.0
+Fish & Seafood,Lobster,1 lobster (150 g),134.0,561.0
+Fish & Seafood,Mackerel,1 fillet (88 g),231.0,968.0
+Fish & Seafood,Milkfish,3 oz. (85 g),162.0,678.0
+Fish & Seafood,Monkfish,3 oz. (85 g),82.0,346.0
+Fish & Seafood,Mullet,1 fillet (93 g),140.0,586.0
+Fish & Seafood,Mussel,3 oz. (85 g),146.0,614.0
+Fish & Seafood,Octopus,3 oz. (85 g),139.0,586.0
+Fish & Seafood,Pickerel,1 fillet (127 g),141.0,592.0
+Fish & Seafood,Pickled Herring,1 cup (140 g),367.0,1540.0
+Fish & Seafood,Pike,1/2 fillet (155 g),175.0,736.0
+Fish & Seafood,Plaice,1 serving (100 g),91.0,382.0
+Fish & Seafood,Pollack,1/2 fillet (151 g),168.0,704.0
+Fish & Seafood,Red Snapper,1 fillet (170 g),218.0,915.0
+Fish & Seafood,Redfish,1 serving (57 g),54.0,225.0
+Fish & Seafood,Rollmops,1 rollmops (65 g),111.0,467.0
+Fish & Seafood,Salmon,1/2 fillet (178 g),367.0,1540.0
+Fish & Seafood,Sardines,1 cup (149 g),310.0,1302.0
+Fish & Seafood,Scallops,1 scallop (10 g),11.0,47.0
+Fish & Seafood,Scampi,1 scampi (10 g),8.0,35.0
+Fish & Seafood,Sea Bass,1 fillet (124 g),154.0,646.0
+Fish & Seafood,Shad,1 fillet (144 g),363.0,1524.0
+Fish & Seafood,Shark,3 oz. (85 g),111.0,464.0
+Fish & Seafood,Smelt,3 oz. (85 g),105.0,443.0
+Fish & Seafood,Sole,1 fillet (127 g),109.0,458.0
+Fish & Seafood,Squid,1 oz. (28.4 g),26.0,108.0
+Fish & Seafood,Sturgeon,1 cup (136 g),184.0,771.0
+Fish & Seafood,Sushi,1 piece (26 g),39.0,164.0
+Fish & Seafood,Swordfish,1 piece (106 g),182.0,765.0
+Fish & Seafood,Triggerfish,1 oz. (28.4 g),26.0,109.0
+Fish & Seafood,Trout,1 fillet (62 g),118.0,495.0
+Fish & Seafood,Tuna,1/2 fillet (154 g),203.0,853.0
+Fish & Seafood,Tuna Salad,1 cup (205 g),383.0,1609.0
+Fish & Seafood,Turbot,1/2 fillet (159 g),194.0,814.0
+Fish & Seafood,Wahoo,1 serving (100 g),167.0,701.0
+Fish & Seafood,Whitefish,1 fillet (154 g),265.0,1112.0
+Fish & Seafood,Whiting,1 fillet (72 g),84.0,351.0
+Fish & Seafood,Zander,1 fillet (62 g),52.0,219.0
+Fruits,Acai,1 oz. (28.35 g),20.0,82.0
+Fruits,Apple,1 apple (182 g),95.0,397.0
+Fruits,Applesauce,1 cup (246 g),167.0,704.0
+Fruits,Apricot,1 apricot (35 g),17.0,71.0
+Fruits,Avocado,1 avocado (200 g),320.0,1344.0
+Fruits,Banana,1 banana (125 g),111.0,468.0
+Fruits,Blackberries,1 cup (144 g),62.0,261.0
+Fruits,Blood Oranges,1 serving (140 g),70.0,294.0
+Fruits,Blueberries,1 cup (148 g),84.0,354.0
+Fruits,Cantaloupe,1 wedge (69 g),23.0,99.0
+Fruits,Cherries,1 cherry (8 g),4.0,17.0
+Fruits,Clementine,1 clementine (74 g),35.0,146.0
+Fruits,Cranberries,1 cup (100 g),46.0,193.0
+Fruits,Currants,1 cup (112 g),63.0,263.0
+Fruits,Custard Apple,1 custard apple (135 g),136.0,572.0
+Fruits,Dates,1 date (7.1 g),20.0,83.0
+Fruits,Figs,1 fig (50 g),37.0,156.0
+Fruits,Fruit salad,1 cup (249 g),125.0,523.0
+Fruits,Grapes,1 cup (151 g),104.0,438.0
+Fruits,Greengage,1 fruit (5 g),2.0,9.0
+Fruits,Guava,1 guava (55 g),37.0,157.0
+Fruits,Jackfruit,1 cup (151 g),143.0,602.0
+Fruits,Jujube,1 oz. (28.35 g),22.0,93.0
+Fruits,Kiwi,1 liwi (183 g),112.0,468.0
+Fruits,Lemon,1 lemon (58 g),17.0,71.0
+Fruits,Lime,1 lime (67 g),20.0,84.0
+Fruits,Lychees,1 lychee (10 g),7.0,28.0
+Fruits,Mandarin Oranges,1 mandarin orange (88 g),47.0,196.0
+Fruits,Mango,1 mango (336 g),202.0,847.0
+Fruits,Minneola,1 minneola (109 g),70.0,293.0
+Fruits,Mulberries,1 cup (140 g),60.0,253.0
+Fruits,Nectarine,1 nectarine (150 g),66.0,278.0
+Fruits,Olives,1 olive (2.7 g),2.0,10.0
+Fruits,Orange,1 orange (131 g),62.0,258.0
+Fruits,Papaya,1 fruit (500 g),215.0,905.0
+Fruits,Passion Fruit,1 passoin fruit (18 g),17.0,73.0
+Fruits,Peach,1 peach (150 g),59.0,246.0
+Fruits,Pear,1 pear (178 g),101.0,425.0
+Fruits,Persimmon,1 fruit (25 g),32.0,133.0
+Fruits,Physalis,1 berry (5 g),2.0,10.0
+Fruits,Pineapple,1 pineapple (905 g),453.0,1901.0
+Fruits,Plantains,1 plantain (179 g),218.0,916.0
+Fruits,Plum,1 plum (66 g),30.0,127.0
+Fruits,Pomegranate,1 pomegranate (282 g),234.0,984.0
+Fruits,Quince,1 quince (92 g),52.0,220.0
+Fruits,Raisins,1 cup (145 g),434.0,1821.0
+Fruits,Rambutan,1 rambutan (9 g),7.0,31.0
+Fruits,Raspberries,1 cup (123 g),64.0,268.0
+Fruits,Rhubarb,1 stalk (51 g),11.0,45.0
+Fruits,Starfruit,1 star fruit (91 g),28.0,118.0
+Fruits,Strawberries,1 cup (152 g),49.0,204.0
+Fruits,Tamarind,1 tamarind (2 g),5.0,20.0
+Fruits,Tangerine,1 tangerine (88 g),47.0,196.0
+Fruits,Watermelon,1 wedge (286 g),86.0,360.0
+Herbs & Spices,Almond Extract,1 tbsp (10 ml),37.0,157.0
+Herbs & Spices,Anise,1 tsp (2.1 g),7.0,28.0
+Herbs & Spices,Anise Seed,1 tsp (2.1 g),7.0,28.0
+Herbs & Spices,Arrowroot,1 root (33 g),21.0,90.0
+Herbs & Spices,Arugula,1 leaf (2 g),1.0,2.0
+Herbs & Spices,Balsamic Vinegar,1 tbsp (16 ml),14.0,59.0
+Herbs & Spices,Black Pepper,1 tsp (2.4 g),5.0,21.0
+Herbs & Spices,Black Sesame Seeds,1 tbsp (9 g),52.0,217.0
+Herbs & Spices,Broth,1 tsp (5 g),5.0,21.0
+Herbs & Spices,Capers,1 tbsp (8.6 g),2.0,8.0
+Herbs & Spices,Caraway Seeds,1 tbsp (6.7 g),20.0,84.0
+Herbs & Spices,Cardamom,1 tbsp (5.8 g),16.0,65.0
+Herbs & Spices,Cassava,1 root (408 g),653.0,2742.0
+Herbs & Spices,Cayenne Pepper,1 tsp (1.8 g),3.0,13.0
+Herbs & Spices,Chard,1 leaf (48 g),9.0,38.0
+Herbs & Spices,Chicory Greens,1 cup (29 g),7.0,28.0
+Herbs & Spices,Chicory Roots,1 root (60 g),43.0,181.0
+Herbs & Spices,Chili,1 tbsp (8 g),23.0,95.0
+Herbs & Spices,Chili Powder,1 tsp (2.7 g),6.0,24.0
+Herbs & Spices,Chives,1 tbsp (3 g),1.0,4.0
+Herbs & Spices,Cider Vinegar,1 tbsp (14 ml),3.0,12.0
+Herbs & Spices,Cilantro,1/4 cup (4 g),1.0,4.0
+Herbs & Spices,Cinnamon,1 tbsp (7.9 g),17.0,73.0
+Herbs & Spices,Cloves,1 tbsp (6.5 g),16.0,69.0
+Herbs & Spices,Coriander,1/4 cup (4 g),1.0,4.0
+Herbs & Spices,Cream of Tartar,1 tsp (3 g),8.0,33.0
+Herbs & Spices,Crystallized Ginger,1 tbsp (5.2 g),17.0,70.0
+Herbs & Spices,Cumin,1 tbsp (6 g),23.0,95.0
+Herbs & Spices,Cumin Seed,1 tbsp (6 g),23.0,95.0
+Herbs & Spices,Curry,1 tbsp (6.3 g),20.0,82.0
+Herbs & Spices,Dandelion,1 cup (55 g),25.0,104.0
+Herbs & Spices,Fennel,1 bulb (234 g),73.0,304.0
+Herbs & Spices,Fennel Seed,1 tsp (2 g),7.0,29.0
+Herbs & Spices,Fenugreek,1 tbsp (11.1 g),36.0,149.0
+Herbs & Spices,Garlic,1 clove (3 g),4.0,19.0
+Herbs & Spices,Garlic Powder,1 tsp (3.1 g),10.0,42.0
+Herbs & Spices,Ginger,1 tsp (2 g),2.0,7.0
+Herbs & Spices,Grape Leaves,1 leaf (3 g),3.0,12.0
+Herbs & Spices,Ground Ginger,1 tbsp (5.2 g),17.0,70.0
+Herbs & Spices,Horseradish,1 tbsp (15 g),7.0,30.0
+Herbs & Spices,Hot Pepper,1 tsp (1.8 g),3.0,13.0
+Herbs & Spices,Jalapeno,1 oz. (30 g),4.0,17.0
+Herbs & Spices,Juniper,1 cup (55 g),25.0,104.0
+Herbs & Spices,Lemon Grass,1 tbsp (4.8 g),4.0,17.0
+Herbs & Spices,Licorice,1 tbsp (18 g),68.0,284.0
+Herbs & Spices,Maggi,1 tsp (4 ml),4.0,17.0
+Herbs & Spices,Marjoram,1 tbsp (1.7 g),3.0,11.0
+Herbs & Spices,Minced Onion,1 cup (160 g),64.0,269.0
+Herbs & Spices,Mint,1 tbsp (1.6 g),1.0,3.0
+Herbs & Spices,Mustard Seed,1 tsp (2 g),10.0,43.0
+Herbs & Spices,Nutmeg,1 tsp (2.2 g),11.0,44.0
+Herbs & Spices,Okra,1 tbsp (18 g),6.0,25.0
+Herbs & Spices,Onion,1 onion (85 g),34.0,143.0
+Herbs & Spices,Onion Powder,1 tsp (2.4 g),7.0,29.0
+Herbs & Spices,Orange Peel,1 tbsp (6 g),6.0,24.0
+Herbs & Spices,Oregano,1 tsp (1 g),3.0,11.0
+Herbs & Spices,Paprika,1 tsp (2.3 g),6.0,24.0
+Herbs & Spices,Parsley,1 tbsp (3.8 g),1.0,5.0
+Herbs & Spices,Parsnip,1 parsnip (170 g),128.0,536.0
+Herbs & Spices,Pepper,1 tsp (2.4 g),5.0,21.0
+Herbs & Spices,Poppy Seed,1 tbsp (8.8 g),42.0,176.0
+Herbs & Spices,Poultry Seasoning,1 tbsp (4.4 g),12.0,52.0
+Herbs & Spices,Pumpkin Pie Spice,1 tbsp (5.6 g),17.0,72.0
+Herbs & Spices,Red Pepper,1 tsp (3 g),8.0,32.0
+Herbs & Spices,Red Wine Vinegar,1 tbsp (14.9 g),3.0,11.0
+Herbs & Spices,Rosemary,1 tbsp (1.7 g),1.0,6.0
+Herbs & Spices,Saffron,1 tbsp (2.1 g),6.0,26.0
+Herbs & Spices,Sage,1 tbsp (2 g),6.0,26.0
+Herbs & Spices,Savory,1 tbsp (4.4 g),11.0,46.0
+Herbs & Spices,Serrano Pepper,1 pepper (6.1 g),2.0,8.0
+Herbs & Spices,Sesame Seeds,1 cup (144 g),825.0,3466.0
+Herbs & Spices,Tamarind,1 tamarind (2 g),5.0,20.0
+Herbs & Spices,Taro,"1 cup, sliced (104 g)",116.0,489.0
+Herbs & Spices,Tarragon,1 tbsp (1.8 g),3.0,12.0
+Herbs & Spices,Thyme,1 tsp (1 g),3.0,12.0
+Herbs & Spices,Turmeric,1 tsp (2.2 g),7.0,30.0
+Herbs & Spices,Vanilla Bean,1 pod (2 g),5.0,21.0
+Herbs & Spices,Vanilla Extract,1 tbsp (13 ml),37.0,157.0
+Herbs & Spices,Vinegar,1 tbsp (14 ml),3.0,11.0
+Herbs & Spices,White Pepper,1 tsp (2.4 g),6.0,25.0
+Herbs & Spices,Yam,1 cup (150 g),177.0,744.0
+Ice Cream,Baskin-Robbins,1 scoop (71 g),170.0,713.0
+Ice Cream,Ben and Jerry’s,1 scoop (92 g),210.0,881.0
+Ice Cream,Butter Pecan Ice Cream,1 scoop (113 g),280.0,1177.0
+Ice Cream,Carvel,1 cup (212 g),449.0,1887.0
+Ice Cream,Chocolate Chip Ice Cream,1 scoop (72 g),155.0,650.0
+Ice Cream,Chocolate Ice Cream,1 scoop (72 g),156.0,653.0
+Ice Cream,Ciao Bella,1 cup (220 g),240.0,1008.0
+Ice Cream,Coffee Ice Cream,1 scoop (72 g),170.0,714.0
+Ice Cream,Cold Stone Creamery,1 scoop (142 g),329.0,1383.0
+Ice Cream,Cookie Dough Ice Cream,1/2 cup (65 g),130.0,546.0
+Ice Cream,Crunchie McFlurry,1 mcflurry (183 g),318.0,1338.0
+Ice Cream,Dairy Milk McFlurry,1 mcflurry (183 g),340.0,1429.0
+Ice Cream,Dippin Dots,1 cup (170 g),381.0,1600.0
+Ice Cream,Double Rainbow,1 scoop (72 g),185.0,777.0
+Ice Cream,Drumsticks,1 cone (141 g),360.0,1510.0
+Ice Cream,French Vanilla Ice Cream,1 scoop (72 g),145.0,608.0
+Ice Cream,Friendly’s,1 scoop (66 g),140.0,587.0
+Ice Cream,Healthy Choice,1 bar (64 g),80.0,336.0
+Ice Cream,Hot Fudge Sundae,1 sundae (179 g),333.0,1398.0
+Ice Cream,Ice Cream Sandwich,1 bar (112 g),265.0,1114.0
+Ice Cream,Ice Cream Sundae,1 sundae (178 g),253.0,1061.0
+Ice Cream,Ice Milk,1 scoop (103 g),164.0,688.0
+Ice Cream,Magnolia,1 scoop (72 g),166.0,696.0
+Ice Cream,Magnum,1 magnum (86 g),258.0,1084.0
+Ice Cream,Magnum Almond,1 magnum (86 g),271.0,1138.0
+Ice Cream,Magnum Double Caramel,1 magnum (86 g),305.0,1282.0
+Ice Cream,Magnum Double Chocolate,1 magnum (86 g),327.0,1373.0
+Ice Cream,Magnum Gold,1 magnum (85 g),290.0,1217.0
+Ice Cream,Magnum White,1 magnum (86 g),255.0,1072.0
+Ice Cream,McFlurry,1 mcflurry (134 g),205.0,862.0
+Ice Cream,McFlurry Oreo,1 mcflurry (183 g),340.0,1429.0
+Ice Cream,Mini Milk,1 mini milk (25 g),30.0,126.0
+Ice Cream,Mint Chocolate Chip Ice Cream,1 scoop (72 g),172.0,723.0
+Ice Cream,Rocky Road Ice Cream,1 scoop (113 g),290.0,1219.0
+Ice Cream,Schwan’s,1 scoop (72 g),177.0,744.0
+Ice Cream,Smarties McFlurry,1 mcflurry (202 g),400.0,1681.0
+Ice Cream,Snickers Ice Cream,1 bar (50 g),180.0,756.0
+Ice Cream,Soft Serve,1 cup (86 g),191.0,802.0
+Ice Cream,Solero,1 solero (75 g),75.0,315.0
+Ice Cream,Strawberry Ice Cream,1 scoop (72 g),170.0,714.0
+Ice Cream,Strawberry Sundae,1 sundae (178 g),281.0,1182.0
+Ice Cream,Sundae,1 scoop (72 g),155.0,650.0
+Ice Cream,Turkey Hill,1 sandwich (70 g),190.0,797.0
+Ice Cream,Vanilla Cone,1 cone (142 g),230.0,966.0
+Ice Cream,Vanilla Ice Cream,1 scoop (72 g),145.0,608.0
+Legumes,Azuki Bean,1 can (266 g),330.0,1386.0
+Legumes,Bamboo Shoots,1 cup (151 g),41.0,171.0
+Legumes,Bean Curd,1/2 cup (124 g),94.0,396.0
+Legumes,Bean Sprouts,1 cup (104 g),31.0,131.0
+Legumes,Bengal Gram,1 cup (200 g),728.0,3058.0
+Legumes,Black Beans,1 tbsp (12.1 g),41.0,172.0
+Legumes,Black Chickpeas,1 cup (200 g),728.0,3058.0
+Legumes,Black Gram,1 cup (207 g),706.0,2964.0
+Legumes,Brown Lentil,1 cup (192 g),678.0,2847.0
+Legumes,Butternut,1 cup (120 g),734.0,3084.0
+Legumes,Chickpeas,1 tbsp (12.5 g),44.0,183.0
+Legumes,Chili Bean,1 cup (253 g),245.0,1030.0
+Legumes,Dal,1 serving (100 g),230.0,966.0
+Legumes,Deep-Fried Tofu,1 oz. (28.35 g),76.0,319.0
+Legumes,Extra-Firm Tofu,1/5 block (91 g),83.0,348.0
+Legumes,Firm Tofu,1/4 block (81 g),57.0,238.0
+Legumes,Flageolet,1 serving (100 g),85.0,357.0
+Legumes,Fried Bean Curd,1 piece (13 g),35.0,148.0
+Legumes,Green Beans,1 cup (100 g),31.0,130.0
+Legumes,Green Gram,1 cup (207 g),718.0,3016.0
+Legumes,Green Lentil,"1 cup, dry (60 g)",154.0,647.0
+Legumes,Kidney Beans,1 cup (184 g),620.0,2604.0
+Legumes,Lentils,1 cup (192 g),678.0,2847.0
+Legumes,Lima Beans,1/2 cup (124 g),88.0,370.0
+Legumes,Marron,1 serving (100 g),210.0,882.0
+Legumes,Miso,1 cup (275 g),547.0,2299.0
+Legumes,Mung Beans,1 cup (125 g),15.0,63.0
+Legumes,Natto,1 cup (175 g),371.0,1558.0
+Legumes,Navy Bean,1 cup (208 g),701.0,2943.0
+Legumes,Okara,1 cup (122 g),94.0,394.0
+Legumes,Okra,1 cup (100 g),33.0,139.0
+Legumes,Peanuts,1 oz. (28.35 g),159.0,667.0
+Legumes,Peas,1 cup (63 g),26.0,111.0
+Legumes,Pecan,1 cup (99 g),684.0,2873.0
+Legumes,Pinto Beans,1 cup (193 g),670.0,2812.0
+Legumes,Puy Lentils,1 serving (100 g),345.0,1449.0
+Legumes,Rajma,1 serving (100 g),140.0,588.0
+Legumes,Red Beans,1 can (266 g),330.0,1386.0
+Legumes,Red Kidney Bean,1 cup (184 g),620.0,2604.0
+Legumes,Red Lentils,1 cup (197 g),648.0,2723.0
+Legumes,Refried Beans,1 can (443 g),403.0,1692.0
+Legumes,Roasted Soybeans,1 cup (172 g),810.0,3402.0
+Legumes,Silken Tofu,1 slice (84 g),46.0,194.0
+Legumes,Soft Tofu,1 cubic inch (18 g),11.0,46.0
+Legumes,Soy Cheese,1 slice (17 g),40.0,168.0
+Legumes,Soy Mayonnaise,1 tbsp (15 g),48.0,203.0
+Legumes,Soy Nut Butter,1 serving (32 g),180.0,755.0
+Legumes,Soy Nuts,1 cup (256 g),1206.0,5064.0
+Legumes,Soy Yogurt,1 container (227 g),150.0,629.0
+Legumes,Soya Cheese,1 slice (17 g),40.0,168.0
+Legumes,Soybeans,1 cup (256 g),376.0,1580.0
+Legumes,Soynut Butter,1 serving (32 g),180.0,755.0
+Legumes,Sugar Peas,1 serving (100 g),42.0,176.0
+Legumes,Sweet Peas,1 serving (100 g),48.0,202.0
+Legumes,Tempeh,1 cup (166 g),320.0,1346.0
+Legumes,Textured Soy Protein,1 cup (56 g),320.0,1343.0
+Legumes,Textured Vegetable Protein,1 cup (96 g),320.0,1343.0
+Legumes,Tofu,1/2 cup (124 g),94.0,396.0
+Legumes,White Beans,1 cup (215 g),722.0,3034.0
+Legumes,Yam Bean,1 cup (130 g),49.0,208.0
+Legumes,Yellow Lentils,1 cup (200 g),608.0,2554.0
+Legumes,Yuba,1 oz. (28.35 g),49.0,207.0
+Meat,Alligator,1 serving (153 g),355.0,1490.0
+Meat,Beef,1 steak (164 g),407.0,1709.0
+Meat,Beef Brisket,1 piece (1780 g),4308.0,18085.0
+Meat,Beef Jerky,1 piece (20 g),82.0,344.0
+Meat,Beef Ribs,1 piece (225 g),536.0,2250.0
+Meat,Beef Tenderloin,1 steak (140 g),305.0,1282.0
+Meat,Chicken,1/2 chicken (334 g),731.0,3073.0
+Meat,Chicken Breast,1 breast (200 g),344.0,1444.0
+Meat,Chicken Drumstick,1 drumstick (71 g),131.0,552.0
+Meat,Chicken Fat,1 cup (205 g),1841.0,7733.0
+Meat,Chicken Giblets,1 cup (145 g),229.0,963.0
+Meat,Chicken Gizzards,1 cup (145 g),212.0,889.0
+Meat,Chicken Leg,1 leg (199 g),346.0,1455.0
+Meat,Chicken Liver,1 liver (44 g),73.0,308.0
+Meat,Chicken Meat,1 breast (200 g),344.0,1444.0
+Meat,Chicken Thigh,1 thigh (111 g),254.0,1068.0
+Meat,Chicken Wing,1 wing (29 g),77.0,324.0
+Meat,Chuck Steak,1 steak (310 g),859.0,3605.0
+Meat,Cubed Steak,1 serving (165 g),328.0,1379.0
+Meat,Duck,1/2 duck (634 g),2137.0,8971.0
+Meat,Filet Mignon,1 fillet (104 g),278.0,1166.0
+Meat,Flank Steak,1 steak (188 g),365.0,1532.0
+Meat,Flat Iron Steak,1 steak (252 g),345.0,1449.0
+Meat,Ground Beef,1 patty (70 g),172.0,723.0
+Meat,Ground Round,1 piece (113 g),278.0,1167.0
+Meat,Ham,1 slice (145 g),236.0,993.0
+Meat,New York Strip Steak,1 steak (214 g),426.0,1789.0
+Meat,Ostrich,1 serving (85 g),123.0,518.0
+Meat,Pork,1 chop (185 g),363.0,1523.0
+Meat,Pork Baby Back Ribs,1 rib (70 g),148.0,623.0
+Meat,Pork Chops,1 chop (131 g),257.0,1078.0
+Meat,Pork Country-Style Ribs,1 rib (60 g),148.0,622.0
+Meat,Pork Loin,1 chop (83 g),169.0,711.0
+Meat,Pork Roast,1 roast (830 g),2108.0,8856.0
+Meat,Pork Steaks,1 steak (264 g),517.0,2173.0
+Meat,Roast Beef,1 roast (515 g),721.0,3028.0
+Meat,Round Steak,1 steak (236 g),430.0,1803.0
+Meat,Schnitzel,1 schnitzel (130 g),203.0,852.0
+Meat,Spare Ribs,1 rack (1400 g),3332.0,14000.0
+Meat,Standing Rib Roast,1 serving (113 g),376.0,1581.0
+Meat,T-Bone Steak,1 steak (287 g),580.0,2434.0
+Meat,Turkey,1 turkey (3812 g),7205.0,30267.0
+Meat,Turkey Breast,1/2 breast (864 g),1166.0,4899.0
+Meat,Turkey Legs,1 leg (546 g),1136.0,4772.0
+Meat,Turkey Steak,1 steak (170 g),321.0,1350.0
+Meat,Turkey Wings,1 wing (24 g),53.0,223.0
+Milk & Dairy Products,Almond Milk,1 cup (235 ml),40.0,167.0
+Milk & Dairy Products,Buttermilk,1 cup (254 ml),157.0,660.0
+Milk & Dairy Products,Chocolate Mousse,1/2 cup (202 g),455.0,1909.0
+Milk & Dairy Products,Coconut Milk,1 cup (240 ml),552.0,2318.0
+Milk & Dairy Products,Coffee Creamer,1 tbsp (15 g),29.0,123.0
+Milk & Dairy Products,Condensed Milk,1 cup (306 g),982.0,4125.0
+Milk & Dairy Products,Cottage Cheese,1 cup (210 g),206.0,865.0
+Milk & Dairy Products,Cream,1 tbsp (15 g),36.0,152.0
+Milk & Dairy Products,Creme Fraiche,1 tbsp (14 g),55.0,231.0
+Milk & Dairy Products,Curd,1 cup (210 g),206.0,865.0
+Milk & Dairy Products,Custard,1/2 cup (141 g),172.0,722.0
+Milk & Dairy Products,Evaporated Milk,1 cup (252 g),340.0,1429.0
+Milk & Dairy Products,Goat Milk,1 cup (244 g),168.0,708.0
+Milk & Dairy Products,Hot Chocolate,1 cup (266 ml),237.0,995.0
+Milk & Dairy Products,Kefir,1 cup (246 ml),135.0,568.0
+Milk & Dairy Products,Lactose-free Milk,1 cup (250 ml),130.0,545.0
+Milk & Dairy Products,Lassi,1 glass (200 ml),150.0,630.0
+Milk & Dairy Products,Milk,1 cup (244 ml),149.0,625.0
+Milk & Dairy Products,Plain Yogurt,1 container (227 g),138.0,581.0
+Milk & Dairy Products,Powdered Milk,1 cup (68 g),337.0,1416.0
+Milk & Dairy Products,Quark,1 cup (220 g),319.0,1340.0
+Milk & Dairy Products,Rice Milk,1 cup (245 ml),120.0,505.0
+Milk & Dairy Products,Rice Pudding,1 serving (113 g),133.0,560.0
+Milk & Dairy Products,Semi-skimmed Milk,1 serving (250 ml),125.0,525.0
+Milk & Dairy Products,Semolina Pudding,1 serving (143 g),96.0,402.0
+Milk & Dairy Products,Skim Milk,1 cup (247 ml),86.0,363.0
+Milk & Dairy Products,Sour Cream,1 tbsp (12 g),22.0,91.0
+Milk & Dairy Products,Soy Milk,1 cup (243 ml),109.0,459.0
+Milk & Dairy Products,Sweetened Condensed Milk,1 cup (306 ml),982.0,4125.0
+Milk & Dairy Products,Tzatziki,1 tbsp (15 g),18.0,74.0
+Milk & Dairy Products,Whipped Cream,1 tbsp (3 g),8.0,32.0
+Milk & Dairy Products,Whole Milk,1 cup (244 ml),149.0,625.0
+Milk & Dairy Products,Yogurt,1 container (227 g),138.0,581.0
+Non-Alcoholic Drinks & Beverages,ACE Drink,1/2 litre (500 ml),220.0,925.0
+Non-Alcoholic Drinks & Beverages,Apple Spritzer,1/2 litre (500 ml),120.0,505.0
+Non-Alcoholic Drinks & Beverages,Chocolate Milk,1 cup (266 ml),237.0,995.0
+Non-Alcoholic Drinks & Beverages,Chocolate Milkshake,10 fl. oz. (283 ml),354.0,1486.0
+Non-Alcoholic Drinks & Beverages,Club Mate,1/2 litre (500 ml),150.0,630.0
+Non-Alcoholic Drinks & Beverages,Coca Cola,1 can (330 ml),139.0,581.0
+Non-Alcoholic Drinks & Beverages,Coffee,1 cup (237 ml),2.0,9.0
+Non-Alcoholic Drinks & Beverages,Coke Zero,1 can (330 ml),3.0,13.0
+Non-Alcoholic Drinks & Beverages,Cola,1 can (330 ml),139.0,581.0
+Non-Alcoholic Drinks & Beverages,Crystal Light,8 fl. oz. (237 ml),623.0,2619.0
+Non-Alcoholic Drinks & Beverages,Diet Coke,1 can (330 ml),3.0,13.0
+Non-Alcoholic Drinks & Beverages,Egg Cream,1 serving (125 ml),118.0,494.0
+Non-Alcoholic Drinks & Beverages,Egg Nog,1 cup (254 ml),224.0,940.0
+Non-Alcoholic Drinks & Beverages,Elderflower Cordial,8 oz. (227 ml),66.0,277.0
+Non-Alcoholic Drinks & Beverages,Gatorade,12 fl. oz. (355 ml),82.0,344.0
+Non-Alcoholic Drinks & Beverages,Hawaiian Punch,8 oz. (227 ml),70.0,295.0
+Non-Alcoholic Drinks & Beverages,Hi-C,12 fl. oz. (253 ml),124.0,521.0
+Non-Alcoholic Drinks & Beverages,Horchata,8 fl. oz. (240 ml),130.0,545.0
+Non-Alcoholic Drinks & Beverages,Hot Chocolate,1 cup (266 ml),237.0,995.0
+Non-Alcoholic Drinks & Beverages,Ice Tea,12 fl. oz. (355 ml),96.0,401.0
+Non-Alcoholic Drinks & Beverages,Iced Tea,12 fl. oz. (355 ml),96.0,401.0
+Non-Alcoholic Drinks & Beverages,Karamalz,1 cup (237 ml),88.0,367.0
+Non-Alcoholic Drinks & Beverages,Kombucha,8 oz. (227 ml),30.0,125.0
+Non-Alcoholic Drinks & Beverages,Kool-Aid,8 fl. oz. (237 ml),62.0,258.0
+Non-Alcoholic Drinks & Beverages,Lassi,1 cup (250 ml),260.0,1093.0
+Non-Alcoholic Drinks & Beverages,Latte Macchiato,1 cup (300 ml),171.0,717.0
+Non-Alcoholic Drinks & Beverages,Lemonade,12 fl. oz. (355 ml),149.0,625.0
+Non-Alcoholic Drinks & Beverages,Malt Beer,1 cup (237 ml),88.0,367.0
+Non-Alcoholic Drinks & Beverages,Milk,1 cup (244 ml),149.0,625.0
+Non-Alcoholic Drinks & Beverages,Milkshake (dry),1 tbsp (7 g),23.0,97.0
+Non-Alcoholic Drinks & Beverages,Milo,3 tbsp (24 g),98.0,412.0
+Non-Alcoholic Drinks & Beverages,Nectar,8 oz. (227 ml),120.0,506.0
+Non-Alcoholic Drinks & Beverages,Nestea,1 cup (240 ml),86.0,362.0
+Non-Alcoholic Drinks & Beverages,Non-alcoholic Beer,"1 can, bottle (354 ml)",131.0,549.0
+Non-Alcoholic Drinks & Beverages,Powerade,1 bottle (500 ml),80.0,335.0
+Non-Alcoholic Drinks & Beverages,Slurpee,8 oz. (240 ml),10.0,41.0
+Non-Alcoholic Drinks & Beverages,Slush Puppie,8 fl. oz. (237 ml),119.0,498.0
+Non-Alcoholic Drinks & Beverages,Smoothie,8 oz. (240 ml),89.0,372.0
+Non-Alcoholic Drinks & Beverages,Soy Milk,1 cup (243 ml),109.0,459.0
+Non-Alcoholic Drinks & Beverages,Strawberry Milkshake,10 fl. oz. (283 ml),320.0,1344.0
+Non-Alcoholic Drinks & Beverages,Tang,1/8 cup (24 g),91.0,384.0
+Non-Alcoholic Drinks & Beverages,Tea,1 cup (237 ml),2.0,9.0
+Non-Alcoholic Drinks & Beverages,Vanilla Milkshake,10 fl. oz. (283 ml),422.0,1772.0
+Non-Alcoholic Drinks & Beverages,Yerba Mate,1 serving (50 ml),31.0,130.0
+Nuts & Seeds,Acorn,1 oz. (28.35 g),108.0,455.0
+Nuts & Seeds,Alfalfa Sprouts,1 cup (33 g),8.0,32.0
+Nuts & Seeds,Almonds,1 cup (95 g),546.0,2294.0
+Nuts & Seeds,Beechnut,1 oz. (28.35 g),161.0,677.0
+Nuts & Seeds,Brazil Nuts,1 cup (133 g),872.0,3664.0
+Nuts & Seeds,Breadfruit,1 oz. (28.35 g),53.0,225.0
+Nuts & Seeds,Butternut,1 cup (120 g),734.0,3084.0
+Nuts & Seeds,Cashew,1 oz. (28.35 g),155.0,650.0
+Nuts & Seeds,Chestnut,1 cup (145 g),309.0,1298.0
+Nuts & Seeds,Chia Seeds,1 oz. (28.35 g),136.0,571.0
+Nuts & Seeds,Coconut,1 coconut (397 g),1405.0,5903.0
+Nuts & Seeds,Cotton Seeds,1 cup (149 g),754.0,3166.0
+Nuts & Seeds,Flaxseed,1 cup (168 g),897.0,3768.0
+Nuts & Seeds,Ginkgo Nuts,1 oz. (28.35 g),51.0,214.0
+Nuts & Seeds,Goa Bean,1 cup (182 g),744.0,3127.0
+Nuts & Seeds,Hazelnut,1 cup (75 g),471.0,1979.0
+Nuts & Seeds,Hickory Nuts,1 cup (120 g),788.0,3311.0
+Nuts & Seeds,Lima Beans,1/2 cup (124 g),88.0,370.0
+Nuts & Seeds,Lotus Seed,1 oz. (28.35 g),25.0,105.0
+Nuts & Seeds,Macadamia Nuts,1 cup (134 g),962.0,4041.0
+Nuts & Seeds,Peanuts,1 cup (146 g),828.0,3476.0
+Nuts & Seeds,Peas,1 cup (145 g),117.0,493.0
+Nuts & Seeds,Pecan Nuts,1 cup (99 g),684.0,2873.0
+Nuts & Seeds,Pecans,1 cup (99 g),684.0,2873.0
+Nuts & Seeds,Pili Nuts,1 cup (120 g),863.0,3624.0
+Nuts & Seeds,Pine Nuts,1 cup (135 g),909.0,3816.0
+Nuts & Seeds,Pinto Beans,1 cup (193 g),670.0,2812.0
+Nuts & Seeds,Pistachios,1 cup (123 g),691.0,2903.0
+Nuts & Seeds,Poppy Seeds,1 tbsp (8.8 g),42.0,176.0
+Nuts & Seeds,Pumpkin Seeds,1 cup (129 g),721.0,3029.0
+Nuts & Seeds,Radish Seeds,1 cup (38 g),16.0,69.0
+Nuts & Seeds,Safflower Seeds,1 oz. (28.35 g),145.0,608.0
+Nuts & Seeds,Sesame Seeds,1 cup (144 g),825.0,3466.0
+Nuts & Seeds,Smoked Almonds,1 cup (95 g),546.0,2294.0
+Nuts & Seeds,Soy Beans,1 cup (256 g),376.0,1580.0
+Nuts & Seeds,Sunflower Seeds,1 cup (140 g),818.0,3434.0
+Nuts & Seeds,Sweet Chestnut,1 oz. (28.35 g),54.0,228.0
+Nuts & Seeds,Walnuts,1 cup (80 g),523.0,2198.0
+Nuts & Seeds,Watermelon,1 wedge (286 g),86.0,360.0
+"Oatmeal, Muesli & Cereals",Bran Flakes,1 serving (37.5 g),132.0,553.0
+"Oatmeal, Muesli & Cereals",Cap’n Crunch,1 serving (37.5 g),149.0,628.0
+"Oatmeal, Muesli & Cereals",Cheerios,1 serving (37.5 g),128.0,539.0
+"Oatmeal, Muesli & Cereals",Chex,1 serving (37.5 g),143.0,601.0
+"Oatmeal, Muesli & Cereals",Chocolate Cheerios,1 serving (37.5 g),136.0,570.0
+"Oatmeal, Muesli & Cereals",Chocos,1 serving (37.5 g),141.0,591.0
+"Oatmeal, Muesli & Cereals",Cinnamon Toast Crunch,1 serving (37.5 g),160.0,673.0
+"Oatmeal, Muesli & Cereals",Coco Pops,1 serving (37.5 g),139.0,584.0
+"Oatmeal, Muesli & Cereals",Cocoa Krispies,1 serving (37.5 g),143.0,600.0
+"Oatmeal, Muesli & Cereals",Cocoa Pebbles,1 serving (37.5 g),136.0,570.0
+"Oatmeal, Muesli & Cereals",Cocoa Puffs,1 serving (37.5 g),148.0,622.0
+"Oatmeal, Muesli & Cereals",Cookie Crisp,1 serving (37.5 g),148.0,622.0
+"Oatmeal, Muesli & Cereals",Corn Flakes,1 serving (37.5 g),132.0,555.0
+"Oatmeal, Muesli & Cereals",Corn Pops,1 serving (37.5 g),139.0,586.0
+"Oatmeal, Muesli & Cereals",Count Chocula,1 serving (37.5 g),151.0,632.0
+"Oatmeal, Muesli & Cereals",Cracklin Oat Bran,1 serving (37.5 g),149.0,625.0
+"Oatmeal, Muesli & Cereals",Cream of Wheat,1 serving (37.5 g),135.0,566.0
+"Oatmeal, Muesli & Cereals",Crunchy Nut,1 serving (37.5 g),222.0,932.0
+"Oatmeal, Muesli & Cereals",Crunchy Nut Cornflakes,1 serving (37.5 g),222.0,932.0
+"Oatmeal, Muesli & Cereals",Fiber One,1 serving (37.5 g),99.0,415.0
+"Oatmeal, Muesli & Cereals",Froot Loops,1 serving (37.5 g),140.0,589.0
+"Oatmeal, Muesli & Cereals",Frosted Cheerios,1 serving (37.5 g),145.0,611.0
+"Oatmeal, Muesli & Cereals",Frosted Flakes,1 serving (37.5 g),136.0,570.0
+"Oatmeal, Muesli & Cereals",Frosted Mini-Wheats,1 serving (37.5 g),131.0,549.0
+"Oatmeal, Muesli & Cereals",Frosties,1 serving (37.5 g),136.0,570.0
+"Oatmeal, Muesli & Cereals",Fruity Pebbles,1 serving (37.5 g),148.0,622.0
+"Oatmeal, Muesli & Cereals",Golden Grahams,1 serving (37.5 g),148.0,622.0
+"Oatmeal, Muesli & Cereals",Grape-Nuts,1 serving (37.5 g),134.0,562.0
+"Oatmeal, Muesli & Cereals",Honey Nut Cheerios,1 serving (37.5 g),145.0,611.0
+"Oatmeal, Muesli & Cereals",Honey Smacks,1 serving (37.5 g),137.0,575.0
+"Oatmeal, Muesli & Cereals",Honeycomb,1 serving (37.5 g),147.0,617.0
+"Oatmeal, Muesli & Cereals",Just Right,1 serving (37.5 g),145.0,608.0
+"Oatmeal, Muesli & Cereals",Kashi,1 serving (37.5 g),139.0,586.0
+"Oatmeal, Muesli & Cereals",Kelloggs Corn Flakes,1 serving (37.5 g),132.0,555.0
+"Oatmeal, Muesli & Cereals",Kix,1 serving (37.5 g),136.0,570.0
+"Oatmeal, Muesli & Cereals",Krave,1 serving (37.5 g),138.0,578.0
+"Oatmeal, Muesli & Cereals",Life Cereal,1 serving (37.5 g),139.0,583.0
+"Oatmeal, Muesli & Cereals",Lucky Charms,1 serving (37.5 g),150.0,631.0
+"Oatmeal, Muesli & Cereals",Malt-O-Meal,1 cup (240 g),122.0,514.0
+"Oatmeal, Muesli & Cereals",Mini-Wheats,1 serving (37.5 g),131.0,549.0
+"Oatmeal, Muesli & Cereals",Muesli,1 serving (37.5 g),124.0,522.0
+"Oatmeal, Muesli & Cereals",Multigrain Cheerios,1 serving (37.5 g),141.0,591.0
+"Oatmeal, Muesli & Cereals",Nutri-Grain,1 serving (37.5 g),130.0,545.0
+"Oatmeal, Muesli & Cereals",Oatibix,1 biscuit (24 g),101.0,424.0
+"Oatmeal, Muesli & Cereals",Oatmeal,1 cup (175 g),656.0,2756.0
+"Oatmeal, Muesli & Cereals",Peanut Butter Toast Crunch,1 serving (37.5 g),159.0,670.0
+"Oatmeal, Muesli & Cereals",Post Raisin Bran,1 serving (37.5 g),119.0,500.0
+"Oatmeal, Muesli & Cereals",Post Shredded Wheat,1 serving (37.5 g),128.0,539.0
+"Oatmeal, Muesli & Cereals",Puff,1 serving (37.5 g),136.0,570.0
+"Oatmeal, Muesli & Cereals",Puffed Rice,1 serving (37.5 g),142.0,595.0
+"Oatmeal, Muesli & Cereals",Puffed Wheat,1 serving (37.5 g),136.0,570.0
+"Oatmeal, Muesli & Cereals",Quaker Grits,1 serving (37.5 g),127.0,535.0
+"Oatmeal, Muesli & Cereals",Quaker Oatmeal,1 serving (37.5 g),139.0,583.0
+"Oatmeal, Muesli & Cereals",Quaker Oatmeal Squares,1 serving (37.5 g),148.0,622.0
+"Oatmeal, Muesli & Cereals",Raisin Bran,1 serving (37.5 g),119.0,500.0
+"Oatmeal, Muesli & Cereals",Raisin Bran Crunch,100g,355.0,1491.0
+"Oatmeal, Muesli & Cereals",Raisin Nut Bran,1 serving (37.5 g),136.0,570.0
+"Oatmeal, Muesli & Cereals",Ready Brek,1 serving (37.5 g),133.0,558.0
+"Oatmeal, Muesli & Cereals",Rice Chex,1 serving (37.5 g),143.0,601.0
+"Oatmeal, Muesli & Cereals",Rice Krispies,1 serving (37.5 g),146.0,612.0
+"Oatmeal, Muesli & Cereals",Scooters,1 serving (37.5 g),136.0,570.0
+"Oatmeal, Muesli & Cereals",Shredded Wheat,1 serving (37.5 g),126.0,528.0
+"Oatmeal, Muesli & Cereals",Shreddies,1 serving (37.5 g),130.0,545.0
+"Oatmeal, Muesli & Cereals",Smart Start,1 serving (37.5 g),137.0,576.0
+"Oatmeal, Muesli & Cereals",Special K,1 serving (37.5 g),139.0,586.0
+"Oatmeal, Muesli & Cereals",Special K Chocolatey Delight,1 serving (37.5 g),144.0,603.0
+"Oatmeal, Muesli & Cereals",Special K Protein Plus,1 serving (37.5 g),139.0,583.0
+"Oatmeal, Muesli & Cereals",Special K Red Berries,1 serving (37.5 g),128.0,536.0
+"Oatmeal, Muesli & Cereals",Sugar Puffs,1 serving (37.5 g),140.0,589.0
+"Oatmeal, Muesli & Cereals",Toasties,1 serving (37.5 g),134.0,561.0
+"Oatmeal, Muesli & Cereals",Trix,1 serving (37.5 g),148.0,622.0
+"Oatmeal, Muesli & Cereals",Weet-Bix,1 bix (15 g),53.0,222.0
+"Oatmeal, Muesli & Cereals",Weetabix,1 serving (37.5 g),132.0,556.0
+"Oatmeal, Muesli & Cereals",Weetos,1 serving (37.5 g),140.0,588.0
+"Oatmeal, Muesli & Cereals",Wheaties,1 serving (37.5 g),136.0,570.0
+Offal & Giblets,Beef Brain,1 piece (351 g),688.0,2889.0
+Offal & Giblets,Beef Heart,3 oz. (85 g),140.0,589.0
+Offal & Giblets,Beef Kidney,3 oz. (85 g),134.0,564.0
+Offal & Giblets,Beef Liver,1 slice (68 g),130.0,545.0
+Offal & Giblets,Beef Lung,1 piece (303 g),364.0,1527.0
+Offal & Giblets,Beef Melt,1 piece (222 g),602.0,2526.0
+Offal & Giblets,Beef Tongue,3 oz. (85 g),241.0,1014.0
+Offal & Giblets,Calf Brain,1 unit (339 g),461.0,1936.0
+Offal & Giblets,Calf Liver,1 slice (80 g),154.0,645.0
+Offal & Giblets,Calf Lung,1 unit (300 g),312.0,1311.0
+Offal & Giblets,Calf Melt,1 unit (240 g),614.0,2580.0
+Offal & Giblets,Chicken Giblets,1 cup (145 g),402.0,1686.0
+Offal & Giblets,Chicken Heart,1 heart (6.1 g),11.0,47.0
+Offal & Giblets,Chicken Liver,1 liver (44 g),76.0,318.0
+Offal & Giblets,Chicken Stomach,1 serving (100 g),148.0,622.0
+Offal & Giblets,Chitterlings,3 oz. (85 g),198.0,832.0
+Offal & Giblets,Duck Liver,1 liver (44 g),60.0,251.0
+Offal & Giblets,Goose Liver,1 liver (94 g),125.0,525.0
+Offal & Giblets,Hog Maws,3 oz. (85 g),133.0,560.0
+Offal & Giblets,Pig Brain,3 oz. (85 g),117.0,493.0
+Offal & Giblets,Pig Heart,1 heart (129 g),191.0,802.0
+Offal & Giblets,Pig Kidney,3 oz. (85 g),128.0,539.0
+Offal & Giblets,Pig Lung,1 unit (300 g),297.0,1248.0
+Offal & Giblets,Pork Liver,3 oz. (85 g),140.0,589.0
+Offal & Giblets,Pork Melt,1 unit (245 g),537.0,2254.0
+Offal & Giblets,Pork Tongue,1 tongue (231 g),626.0,2629.0
+Offal & Giblets,Turkey Giblets,1 giblets (95 g),164.0,691.0
+Offal & Giblets,Turkey Heart,1 heart (20 g),35.0,146.0
+Offal & Giblets,Turkey Liver,1 liver (53 g),100.0,421.0
+Offal & Giblets,Turkey Stomach,1 serving (100 g),148.0,622.0
+Offal & Giblets,Veal Heart,1 unit (198 g),368.0,1546.0
+Offal & Giblets,Veal Kidney,1 unit (184 g),300.0,1260.0
+Offal & Giblets,Veal Tongue,1 unit (255 g),515.0,2162.0
+Oils & Fats,Almond Oil,1 tbsp (14 ml),123.0,519.0
+Oils & Fats,Avocado Oil,1 tbsp (14 ml),120.0,504.0
+Oils & Fats,Butter,1 tbsp (15 g),108.0,454.0
+Oils & Fats,Canola Oil,1 tbsp (14 ml),124.0,520.0
+Oils & Fats,Coconut Oil,1 tbsp (14 ml),120.0,504.0
+Oils & Fats,Cod Liver Oil,1 tbsp (14 ml),140.0,588.0
+Oils & Fats,Corn Oil,1 tbsp (15 ml),120.0,504.0
+Oils & Fats,Cottonseed Oil,1 tbsp (14 ml),123.0,519.0
+Oils & Fats,Flaxseed Oil,1 tbsp (14 ml),124.0,520.0
+Oils & Fats,Ghee,1 tbsp (14 g),17.0,71.0
+Oils & Fats,Goose Fat,1 tbsp (13 g),117.0,490.0
+Oils & Fats,Grape Seed Oil,1 tbsp (14 ml),124.0,520.0
+Oils & Fats,Hemp Oil,1 tbsp (15 ml),121.0,508.0
+Oils & Fats,Herring Oil,1 tbsp (14 ml),126.0,530.0
+Oils & Fats,I can\’t believe it\’s not Butter,1 tbsp (14 g),50.0,210.0
+Oils & Fats,Lard,1 tbsp (13 g),117.0,492.0
+Oils & Fats,Macadamia Oil,1 tbsp (14 ml),115.0,482.0
+Oils & Fats,Margarine,1 tbsp (14 g),100.0,422.0
+Oils & Fats,Mustard Oil,1 tbsp (14 ml),124.0,520.0
+Oils & Fats,Olive Oil,1 tbsp (15 ml),133.0,557.0
+Oils & Fats,Palm Oil,1 tbsp (14 ml),123.0,519.0
+Oils & Fats,Peanut Oil,1 tbsp (14 ml),120.0,504.0
+Oils & Fats,Real Butter,1 tbsp (15 g),108.0,454.0
+Oils & Fats,Rice Bran Oil,1 tbsp (14 ml),124.0,523.0
+Oils & Fats,Safflower Oil,1 tbsp (14 ml),120.0,504.0
+Oils & Fats,Sardine Oil,1 tbsp (14 ml),126.0,530.0
+Oils & Fats,Sesame Oil,1 tbsp (14 ml),124.0,520.0
+Oils & Fats,Soybean Oil,1 tbsp (14 ml),124.0,523.0
+Oils & Fats,Sunflower Oil,1 tbsp (14 ml),124.0,520.0
+Oils & Fats,Walnut Oil,1 tbsp (14 ml),124.0,523.0
+Pasta & Noodles,Cannelloni,2 oz. (56 g),82.0,343.0
+Pasta & Noodles,Capellini,2 oz. (56 g),198.0,830.0
+Pasta & Noodles,Cappelletti,2 oz. (56 g),92.0,386.0
+Pasta & Noodles,Cellophane Noodles,1 cup (140 g),491.0,2064.0
+Pasta & Noodles,Cheese Tortellini,1 cup (113 g),329.0,1381.0
+Pasta & Noodles,Dampfnudel,1 dampfnudel (85 g),233.0,978.0
+Pasta & Noodles,Dumpling Dough,2 oz. (56 g),55.0,233.0
+Pasta & Noodles,Durum Wheat Semolina,2 oz. (56 g),222.0,934.0
+Pasta & Noodles,Egg Noodles,1 cup (38 g),146.0,613.0
+Pasta & Noodles,Farfalle,2 oz. (56 g),200.0,842.0
+Pasta & Noodles,Fettuccine,2 oz. (56 g),198.0,830.0
+Pasta & Noodles,Fusilli,2 oz. (56 g),197.0,828.0
+Pasta & Noodles,Glass Noodles,2 oz. (56 g),108.0,451.0
+Pasta & Noodles,Lasagne Sheets,1 sheet (21 g),57.0,239.0
+Pasta & Noodles,Linguine,2 oz. (56 g),200.0,839.0
+Pasta & Noodles,Low Carb Pasta,2 oz. (56 g),158.0,663.0
+Pasta & Noodles,Macaroni,1 cup (114 g),422.0,1772.0
+Pasta & Noodles,Manicotti,2 oz. (56 g),200.0,839.0
+Pasta & Noodles,Mostaccioli,2 oz. (56 g),103.0,433.0
+Pasta & Noodles,Orecchiette,2 oz. (56 g),207.0,870.0
+Pasta & Noodles,Orzo,2 oz. (56 g),200.0,839.0
+Pasta & Noodles,Penne,2 oz. (56 g),197.0,825.0
+Pasta & Noodles,Penne Rigate,2 oz. (56 g),207.0,870.0
+Pasta & Noodles,Pierogi,3 pierogi (100 g),200.0,840.0
+Pasta & Noodles,Ravioli,2 oz. (56 g),43.0,181.0
+Pasta & Noodles,Rigatoni,2 oz. (56 g),198.0,830.0
+Pasta & Noodles,Rotini,2 oz. (56 g),198.0,830.0
+Pasta & Noodles,Shells,1 cup (85 g),300.0,1261.0
+Pasta & Noodles,Shirataki Noodles,2 oz. (56 g),10.0,43.0
+Pasta & Noodles,Soy Noodles,2 oz. (56 g),121.0,508.0
+Pasta & Noodles,Spaetzle,2 oz. (56 g),206.0,866.0
+Pasta & Noodles,Spaghetti,2 oz. (56 g),207.0,870.0
+Pasta & Noodles,Spinach Tortellini,1 cup (102 g),320.0,1345.0
+Pasta & Noodles,Spirelli,2 oz. (56 g),206.0,863.0
+Pasta & Noodles,Tagliatelle,2 oz. (56 g),207.0,870.0
+Pasta & Noodles,Tortellini,1 cup (113 g),329.0,1381.0
+Pasta & Noodles,Vermicelli,2 oz. (56 g),206.0,866.0
+Pasta & Noodles,Whole Grain Noodles,2 oz. (56 g),194.0,816.0
+Pasta & Noodles,Whole Grain Spaghetti,2 oz. (56 g),197.0,825.0
+Pasta & Noodles,Ziti,2 oz. (56 g),197.0,828.0
+"Pastries, Breads & Rolls",Apple Pie,1 slice (125 g),296.0,1244.0
+"Pastries, Breads & Rolls",Apple Turnover,1 turnover (82 g),285.0,1199.0
+"Pastries, Breads & Rolls",Bagel,1 bagel (98 g),252.0,1057.0
+"Pastries, Breads & Rolls",Baguette,1 slice (60 g),164.0,691.0
+"Pastries, Breads & Rolls",Banana Bread,1 oz. (28.4 g),91.0,383.0
+"Pastries, Breads & Rolls",Banana Nut Bread,1 piece (57 g),186.0,780.0
+"Pastries, Breads & Rolls",Beer Bread,1 slice (30 g),68.0,286.0
+"Pastries, Breads & Rolls",Biscuit,1 biscuit (58 g),156.0,655.0
+"Pastries, Breads & Rolls",Black Bread,1 slice (26 g),65.0,273.0
+"Pastries, Breads & Rolls",Bran Muffins,1 muffin (58 g),157.0,658.0
+"Pastries, Breads & Rolls",Bread Pudding,1 serving (100 g),153.0,643.0
+"Pastries, Breads & Rolls",Breadsticks,1 breadstick (5 g),20.0,84.0
+"Pastries, Breads & Rolls",Brioche,1 serving (77 g),266.0,1119.0
+"Pastries, Breads & Rolls",Brown Bread,1 slice (30 g),74.0,310.0
+"Pastries, Breads & Rolls",Brownies,1 square (40 g),162.0,680.0
+"Pastries, Breads & Rolls",Bun,1 bun (38 g),120.0,504.0
+"Pastries, Breads & Rolls",Cannoli,1 serving (85 g),216.0,907.0
+"Pastries, Breads & Rolls",Caramel Cake,1 oz. (28.4 g),108.0,453.0
+"Pastries, Breads & Rolls",Challah,1 slice (23 g),65.0,273.0
+"Pastries, Breads & Rolls",Chapati,1 piece (50 g),120.0,504.0
+"Pastries, Breads & Rolls",Ciabatta,1 slice (20 g),54.0,228.0
+"Pastries, Breads & Rolls",Cinnamon Bun,1 bun (65 g),283.0,1190.0
+"Pastries, Breads & Rolls",Coffee Cake,1 piece (76 g),318.0,1335.0
+"Pastries, Breads & Rolls",Conchas/Mexican Sweet Bread,1 piece (82 g),289.0,1216.0
+"Pastries, Breads & Rolls",Cornbread,1 oz. (28.4 g),50.0,211.0
+"Pastries, Breads & Rolls",Crepes,1 crepe (50 g),112.0,471.0
+"Pastries, Breads & Rolls",Croissant,1 croissant (57 g),231.0,972.0
+"Pastries, Breads & Rolls",Crumpet,1 crumpet (55 g),98.0,411.0
+"Pastries, Breads & Rolls",Cupcakes,1 cupcake (43 g),131.0,551.0
+"Pastries, Breads & Rolls",Donut/Doughnut,1 doughnut (45 g),189.0,796.0
+"Pastries, Breads & Rolls",Dosa,1 serving (50 g),105.0,439.0
+"Pastries, Breads & Rolls",Empanada,1 piece (89 g),298.0,1252.0
+"Pastries, Breads & Rolls",English Muffin,1 muffin (57 g),129.0,543.0
+"Pastries, Breads & Rolls",Flatbread,1 slice (50 g),156.0,653.0
+"Pastries, Breads & Rolls",Focaccia,1 piece (57 g),142.0,596.0
+"Pastries, Breads & Rolls",Garlic Bread,1 slice (43 g),151.0,632.0
+"Pastries, Breads & Rolls",Hot Dog Buns,1 bun (43 g),120.0,504.0
+"Pastries, Breads & Rolls",Italian Bread,1 slice (30 g),81.0,341.0
+"Pastries, Breads & Rolls",Latkes,1 serving (74 g),140.0,588.0
+"Pastries, Breads & Rolls",Matzo Bread,1 matzo (28 g),98.0,413.0
+"Pastries, Breads & Rolls",Monkey Bread,1 piece (57 g),165.0,694.0
+"Pastries, Breads & Rolls",Muffin,1 muffin (71 g),210.0,883.0
+"Pastries, Breads & Rolls",Multi-Grain Bread,1 slice (26 g),69.0,289.0
+"Pastries, Breads & Rolls",Naan,1 naan (160 g),440.0,1848.0
+"Pastries, Breads & Rolls",Oatmeal Cookies,1 cookie (25 g),113.0,473.0
+"Pastries, Breads & Rolls",Oatmeal Raisin Cookies,1 cookie (25 g),109.0,457.0
+"Pastries, Breads & Rolls",Pan de Sal,1 serving (50 g),147.0,616.0
+"Pastries, Breads & Rolls",Pancake,1 pancake (38 g),89.0,372.0
+"Pastries, Breads & Rolls",Pandesal,1 serving (50 g),147.0,616.0
+"Pastries, Breads & Rolls",Panettone,1 slice (27 g),86.0,361.0
+"Pastries, Breads & Rolls",Pide,1 pide (60 g),161.0,676.0
+"Pastries, Breads & Rolls",Pie,1 piece (125 g),296.0,1244.0
+"Pastries, Breads & Rolls",Pita Bread,1 pita (50 g),138.0,578.0
+"Pastries, Breads & Rolls",Potato Bread,1 slice (32 g),85.0,357.0
+"Pastries, Breads & Rolls",Pretzel,1 pretzel (115 g),389.0,1633.0
+"Pastries, Breads & Rolls",Pretzel Roll,1 roll (60 g),203.0,852.0
+"Pastries, Breads & Rolls",Puff Pastry,1 piece (47 g),262.0,1102.0
+"Pastries, Breads & Rolls",Pumpernickel,1 pumpernickel (36 g),90.0,378.0
+"Pastries, Breads & Rolls",Raisin Bread,1 slice (32 g),88.0,368.0
+"Pastries, Breads & Rolls",Roll,1 roll (38 g),120.0,504.0
+"Pastries, Breads & Rolls",Roti,1 roti (43 g),114.0,477.0
+"Pastries, Breads & Rolls",Rye Bread,1 oz. (28.4 g),73.0,305.0
+"Pastries, Breads & Rolls",Sandwich,1 sandwich (83 g),252.0,1060.0
+"Pastries, Breads & Rolls",Sandwich Bread,1 slice (26 g),65.0,274.0
+"Pastries, Breads & Rolls",Scone,1 scone (40 g),145.0,608.0
+"Pastries, Breads & Rolls",Shortcrust Pastry,1 serving (50 g),272.0,1143.0
+"Pastries, Breads & Rolls",Soda Bread,1 oz. (28.4 g),81.0,341.0
+"Pastries, Breads & Rolls",Soufflé,1 cup (136 g),277.0,1166.0
+"Pastries, Breads & Rolls",Sourdough Bread,1 slice (35 g),101.0,425.0
+"Pastries, Breads & Rolls",Spanakopita,1 piece (57 g),140.0,589.0
+"Pastries, Breads & Rolls",Spice Cake,1 piece (66 g),219.0,920.0
+"Pastries, Breads & Rolls",Sweet Rolls,1 roll (66 g),220.0,923.0
+"Pastries, Breads & Rolls",Swiss Roll,1 piece (32 g),100.0,421.0
+"Pastries, Breads & Rolls",Toast,1 slice (33 g),86.0,362.0
+"Pastries, Breads & Rolls",Tortilla,1 tortilla (49 g),146.0,611.0
+"Pastries, Breads & Rolls",Tortilla Bread,1 tortilla (68 g),180.0,757.0
+"Pastries, Breads & Rolls",White Bread,1 slice (28 g),67.0,280.0
+"Pastries, Breads & Rolls",Whole Wheat Bread,1 slice (46 g),114.0,477.0
+Pizza,BBQ Chicken Pizza,1 slice (132 g),309.0,1298.0
+Pizza,BBQ Pizza,1 slice (140 g),314.0,1317.0
+Pizza,Beef Pizza,1 slice (235 g),714.0,3001.0
+Pizza,Bianca Pizza,1 slice (187 g),460.0,1932.0
+Pizza,Buffalo Chicken Pizza,1 slice (238 g),600.0,2518.0
+Pizza,Calabrese Pizza,1 slice (108 g),254.0,1066.0
+Pizza,Calzone,1 calzone (364 g),841.0,3531.0
+Pizza,Capricciosa Pizza,1 slice (74 g),192.0,808.0
+Pizza,Cheese Pizza,1 slice (63 g),168.0,706.0
+Pizza,Chicken Pizza,1 slice (132 g),309.0,1298.0
+Pizza,Deep Dish Pizza,1 slice (118 g),313.0,1313.0
+Pizza,Dominos Philly Cheese Steak Pizza,1 slice (159 g),356.0,1496.0
+Pizza,Four Cheese Pizza,1 slice (113 g),250.0,1049.0
+Pizza,Goat Cheese Pizza,1 slice (63 g),138.0,580.0
+Pizza,Grilled Pizza,1 slice (124 g),280.0,1177.0
+Pizza,Hawaiian Pizza,1 slice (134 g),154.0,647.0
+Pizza,Margherita Pizza,1 slice (63 g),173.0,728.0
+Pizza,Mozzarella Pizza,1 slice (62 g),154.0,649.0
+Pizza,Mushroom Pizza,1 slice (288 g),611.0,2563.0
+Pizza,Napoli Pizza,1 slice (123 g),248.0,1043.0
+Pizza,New York Style Pizza,1 slice (103 g),174.0,731.0
+Pizza,Pepperoni Pizza,1 slice (71 g),181.0,760.0
+Pizza,Pizza Dough,2 oz. (57 g),130.0,546.0
+Pizza,Pizza Hut Stuffed Crust Pizza,1 slice (149 g),380.0,1596.0
+Pizza,Pizza Hut Supreme Pizza,1 slice (123 g),305.0,1282.0
+Pizza,Pizza Rolls,1 roll (14 g),35.0,145.0
+Pizza,Quattro Formaggi Pizza,1 slice (133 g),330.0,1386.0
+Pizza,Red Pepper Pizza,1 slice (86 g),165.0,693.0
+Pizza,Salami Pizza,1 slice (71 g),181.0,760.0
+Pizza,Sausage Pizza,1 slice (72 g),177.0,744.0
+Pizza,Seafood Pizza,1 slice (76 g),186.0,782.0
+Pizza,Shrimp Pizza,1 slice (91 g),190.0,799.0
+Pizza,Sicilian Pizza,1 slice (133 g),321.0,1346.0
+Pizza,Spinach Feta Pizza,1 slice (62 g),150.0,630.0
+Pizza,Spinach Pizza,1 slice (62 g),145.0,609.0
+Pizza,Stuffed Crust Pizza,1 slice (149 g),380.0,1596.0
+Pizza,Tarte Flambée,1 square (56 g),142.0,595.0
+Pizza,Thin Crust Pizza,1 slice (60 g),157.0,658.0
+Pizza,Tuna Pizza,1 slice (125 g),318.0,1334.0
+Pizza,Vegetable Pizza,1 slice (156 g),399.0,1677.0
+Pizza,Vegetarian Pizza,1 slice (156 g),399.0,1677.0
+Pizza,Veggie Pizza,1 slice (114 g),263.0,1106.0
+Pizza,White Pizza,1 slice (232 g),571.0,2397.0
+Pork,Bacon,1 slice (26 g),106.0,444.0
+Pork,Brawn,1 slice (25 g),77.0,325.0
+Pork,Canadian-Style Bacon,1 slice (56 g),60.0,251.0
+Pork,Chitterlings,3 oz. (85 g),198.0,832.0
+Pork,Ground Pork,4 oz. (112 g),295.0,1238.0
+Pork,Hog Maws,1 oz. (28 g),70.0,294.0
+Pork,Lard,1 tbsp (13 g),117.0,490.0
+Pork,Meatloaf,12 oz. (336 g),299.0,1257.0
+Pork,Parma Ham,1 serving (12 g),31.0,132.0
+Pork,Pig Ear,1 ear (111 g),184.0,774.0
+Pork,Pig Fat,1 oz. (28 g),179.0,750.0
+Pork,Pig’s Tail,1 piece (275 g),1089.0,4573.0
+Pork,Pig’s Trotter,4 oz. (113 g),275.0,1154.0
+Pork,Pork Bacon,1 slice (26 g),106.0,444.0
+Pork,Pork Belly,1 oz. (28 g),145.0,609.0
+Pork,Pork Blade Steak,4 oz. (113 g),262.0,1101.0
+Pork,Pork Chop,1 chop  (158 g),194.0,817.0
+Pork,Pork Country-Style Ribs,4 oz. (113 g),150.0,632.0
+Pork,Pork Crown Roast,4 oz. (113 g),240.0,1006.0
+Pork,Pork Cutlet,1 package (283 g),371.0,1557.0
+Pork,Pork Cutlets,1 package (283 g),371.0,1557.0
+Pork,Pork Leg,1 piece (231 g),464.0,1950.0
+Pork,Pork Loin,1 piece (333 g),476.0,2001.0
+Pork,Pork Meatloaf,4 oz. (113 g),275.0,1154.0
+Pork,Pork Ragout,1 serving (361 g),264.0,1108.0
+Pork,Pork Rib Roast,4 oz. (113 g),180.0,755.0
+Pork,Pork Ribs,3 oz. (85 g),248.0,1042.0
+Pork,Pork Roast,1 chop  (263 g),510.0,2143.0
+Pork,Pork Sausage,1 sausage (48 g),163.0,684.0
+Pork,Pork Shank,1 oz. (28 g),48.0,202.0
+Pork,Pork Shoulder,1 piece (262 g),705.0,2961.0
+Pork,Pork Shoulder Blade,4 oz. (113 g),262.0,1101.0
+Pork,Pork Stomach,1 oz. (28 g),70.0,294.0
+Pork,Rack of Pork,4 oz. (113 g),272.0,1144.0
+Pork,Salt Meat,1 oz. (28 g),80.0,336.0
+Pork,Salt Pork,1 oz. (28 g),80.0,336.0
+Pork,Serrano Ham,2 oz. (56 g),190.0,797.0
+Pork,Spare Ribs,3 oz. (85 g),337.0,1414.0
+Pork,Spareribs,1 piece (247 g),588.0,2470.0
+Potato Products,All-blue Potatoes,1 potato (136 g),83.0,348.0
+Potato Products,Baked Potato,1 potato (173 g),161.0,676.0
+Potato Products,Boiled Potatoes,1 potato (136 g),118.0,496.0
+Potato Products,Cassava,1 root (408 g),653.0,2742.0
+Potato Products,Croquettes,1 serving (138 g),175.0,736.0
+Potato Products,Dumpling Dough,1 dumpling (40 g),50.0,208.0
+Potato Products,Dumplings,1 dumpling (40 g),50.0,208.0
+Potato Products,French Fingerling Potatoes,1 potato (136 g),112.0,468.0
+Potato Products,French Fries,1 serving (117 g),365.0,1533.0
+Potato Products,Fried Potatoes,1 serving (117 g),365.0,1533.0
+Potato Products,Gnocchi,1 cup (188 g),250.0,1051.0
+Potato Products,Japanese Sweet Potatoes,1 potato (130 g),113.0,475.0
+Potato Products,Marrow Dumplings,1 dumpling (136 g),577.0,2422.0
+Potato Products,Mashed Potatoes,1 cup (242 g),215.0,905.0
+Potato Products,Norland Red Potatoes,1 potato (136 g),121.0,509.0
+Potato Products,Omelette,1 omelette (61 g),94.0,395.0
+Potato Products,Potato,1 potato (214 g),165.0,691.0
+Potato Products,Potato Dumpling,1 dumpling (40 g),50.0,208.0
+Potato Products,Potato Fritter,1 fritter (74 g),137.0,575.0
+Potato Products,Potato Gratin,1 cup (245 g),323.0,1357.0
+Potato Products,Potato Pancakes,1 pancake (37 g),99.0,417.0
+Potato Products,Potato Salad,1 cup (250 g),358.0,1503.0
+Potato Products,Potato Starch,1 tbsp (12 g),40.0,167.0
+Potato Products,Potato Sticks,1/2 cup (18 g),94.0,395.0
+Potato Products,Potato Waffles,1 waffle (57 g),95.0,400.0
+Potato Products,Potato Wedges,1 serving (100 g),123.0,517.0
+Potato Products,Potatoes au Gratin,1 cup (245 g),323.0,1357.0
+Potato Products,Purple Majesty Potatoes,1 potato (136 g),98.0,411.0
+Potato Products,Red Gold Potatoes,1 potato (136 g),121.0,509.0
+Potato Products,Red Potatoes,1 potato (173 g),154.0,647.0
+Potato Products,Roast Potatoes,1 potato (136 g),203.0,851.0
+Potato Products,Rosemary Potatoes,1 potato (173 g),161.0,676.0
+Potato Products,Russet Potatoes,1 potato (173 g),168.0,704.0
+Potato Products,Russian Banana Potatoes,1 potato (136 g),91.0,382.0
+Potato Products,Rösti,1 roesti (100 g),138.0,580.0
+Potato Products,Sweet Potato,1 potato (114 g),105.0,440.0
+Potato Products,White Potatoes,1 potato (138 g),130.0,545.0
+Potato Products,Yams,1 cup (136 g),158.0,662.0
+Potato Products,Yukon Gold Potatoes,1 potato (136 g),112.0,468.0
+Poultry & Fowl,Capon,1 capon (1418 g),3247.0,13641.0
+Poultry & Fowl,Chicken,1/2 chicken (334 g),731.0,3073.0
+Poultry & Fowl,Chicken Breast,1 breast (200 g),344.0,1444.0
+Poultry & Fowl,Chicken Drumsticks,1 drumstick (71 g),131.0,552.0
+Poultry & Fowl,Chicken Gizzards,1 cup (145 g),223.0,938.0
+Poultry & Fowl,Chicken Legs,1 leg (199 g),346.0,1455.0
+Poultry & Fowl,Chicken Thighs,1 thigh (111 g),254.0,1068.0
+Poultry & Fowl,Chicken Wings,1 wing (53 g),141.0,592.0
+Poultry & Fowl,Cornish Hens,1 duck (257 g),666.0,2796.0
+Poultry & Fowl,Dove,1 serving (100 g),213.0,895.0
+Poultry & Fowl,Duck,1/2 duck (634 g),2137.0,8971.0
+Poultry & Fowl,Duck Breast,1 breast (73 g),147.0,616.0
+Poultry & Fowl,Emu,1 steak (394 g),599.0,2514.0
+Poultry & Fowl,Goose,1/2 goose (591 g),1803.0,7571.0
+Poultry & Fowl,Guinea-Fowl,1/2 guinea (345 g),545.0,2291.0
+Poultry & Fowl,Ostrich,1 serving (85 g),123.0,518.0
+Poultry & Fowl,Ostrich Meat,1 serving (85 g),123.0,518.0
+Poultry & Fowl,Pheasant,1 serving (100 g),239.0,1004.0
+Poultry & Fowl,Pheasant Breast,1/2 breast (182 g),242.0,1017.0
+Poultry & Fowl,Pheasant Leg,1 leg (107 g),256.0,1074.0
+Poultry & Fowl,Pigeon,1 pigeon (199 g),283.0,1186.0
+Poultry & Fowl,Poularde,1 serving (100 g),200.0,840.0
+Poultry & Fowl,Quail,1 quail (92 g),209.0,877.0
+Poultry & Fowl,Quail Breast,1 breast (56 g),69.0,290.0
+Poultry & Fowl,Rhea,1 serving (100 g),160.0,672.0
+Poultry & Fowl,Turkey,1 turkey (3812 g),7205.0,30267.0
+Poultry & Fowl,Turkey Breast,1/2 breast (864 g),1166.0,4899.0
+Poultry & Fowl,Turkey Cutlet,1 cutlet (113 g),214.0,897.0
+Poultry & Fowl,Turkey Drumsticks,1 serving (100 g),208.0,874.0
+Poultry & Fowl,Turkey Legs,1 leg (546 g),1136.0,4772.0
+Poultry & Fowl,Turkey Steak,1 steak (170 g),321.0,1350.0
+Poultry & Fowl,Turkey Wings,1 wing (24 g),53.0,223.0
+Poultry & Fowl,Wild Duck,1/2 duck (270 g),570.0,2392.0
+Sauces & Dressings,1000 Island Dressing,1 tbsp (15 ml),56.0,233.0
+Sauces & Dressings,Ajvar,1 tbsp (15 ml),3.0,11.0
+Sauces & Dressings,Arrabiata Sauce,1 pot (350 g),126.0,529.0
+Sauces & Dressings,Balsamic Vinaigrette Dressing,1 tbsp (16 ml),46.0,195.0
+Sauces & Dressings,Barbecue Sauce,1 tbsp (15 g),23.0,95.0
+Sauces & Dressings,Bechamel Sauce,1 tbsp (15 g),34.0,142.0
+Sauces & Dressings,Bernaise Sauce,1 tbsp (15 g),62.0,261.0
+Sauces & Dressings,Blue Cheese Dressing,1 tbsp (15 ml),80.0,336.0
+Sauces & Dressings,Bolognese,1 cup (226 g),240.0,1006.0
+Sauces & Dressings,Buttermilk Ranch Dressing,1 tbsp (15 ml),80.0,336.0
+Sauces & Dressings,Caesar Dressing,1 tbsp (15 ml),64.0,270.0
+Sauces & Dressings,Catalina Dressing,1 tbsp (15 ml),42.0,178.0
+Sauces & Dressings,Chasseur Sauce,1 tbsp (15 g),7.0,28.0
+Sauces & Dressings,Chili Sauce,1 tbsp (18 g),20.0,85.0
+Sauces & Dressings,Cream Sauce,1 cup (244 g),439.0,1845.0
+Sauces & Dressings,Curry Ketchup,1 tbsp (15 g),19.0,78.0
+Sauces & Dressings,Curry Sauce,1 tbsp (17 g),4.0,19.0
+Sauces & Dressings,French Dressing,1 tbsp (15 ml),9.0,38.0
+Sauces & Dressings,Gravy,1 cup (233 g),123.0,520.0
+Sauces & Dressings,Greek Dressing,1 tbsp (15 ml),70.0,294.0
+Sauces & Dressings,Hamburger Sauce,1 tbsp (15 g),57.0,241.0
+Sauces & Dressings,Harissa,1 tbsp (15 g),8.0,33.0
+Sauces & Dressings,Hollandaise Sauce,1 tbsp (15 g),80.0,337.0
+Sauces & Dressings,Honey Mustard Dressing,1 tbsp (16 ml),74.0,312.0
+Sauces & Dressings,Horseradish,1 tbsp (15 g),7.0,30.0
+Sauces & Dressings,Italian Dressing,1 tbsp (15 ml),44.0,185.0
+Sauces & Dressings,Ketchup,1 tbsp (15 g),15.0,63.0
+Sauces & Dressings,Mayonnaise,1 tbsp (13 g),90.0,378.0
+Sauces & Dressings,Mustard,1 tsp (5 g),3.0,13.0
+Sauces & Dressings,Mustard Sauce,1 tbsp (13 g),84.0,352.0
+Sauces & Dressings,Orange Sauce,1 tbsp (15 g),27.0,113.0
+Sauces & Dressings,Pesto,1 tbsp (15 g),69.0,289.0
+Sauces & Dressings,Ranch Dressing,1 tbsp (15 ml),77.0,321.0
+Sauces & Dressings,Remoulade Sauce,1 tbsp (13 g),83.0,347.0
+Sauces & Dressings,Russian Dressing,1 tbsp (15 ml),60.0,252.0
+Sauces & Dressings,Salad Dressing,1 tbsp (16 ml),72.0,302.0
+Sauces & Dressings,Sambal Oelek,1 tsp (5 g),1.0,4.0
+Sauces & Dressings,Sesame Ginger Dressing,1 tbsp (15 ml),70.0,292.0
+Sauces & Dressings,Sesame Paste,1 tbsp (15 g),89.0,375.0
+Sauces & Dressings,Sour Cream,1 tbsp (12 g),26.0,109.0
+Sauces & Dressings,Sour Cream Sauce,1 tbsp (15 g),9.0,38.0
+Sauces & Dressings,Soy Sauce,1 tbsp (15 ml),10.0,42.0
+Sauces & Dressings,Sweet and Sour Sauce,1 tbsp (15 g),27.0,113.0
+Sauces & Dressings,Tabasco,1 tsp (5 g),4.0,15.0
+Sauces & Dressings,Teriyaki Sauce,1 tbsp (18 g),16.0,67.0
+Sauces & Dressings,Thai Curry Paste,1 tbsp (15 g),23.0,98.0
+Sauces & Dressings,Tomato Paste,1 tbsp (17 g),14.0,58.0
+Sauces & Dressings,Tomato Puree,1 tbsp (15 g),6.0,24.0
+Sauces & Dressings,Tomato Sauce,1 cup (245 g),59.0,247.0
+Sauces & Dressings,Tzatziki,1 tbsp (15 g),14.0,59.0
+Sauces & Dressings,Vinaigrette,1 tbsp (15 ml),18.0,76.0
+Sauces & Dressings,Worcestershire Sauce,1 tbsp (15 ml),12.0,49.0
+Sauces & Dressings,Yogurt Dressing,1 tbsp (15 ml),7.0,28.0
+Sauces & Dressings,Zesty Italian Dressing,1 tbsp (15 ml),40.0,168.0
+Sausage,Andouille,1 link (85 g),197.0,828.0
+Sausage,Bacon,1 slice (26 g),106.0,444.0
+Sausage,Black Pudding,1 slice (25 g),95.0,398.0
+Sausage,Blood Sausage,1 slice (25 g),95.0,398.0
+Sausage,Bockwurst,1 sausage (91 g),274.0,1150.0
+Sausage,Boiled Ham,1 serving (63 g),66.0,275.0
+Sausage,Bologna,1 slice (23 g),57.0,239.0
+Sausage,Boudin,1 oz. (28.35 g),54.0,228.0
+Sausage,Bratwurst,1 bratwurst (66 g),196.0,823.0
+Sausage,Brawn,1 slice (28 g),44.0,185.0
+Sausage,Breakfast Sausage Links,1 link (13 g),44.0,185.0
+Sausage,Cheese Pastry,1 pastry (71 g),266.0,1115.0
+Sausage,Chicken Breast,1 slice (21 g),17.0,70.0
+Sausage,Chicken Meat,1 slice (21 g),17.0,70.0
+Sausage,Chicken Salad,1 serving (344 g),279.0,1170.0
+Sausage,Chorizo,1 oz. (28.35 g),127.0,535.0
+Sausage,Cooked Ham,1 oz. (28.35 g),37.0,157.0
+Sausage,Corned Beef,1 slice (28 g),43.0,180.0
+Sausage,Cumberland Sausage,1 sausage (30 g),75.0,315.0
+Sausage,Frankfurters,1 frankfurter (45 g),137.0,576.0
+Sausage,Garlic Sausage,1 slice (13 g),22.0,92.0
+Sausage,Hot Dogs,1 hot dog (52 g),145.0,607.0
+Sausage,Hot Sausage,1 serving (55 g),142.0,598.0
+Sausage,Italian Sausage,1 link (84 g),125.0,526.0
+Sausage,Jerky,1 piece (20 g),82.0,344.0
+Sausage,Kielbasa,1 link (75 g),232.0,974.0
+Sausage,Knackwurst,1 link (72 g),221.0,928.0
+Sausage,Landjaeger,1 landjaeger (56.8 g),197.0,828.0
+Sausage,Linguica,1 oz. (28.35 g),79.0,332.0
+Sausage,Liver Pate,1 tbsp (13 g),41.0,174.0
+Sausage,Liverwurst,1 slice (18 g),59.0,246.0
+Sausage,Luncheon Meat,1 slice (9.3 g),11.0,44.0
+Sausage,Mettwurst,1 serving (28 g),87.0,365.0
+Sausage,Mortadella,1 slice (15 g),47.0,196.0
+Sausage,Pastrami,1 slice (29 g),39.0,162.0
+Sausage,Pepperoni,1 slice (2 g),10.0,42.0
+Sausage,Polish Sausage,1 serving (76 g),229.0,961.0
+Sausage,Pork,1 slice (21 g),52.0,218.0
+Sausage,Pork Roll,1 slice (43 g),130.0,545.0
+Sausage,Prosciutto,1 slice (9 g),18.0,74.0
+Sausage,Ring Bologna,1 oz. (28.35 g),80.0,336.0
+Sausage,Salami,1 slice (12.3 g),40.0,169.0
+Sausage,Sausage,1 sausage (16 g),37.0,155.0
+Sausage,Smoked Sausage,1 serving (76 g),229.0,961.0
+Sausage,Souse,1 slice (28 g),44.0,185.0
+Sausage,Spam,1 serving (56 g),176.0,741.0
+Sausage,Weisswurst,1 link (113 g),354.0,1486.0
+Sliced Cheese,American Cheese,1 slice (21 g),31.0,131.0
+Sliced Cheese,Applewood,1 slice (20 g),82.0,344.0
+Sliced Cheese,Bergkäse,1 slice (24 g),100.0,421.0
+Sliced Cheese,Butter Cheese,1 slice (26 g),101.0,424.0
+Sliced Cheese,Cheddar,1 slice (28 g),113.0,474.0
+Sliced Cheese,Cheese Platter,1 slice (28 g),100.0,420.0
+Sliced Cheese,Cheese Slices,1 slice (28 g),100.0,419.0
+Sliced Cheese,Colby Cheese,1 slice (28 g),110.0,463.0
+Sliced Cheese,Colby-Jack Cheese,1 slice (28 g),110.0,463.0
+Sliced Cheese,Cold Pack Cheese,1 tbsp (14 g),34.0,145.0
+Sliced Cheese,Edam,1 slice (28 g),100.0,420.0
+Sliced Cheese,Edam Cheese,1 slice (28 g),100.0,420.0
+Sliced Cheese,Emmental,1 slice (25 g),89.0,375.0
+Sliced Cheese,Emmentaler,1 slice (25 g),89.0,375.0
+Sliced Cheese,Esrom (Cheese),1 slice (23 g),74.0,311.0
+Sliced Cheese,Fol Epi,1 slice (24 g),93.0,391.0
+Sliced Cheese,Fresh Mozzarella,1 slice (28 g),78.0,329.0
+Sliced Cheese,Gouda,1 slice (28 g),100.0,419.0
+Sliced Cheese,Gouda Cheese,1 slice (28 g),100.0,419.0
+Sliced Cheese,Havarti,1 slice (28 g),104.0,436.0
+Sliced Cheese,Lacy Swiss Cheese,1 slice (28 g),90.0,377.0
+Sliced Cheese,Leerdammer,1 slice (25 g),71.0,298.0
+Sliced Cheese,Leerdammer Cheese,1 slice (25 g),71.0,298.0
+Sliced Cheese,Maasdam Cheese,1 slice (18 g),62.0,260.0
+Sliced Cheese,Monterey Jack Cheese,1 slice (28 g),104.0,439.0
+Sliced Cheese,Mozzarella,1 slice (28 g),78.0,329.0
+Sliced Cheese,Muenster Cheese,1 slice (28 g),103.0,433.0
+Sliced Cheese,Pepper Cheese,1 slice (21 g),21.0,88.0
+Sliced Cheese,Sandwich Cheese,1 slice (21 g),31.0,131.0
+Sliced Cheese,Smoked Cheese,1 slice (20 g),82.0,344.0
+Sliced Cheese,Tilsit,1 slice (25 g),85.0,357.0
+Sliced Cheese,White American,1 slice (21 g),31.0,131.0
+Sliced Cheese,White Cheddar,1 cup (132 g),532.0,2235.0
+Sliced Cheese,Young Gouda,1 slice (28 g),100.0,419.0
+Soda & Soft Drinks,7up,12 fl. oz. (355 ml),156.0,657.0
+Soda & Soft Drinks,Barq’s,12 fl. oz. (355 ml),163.0,685.0
+Soda & Soft Drinks,Bitter Lemon,12 fl. oz. (355 ml),121.0,508.0
+Soda & Soft Drinks,Canada Dry Ginger Ale,8 fl. oz. (240 ml),98.0,413.0
+Soda & Soft Drinks,Cherry Coke,12 fl. oz. (355 ml),156.0,657.0
+Soda & Soft Drinks,Coke,12 fl. oz. (355 ml),149.0,625.0
+Soda & Soft Drinks,Diet Cherry Coke,12 fl. oz. (355 ml),4.0,14.0
+Soda & Soft Drinks,Diet Coke,12 fl. oz. (355 ml),4.0,14.0
+Soda & Soft Drinks,Dr. Brown’s,12 fl. oz. (355 ml),188.0,792.0
+Soda & Soft Drinks,Dr. Pepper,12 fl. oz. (355 ml),96.0,401.0
+Soda & Soft Drinks,Fanta,12 fl. oz. (355 ml),138.0,582.0
+Soda & Soft Drinks,Five Alive,12 fl. oz. (355 ml),124.0,522.0
+Soda & Soft Drinks,Full Throttle,8 fl. oz. (240 ml),264.0,1109.0
+Soda & Soft Drinks,Fuze,12 fl. oz. (355 ml),71.0,298.0
+Soda & Soft Drinks,Fuze Tea,12 fl. oz. (355 ml),89.0,373.0
+Soda & Soft Drinks,Gatorade,12 fl. oz. (355 ml),89.0,373.0
+Soda & Soft Drinks,Ginger Ale,12 fl. oz. (355 ml),124.0,522.0
+Soda & Soft Drinks,Ice Tea,12 fl. oz. (355 ml),96.0,401.0
+Soda & Soft Drinks,Jolt Cola,8 fl. oz. (240 ml),106.0,444.0
+Soda & Soft Drinks,Kool-Aid,8 fl. oz. (237 ml),62.0,258.0
+Soda & Soft Drinks,Lemonade,12 fl. oz. (355 ml),149.0,625.0
+Soda & Soft Drinks,Mello Yello,8 fl. oz. (240 ml),118.0,494.0
+Soda & Soft Drinks,Minute Maid,8 fl. oz. (240 ml),110.0,463.0
+Soda & Soft Drinks,Minute Maid Light,8 fl. oz. (240 ml),5.0,19.0
+Soda & Soft Drinks,Mug Root Beer,8 fl. oz. (240 ml),101.0,422.0
+Soda & Soft Drinks,Orange Soda,12 fl. oz. (355 ml),170.0,717.0
+Soda & Soft Drinks,Pepsi,12 fl. oz. (355 ml),156.0,657.0
+Soda & Soft Drinks,Pibb Xtra,12 fl. oz. (355 ml),142.0,596.0
+Soda & Soft Drinks,Powerade,1 bottle (500 ml),600.0,2520.0
+Soda & Soft Drinks,Schweppes Ginger Ale,12 fl. oz. (355 ml),135.0,568.0
+Soda & Soft Drinks,Soda,12 fl. oz. (355 ml),188.0,792.0
+Soda & Soft Drinks,Sprite,12 fl. oz. (355 ml),131.0,550.0
+Soda & Soft Drinks,Squirt,8 fl. oz. (240 ml),106.0,444.0
+Soda & Soft Drinks,Sunkist,12 fl. oz. (355 ml),89.0,373.0
+Soda & Soft Drinks,Surge,12 fl. oz. (355 ml),170.0,717.0
+Soda & Soft Drinks,Tonic Water,12 fl. oz. (355 ml),124.0,522.0
+Soda & Soft Drinks,Vanilla Coke,12 fl. oz. (355 ml),160.0,671.0
+Soups,Alphabet Soup,1 cup (248 g),62.0,260.0
+Soups,Bean Stew,1 cup (252 g),335.0,1409.0
+Soups,Beef Bouillon,1 cup (240 g),7.0,31.0
+Soups,Beef Noodle Soup,1 cup (244 g),83.0,349.0
+Soups,Beef Soup,1 cup (213 g),70.0,296.0
+Soups,Bouillon,1 cup (244 g),39.0,163.0
+Soups,Broccoli Cheese Soup,1 can (303 g),264.0,1106.0
+Soups,Broccoli Soup,1 cup (237 g),206.0,865.0
+Soups,Cabbage Soup,1 cup (245 g),69.0,289.0
+Soups,Carrot Ginger Soup,1 serving (381 g),95.0,400.0
+Soups,Carrot Soup,1 serving (381 g),95.0,400.0
+Soups,Chicken Bouillon,1 cup (241 g),10.0,41.0
+Soups,Chicken Broth,1 cup (244 g),39.0,163.0
+Soups,Chicken Gumbo Soup,1 cup (244 g),56.0,237.0
+Soups,Chicken Noodle Soup,1 cup (248 g),62.0,260.0
+Soups,Chicken Stock,1 cup (244 g),39.0,163.0
+Soups,Chicken Vegetable Soup,1 cup (248 g),77.0,322.0
+Soups,Chicken with Rice Soup,1 cup (243 g),58.0,245.0
+Soups,Cream of Asparagus Soup,1 cup (244 g),85.0,359.0
+Soups,Cream of Broccoli Soup,1 serving (310 g),140.0,586.0
+Soups,Cream of Celery Soup,1 cup (248 g),92.0,384.0
+Soups,Cream of Chicken Soup,1 cup (244 g),117.0,493.0
+Soups,Cream of Mushroom Soup,1 cup (248 g),97.0,407.0
+Soups,Cream of Onion Soup,1 cup (244 g),107.0,451.0
+Soups,Cream of Potato Soup,1 cup (244 g),73.0,307.0
+Soups,Creamy Chicken Noodle Soup,1 cup (245 g),56.0,238.0
+Soups,French Onion Soup,1 cup (243 g),56.0,236.0
+Soups,Golden Mushroom Soup,1 cup (248 g),161.0,677.0
+Soups,Goulash,1 serving (187 g),1887.0,7925.0
+Soups,Instant Ramen,1 package (85 g),371.0,1556.0
+Soups,Lentil Soup,1 cup (248 g),139.0,583.0
+Soups,Lobster Bisque Soup,1 cup (248 g),248.0,1042.0
+Soups,Meatball Soup,1 cup (245 g),120.0,505.0
+Soups,Minestrone,1 cup (241 g),82.0,345.0
+Soups,Mushroom Soup,1 cup (244 g),85.0,359.0
+Soups,Noodle Soup,1 cup (244 g),83.0,349.0
+Soups,Onion Soup,1 cup (243 g),56.0,236.0
+Soups,Oxtail Soup,1 cup (244 g),68.0,288.0
+Soups,Pea Soup,1 cup (253 g),190.0,797.0
+Soups,Potato Soup,1 serving (240 g),192.0,806.0
+Soups,Pumpkin Soup,1 cup (245 g),71.0,299.0
+Soups,Ramen,1 package (85 g),371.0,1556.0
+Soups,Scotch Broth,1 cup (241 g),80.0,335.0
+Soups,Succotash,1 cup (192 g),221.0,927.0
+Soups,Thai Soup,1 cup (245 g),147.0,617.0
+Soups,Tomato Rice Soup,1 cup (247 g),116.0,487.0
+Soups,Tomato Soup,1 cup (248 g),74.0,312.0
+Soups,Vegetable Beef Soup,1 cup (244 g),76.0,317.0
+Soups,Vegetable Broth,1 cup (235 g),12.0,49.0
+Soups,Vegetable Soup,1 cup (241 g),67.0,284.0
+Soups,Vegetable Stock,1 cup (235 g),12.0,49.0
+Soups,Wedding Soup,1 cup (245 g),130.0,546.0
+Spreads,Almond Butter,1 tbsp (16 g),98.0,413.0
+Spreads,Apple Butter,1 tbsp (17 g),29.0,124.0
+Spreads,Applesauce,1 cup (255 g),173.0,729.0
+Spreads,Apricot Jam,1 tbsp (20 g),50.0,210.0
+Spreads,Blackberry Jam,1 tbsp (20 g),50.0,210.0
+Spreads,Blackcurrant Jam,1 tbsp (20 g),50.0,210.0
+Spreads,Blueberry Jam,1 tbsp (20 g),50.0,210.0
+Spreads,Cheese Spread,1 tbsp (15 g),44.0,183.0
+Spreads,Cherry Jam,1 tbsp (20 g),50.0,210.0
+Spreads,Chocolate Philadelphia,1 serving (30 g),86.0,362.0
+Spreads,Chocolate Spread,1 tsp (12 g),65.0,273.0
+Spreads,Cream Cheese,1 cup (232 g),793.0,3332.0
+Spreads,Egg,1 egg (56 g),54.0,228.0
+Spreads,Grape Jelly,1 tbsp (20 g),51.0,214.0
+Spreads,Honey,1 tbsp (21 g),64.0,268.0
+Spreads,Jelly,1 tbsp (20 g),56.0,234.0
+Spreads,Jif Peanut Butter,1 tbsp (16 g),93.0,390.0
+Spreads,Liverwurst,1 slice (18 g),55.0,231.0
+Spreads,Margarine,1 tbsp (14 g),100.0,422.0
+Spreads,Marmite,1 tsp (4 g),9.0,38.0
+Spreads,Marshmallow Fluff,1 tbsp (6 g),40.0,168.0
+Spreads,Nutella,1 serving (15 g),82.0,343.0
+Spreads,Olive Spread,1 serving (10 g),55.0,231.0
+Spreads,Peanut Butter,1 tbsp (16 g),94.0,396.0
+Spreads,Peter Pan Peanut Butter,1 tbsp (16 g),97.0,409.0
+Spreads,Philadelphia Cream Cheese,1 cup (232 g),793.0,3332.0
+Spreads,Plum Jam,1 tbsp (20 g),50.0,210.0
+Spreads,"Pâté (720), Pate",1 tbsp (13 g),41.0,174.0
+Spreads,Salted Butter,1 cup (227 g),1628.0,6835.0
+Spreads,Skippy Peanut Butter,1 tbsp (16 g),95.0,399.0
+Spreads,Smuckers Strawberry Jam,1 tbsp (20 g),50.0,210.0
+Spreads,Strawberry Jam,1 tbsp (20 g),50.0,210.0
+Spreads,Strawberry Jelly,1 tbsp (20 g),50.0,210.0
+Spreads,Sunbutter,1 tbsp (16 g),99.0,415.0
+Spreads,Sunflower Butter,1 cup (227 g),1401.0,5882.0
+Spreads,Tapenade,1 tbsp (15 g),35.0,147.0
+Spreads,Unsalted Butter,1 cup (227 g),1628.0,6835.0
+Spreads,Vegemite,1 tsp (5 g),9.0,38.0
+Spreads,Wild Honey,1 tbsp (21 g),60.0,252.0
+Tropical & Exotic Fruits,Acerola,1 acerola (4.8 g),1.0,5.0
+Tropical & Exotic Fruits,Asian Pear,1 pear (178 g),75.0,313.0
+Tropical & Exotic Fruits,Avocado,1 avocado (200 g),320.0,1344.0
+Tropical & Exotic Fruits,Banana,1 banana (125 g),111.0,468.0
+Tropical & Exotic Fruits,Breadfruit,1/4 breadfruit (96 g),99.0,416.0
+Tropical & Exotic Fruits,Cantaloupe Melon,1 wedge (69 g),23.0,99.0
+Tropical & Exotic Fruits,Casaba Melon,1 wedge (125 g),35.0,148.0
+Tropical & Exotic Fruits,Cherimoya,1 cherimoya (235 g),176.0,740.0
+Tropical & Exotic Fruits,Dragon Fruit,1 dragonfruit (200 g),120.0,504.0
+Tropical & Exotic Fruits,Durian,1 durian (602 g),885.0,3714.0
+Tropical & Exotic Fruits,Feijoa,1 feijoa (42 g),23.0,97.0
+Tropical & Exotic Fruits,Galia Melon,1 melon (130 g),30.0,126.0
+Tropical & Exotic Fruits,Grapefruit,1/2 grapefruit (123 g),52.0,216.0
+Tropical & Exotic Fruits,Guava,1 guava (55 g),37.0,157.0
+Tropical & Exotic Fruits,Honeydew,1 wedge (125 g),45.0,189.0
+Tropical & Exotic Fruits,Jackfruit,1 cup (151 g),143.0,602.0
+Tropical & Exotic Fruits,Kiwi,1 kiwi (183 g),112.0,468.0
+Tropical & Exotic Fruits,Kumquat,1 kumquat (19 g),13.0,57.0
+Tropical & Exotic Fruits,Lychee,1 lychee (10 g),7.0,28.0
+Tropical & Exotic Fruits,Mandarin Oranges,1 madarin orange (90 g),48.0,201.0
+Tropical & Exotic Fruits,Mango,1 mango (336 g),202.0,847.0
+Tropical & Exotic Fruits,Mangosteen,1 serving (80 g),58.0,246.0
+Tropical & Exotic Fruits,Maracuya,1 maracuya (18 g),17.0,73.0
+Tropical & Exotic Fruits,Maraschino Cherries,1 cherry (5 g),8.0,35.0
+Tropical & Exotic Fruits,Muskmelon,1 wedge (69 g),23.0,99.0
+Tropical & Exotic Fruits,Noni,1 oz. (28.4 g),15.0,62.0
+Tropical & Exotic Fruits,Passion Fruit,1 passion fruit (18 g),17.0,73.0
+Tropical & Exotic Fruits,Pineapple,1 pineapple (905 g),453.0,1901.0
+Tropical & Exotic Fruits,Pink Grapefruit,1/2 grapefruit (123 g),52.0,216.0
+Tropical & Exotic Fruits,Plantain,1 plantain (179 g),218.0,916.0
+Tropical & Exotic Fruits,Pomegranate,1 pomegranate (282 g),234.0,984.0
+Tropical & Exotic Fruits,Pomelo,1 pomelo (609 g),231.0,974.0
+Tropical & Exotic Fruits,Prickly Pear,"1 pad, peeled (19 g)",8.0,33.0
+Tropical & Exotic Fruits,Rambutan,1 rambutan (9 g),7.0,31.0
+Tropical & Exotic Fruits,Sapodilla,1 sapodilla (170 g),141.0,593.0
+Tropical & Exotic Fruits,Soursop Fruit,1 soursop fruit (625 g),413.0,1731.0
+Tropical & Exotic Fruits,Star Fruit,1 starfruit (91 g),28.0,118.0
+Tropical & Exotic Fruits,Tamarind,1 tamarind (2 g),5.0,20.0
+Tropical & Exotic Fruits,Watermelon,1 wedge (286 g),86.0,360.0
+Vegetable Oils,Almond Oil,1 tbsp (14 ml),123.0,519.0
+Vegetable Oils,Apricot Kernel Oil,1 tbsp (14 ml),124.0,523.0
+Vegetable Oils,Argan Oil,1 tbsp (14 ml),125.0,527.0
+Vegetable Oils,Avocado Oil,1 tbsp (14 ml),120.0,504.0
+Vegetable Oils,Babassu Oil,1 tbsp (14 ml),124.0,520.0
+Vegetable Oils,Canola Oil,1 tbsp (14 ml),124.0,520.0
+Vegetable Oils,Coconut Oil,1 tbsp (14 ml),120.0,504.0
+Vegetable Oils,Corn Oil,1 tbsp (15 ml),120.0,504.0
+Vegetable Oils,Cottonseed Oil,1 tbsp (14 ml),123.0,519.0
+Vegetable Oils,Flaxseed Oil,1 tbsp (14 ml),124.0,520.0
+Vegetable Oils,Grape Seed Oil,1 tbsp (14 ml),124.0,520.0
+Vegetable Oils,Hazelnut Oil,1 tbsp (14 ml),124.0,523.0
+Vegetable Oils,Linseed Oil,1 tbsp (14 ml),117.0,492.0
+Vegetable Oils,Menhaden Oil,1 tbsp (14 ml),128.0,536.0
+Vegetable Oils,Mustard Oil,1 tbsp (14 ml),124.0,520.0
+Vegetable Oils,Oat Oil,1 tbsp (14 ml),124.0,520.0
+Vegetable Oils,Olive Oil,1 tbsp (15 ml),120.0,504.0
+Vegetable Oils,Palm Kernel Oil,1 tbsp (14 ml),123.0,519.0
+Vegetable Oils,Palm Oil,1 tbsp (14 ml),123.0,519.0
+Vegetable Oils,Peanut Oil,1 tbsp (14 ml),120.0,504.0
+Vegetable Oils,Poppy Seed Oil,1 tbsp (14 ml),124.0,520.0
+Vegetable Oils,Pumpkin Seed Oil,1 tbsp (14 ml),123.0,517.0
+Vegetable Oils,Rice Bran Oil,1 tbsp (14 ml),124.0,523.0
+Vegetable Oils,Safflower Oil,1 tbsp (14 ml),120.0,504.0
+Vegetable Oils,Salmon Oil,1 tbsp (14 ml),128.0,536.0
+Vegetable Oils,Sesame Oil,1 tbsp (14 ml),124.0,523.0
+Vegetable Oils,Shea Oil,1 tbsp (14 ml),124.0,520.0
+Vegetable Oils,Soy Oil,1 tbsp (14 ml),123.0,519.0
+Vegetable Oils,Sunflower Oil,1 tbsp (14 ml),124.0,520.0
+Vegetable Oils,Tomato Seed Oil,1 tbsp (14 ml),124.0,520.0
+Vegetable Oils,Vegetable Oil,1 tbsp (15 ml),120.0,504.0
+Vegetable Oils,Walnut Oil,1 tbsp (14 ml),124.0,523.0
+Vegetable Oils,Wheat Germ Oil,1 tbsp (14 ml),130.0,546.0
+Vegetables,Artichoke,1 artichoke (128 g),60.0,252.0
+Vegetables,Arugula,1 leaf (2 g),1.0,2.0
+Vegetables,Asparagus,1 spear (12 g),2.0,10.0
+Vegetables,Aubergine,1 aubergine (458 g),115.0,481.0
+Vegetables,Beetroot,1 beet (82 g),35.0,148.0
+Vegetables,Bell Pepper,1 pepper (73 g),15.0,61.0
+Vegetables,Black Olives,1 olive (2.7 g),2.0,10.0
+Vegetables,Broccoli,1 bunch (608 g),207.0,869.0
+Vegetables,Brussels Sprouts,1 sprout (19 g),8.0,34.0
+Vegetables,Cabbage,1 head (908 g),227.0,953.0
+Vegetables,Capsicum,1 pepper (45 g),12.0,51.0
+Vegetables,Carrot,1 carrot (61 g),25.0,105.0
+Vegetables,Cauliflower,1 floweret (13 g),3.0,14.0
+Vegetables,Celery,1 stalk (40 g),6.0,27.0
+Vegetables,Chard,1 leaf (48 g),9.0,38.0
+Vegetables,Cherry Tomato,1 cherry tomato (20 g),20.0,84.0
+Vegetables,Chicory,1 head (53 g),38.0,160.0
+Vegetables,Chinese Cabbage,1 head (840 g),134.0,563.0
+Vegetables,Chives,"1 tbsp, chopped (3 g)",1.0,4.0
+Vegetables,Collard Greens,"1 cup, raw (36 g)",12.0,48.0
+Vegetables,Corn,1 cup (154 g),562.0,2361.0
+Vegetables,Courgette,1 courgette (196 g),33.0,139.0
+Vegetables,Creamed Spinach,1 cup (200 g),148.0,622.0
+Vegetables,Cucumber,1 cucumber (410 g),66.0,275.0
+Vegetables,Eggplant,1 eggplant (458 g),115.0,481.0
+Vegetables,Endive,1 head (513 g),87.0,364.0
+Vegetables,Fennel,1 bulb (234 g),73.0,304.0
+Vegetables,Garlic,1 clove (3 g),4.0,19.0
+Vegetables,Gherkin,1 gherkin (65 g),9.0,38.0
+Vegetables,Gourd,1 gourd (771 g),108.0,455.0
+Vegetables,Green Beans,1 cup (110 g),34.0,143.0
+Vegetables,Green Olives,1 olive (2.7 g),2.0,10.0
+Vegetables,Green Onion,1 green onion (15 g),5.0,20.0
+Vegetables,Horseradish,1 tbsp (15 g),7.0,30.0
+Vegetables,Kale,"1 cup, chopped (67 g)",33.0,138.0
+Vegetables,Kohlrabi,1 kohlrabi (400 g),108.0,452.0
+Vegetables,Kumara,1 kumara (130 g),112.0,469.0
+Vegetables,Leek,1 leek (89 g),54.0,228.0
+Vegetables,Lettuce,1 head (600 g),90.0,378.0
+Vegetables,Mushrooms,1 mushroom (5.4 g),1.0,5.0
+Vegetables,Mustard Greens,"1 cup, chopped (56 g)",15.0,63.0
+Vegetables,Nori,1 sheet (2.6 g),1.0,3.0
+Vegetables,Okra,1 pod (12 g),4.0,17.0
+Vegetables,Olives,1 olive (2.7 g),2.0,10.0
+Vegetables,Onion,1 onion (85 g),34.0,143.0
+Vegetables,Parsnips,1 parsnip (170 g),128.0,536.0
+Vegetables,Peas,1 cup (98 g),79.0,333.0
+Vegetables,Pepper,1 pepper (75 g),20.0,85.0
+Vegetables,Potato,1 potato (213 g),164.0,688.0
+Vegetables,Pumpkin,1 pumpkin (196 g),51.0,214.0
+Vegetables,Radishes,1 radish (4.5 g),1.0,3.0
+Vegetables,Red Cabbage,1 leaf (22 g),7.0,29.0
+Vegetables,Rutabaga,1 rutabaga (386 g),147.0,618.0
+Vegetables,Shallots,1 shallot (25 g),18.0,76.0
+Vegetables,Spinach,1 bunch (340 g),78.0,330.0
+Vegetables,Squash,1 squash (196 g),88.0,370.0
+Vegetables,Sweet Potato,1 potato (130 g),112.0,469.0
+Vegetables,Tomato,1 tomato (111 g),20.0,84.0
+Vegetables,Turnip Greens,1 turnip green (170 g),34.0,143.0
+Vegetables,Turnips,1 turnip (122 g),34.0,144.0
+Vegetables,Wasabi,1 root (169 g),184.0,774.0
+Vegetables,Winter Squash,1 squash (431 g),147.0,616.0
+Vegetables,Zucchini,1 zucchini (196 g),33.0,139.0
+Venison & Game,Alligator,1 piece (184 g),191.0,804.0
+Venison & Game,Alligator Meat,1 piece (340 g),789.0,3312.0
+Venison & Game,Antelope Meat,1 piece (340 g),510.0,2142.0
+Venison & Game,Bear Meat,1 piece (277 g),717.0,3014.0
+Venison & Game,Beaver Meat,1 piece (313 g),664.0,2786.0
+Venison & Game,Bison,1 piece (194 g),332.0,1393.0
+Venison & Game,Bison Meat,1 piece (194 g),332.0,1393.0
+Venison & Game,Bison Sirloin,1 piece (194 g),332.0,1393.0
+Venison & Game,Buffalo,1 piece (340 g),445.0,1870.0
+Venison & Game,Buffalo Meat,1 piece (340 g),445.0,1870.0
+Venison & Game,Caribou,1 piece (102 g),162.0,681.0
+Venison & Game,Goose,1/2 goose (591 g),1407.0,5910.0
+Venison & Game,Goose Meat,1/2 goose (591 g),1407.0,5910.0
+Venison & Game,Lamb,1 piece (193 g),390.0,1637.0
+Venison & Game,Lamb Meat,1 piece (193 g),390.0,1637.0
+Venison & Game,Mallard Duck Meat,1 piece (265 g),559.0,2348.0
+Venison & Game,Mallard Meat,1 piece (265 g),559.0,2348.0
+Venison & Game,Moose,1 piece (340 g),456.0,1914.0
+Venison & Game,Moose Meat,1 piece (340 g),456.0,1914.0
+Venison & Game,Mutton,1 piece (240 g),562.0,2359.0
+Venison & Game,Mutton Meat,1 oz. (28 g),66.0,275.0
+Venison & Game,Ostrich,1 patty (93 g),163.0,684.0
+Venison & Game,Ostrich Meat,1 piece (340 g),595.0,2499.0
+Venison & Game,Pheasant,1 piece (169 g),404.0,1697.0
+Venison & Game,Pheasant Meat,1 piece (169 g),404.0,1697.0
+Venison & Game,Rabbit,1 piece (313 g),617.0,2589.0
+Venison & Game,Racoon,1 piece (356 g),908.0,3813.0
+Venison & Game,Racoon Meat,1 piece (399 g),1017.0,4273.0
+Venison & Game,Reindeer,1 piece (340 g),680.0,2856.0
+Venison & Game,Reindeer Meat,1 piece (340 g),680.0,2856.0
+Venison & Game,Squirrel,1 piece (313 g),541.0,2276.0
+Venison & Game,Squirrel Meat,1 piece (313 g),541.0,2276.0
+Venison & Game,Venison,1 piece (157 g),257.0,1082.0
+Venison & Game,Venison Sirloin,1 piece (340 g),537.0,2258.0
+Venison & Game,Wild Boar,1 piece (340 g),544.0,2285.0
+Venison & Game,Wild Boar Meat,1 piece (340 g),544.0,2285.0
+Wine,Cabernet Sauvignon,1 glass (118 ml),91.0,381.0
+Wine,Cava,1 glass (118 ml),90.0,376.0
+Wine,Champagne,1 glass (118 ml),90.0,376.0
+Wine,Chardonnay,1 glass (118 ml),100.0,421.0
+Wine,Chenin Blanc,1 glass (118 ml),94.0,396.0
+Wine,Chocolate Wine,1 glass (118 ml),302.0,1269.0
+Wine,Dry Red Wine,1 glass (118 ml),100.0,421.0
+Wine,Gamay,1 glass (118 ml),92.0,387.0
+Wine,Malbec,1 glass (118 ml),97.0,406.0
+Wine,Malbec Wine,1 glass (118 ml),97.0,406.0
+Wine,Marsala Wine,1 glass (118 ml),118.0,496.0
+Wine,Merlot,1 glass (118 ml),98.0,412.0
+Wine,Merlot Wine,1 glass (118 ml),98.0,412.0
+Wine,Moscato Wine,1 glass (118 ml),90.0,376.0
+Wine,Mulled Wine,1 glass (118 ml),231.0,971.0
+Wine,Pinot Gris,1 glass (118 ml),98.0,412.0
+Wine,Pinot Noir,1 glass (118 ml),89.0,372.0
+Wine,Plum Wine,1 glass (118 ml),192.0,808.0
+Wine,Port Wine,1 glass (118 ml),189.0,793.0
+Wine,Prosecco,1 glass (118 ml),84.0,352.0
+Wine,Red Wine,1 glass (118 ml),100.0,421.0
+Wine,Red Wines,1 glass (118 ml),100.0,421.0
+Wine,Riesling,1 glass (118 ml),94.0,396.0
+Wine,Riesling Wine,1 glass (118 ml),94.0,396.0
+Wine,Rose Wine,1 glass (118 ml),84.0,352.0
+Wine,Sangria,1 glass (118 ml),156.0,654.0
+Wine,Sauvignon Blanc,1 glass (118 ml),96.0,401.0
+Wine,Sherry,1 glass (118 ml),137.0,575.0
+Wine,Shiraz,1 glass (118 ml),84.0,352.0
+Wine,Sparkling Wine,1 glass (118 ml),224.0,942.0
+Wine,Sweet Red Wine,1 glass (118 ml),96.0,401.0
+Wine,Sweet White Wine,1 glass (118 ml),97.0,406.0
+Wine,Sweet Wines,1 glass (118 ml),98.0,412.0
+Wine,Vermouth,1 glass (30 ml),32.0,136.0
+Wine,White Wine,1 glass (118 ml),97.0,406.0
+Wine,White Zinfandel,1 glass (118 ml),104.0,437.0
+Wine,Wine,1 glass (118 ml),98.0,412.0
+Wine,Yellow Tail Wine,1 glass (118 ml),84.0,352.0
+Wine,Zinfandel,1 glass (118 ml),104.0,437.0
+Yogurt,Activia,1 container (113 g),84.0,351.0
+Yogurt,Activia Lemon,1 container (113 g),113.0,475.0
+Yogurt,Activia Strawberry,1 container (113 g),110.0,460.0
+Yogurt,Aloe Vera Yogurt,1 container (227 g),193.0,810.0
+Yogurt,Ayran,1 cup (200 ml),84.0,352.0
+Yogurt,Bircher Muesli Yogurt,1 container (227 g),247.0,1040.0
+Yogurt,Blueberry Yogurt,1 container (227 g),238.0,1001.0
+Yogurt,Cherry Yogurt,1 container (227 g),220.0,924.0
+Yogurt,Chocolate Yogurt,1 container (227 g),291.0,1221.0
+Yogurt,Cream Yogurt,1 container (113 g),140.0,589.0
+Yogurt,Creamy Yogurt,1 container (227 g),204.0,858.0
+Yogurt,Diet Yogurt,1 container (227 g),123.0,515.0
+Yogurt,Fruit Yogurt,1 container (227 g),220.0,924.0
+Yogurt,Greek Yogurt,1 container (150 g),80.0,335.0
+Yogurt,Low-Fat Yogurt,1 container (227 g),143.0,602.0
+Yogurt,Mocca Yogurt,1 container (227 g),227.0,953.0
+Yogurt,Organic Yogurt,1 container (227 g),170.0,715.0
+Yogurt,Peach Yogurt,1 container (113 g),110.0,460.0
+Yogurt,Plain Yogurt,1 container (227 g),138.0,581.0
+Yogurt,Probiotic Yogurt,1 container (113 g),90.0,380.0
+Yogurt,Skim Milk Yogurt,1 container (227 g),127.0,533.0
+Yogurt,Stracciatella Yogurt,1 container (227 g),316.0,1326.0
+Yogurt,Strawberry Yogurt,1 container (227 g),227.0,953.0
+Yogurt,Vanilla Yogurt,1 container (227 g),229.0,962.0
+Yogurt,Yogurt,1 container (227 g),138.0,581.0
+Yogurt,Yogurt Corner,1 container (135 g),161.0,675.0
+Yogurt,Yoplait Boston Cream Pie,1 container (170 g),153.0,643.0
+Yogurt,Yoplait French Vanilla,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Greek Blueberry,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Greek Coconut,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Greek Strawberry,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Greek Vanilla,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Harvest Peach,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Key Lime Pie,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Mango,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Mixed Berry,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Pina Colada,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Strawberry,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Strawberry Banana,1 container (170 g),170.0,714.0
+Yogurt,Yoplait Strawberry Cheesecake,1 container (170 g),170.0,714.0

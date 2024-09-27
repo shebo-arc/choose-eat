@@ -1,0 +1,2225 @@
+food_category,food_name,per_serving,cal_per_serving,kj_per_serving
+Fruit Juices,Acai Juice,8 fl. oz. (240 ml),139 cal,586 kJ
+Fruit Juices,Aloe Vera,8 fl. oz. (240 ml),106 cal,444 kJ
+Fruit Juices,Apple Juice,8 fl. oz. (240 ml),110 cal,463 kJ
+Fruit Juices,Apricot Nectar,8 fl. oz. (240 ml),134 cal,564 kJ
+Fruit Juices,Banana Juice,8 fl. oz. (240 ml),120 cal,504 kJ
+Fruit Juices,Blackberry Juice,8 fl. oz. (240 ml),115 cal,485 kJ
+Fruit Juices,Boysenberry Juice,8 fl. oz. (240 ml),130 cal,545 kJ
+Fruit Juices,Capri-Sun,1 capri-sun (200 ml),82 cal,344 kJ
+Fruit Juices,Carrot Juice,8 fl. oz. (240 ml),96 cal,403 kJ
+Fruit Juices,Chamomile Tea,8 fl. oz. (240 ml),0 cal,0 kJ
+Fruit Juices,Cherry Juice,8 fl. oz. (240 ml),108 cal,454 kJ
+Fruit Juices,Clamato,8 fl. oz. (240 ml),144 cal,605 kJ
+Fruit Juices,Coconut Milk,8 fl. oz. (240 ml),559 cal,2350 kJ
+Fruit Juices,Coconut Water,8 fl. oz. (240 ml),46 cal,192 kJ
+Fruit Juices,Concord Grape,8 fl. oz. (240 ml),170 cal,715 kJ
+Fruit Juices,Cranberry Apple Juice,8 fl. oz. (240 ml),161 cal,674 kJ
+Fruit Juices,Cranberry Grape Juice,8 fl. oz. (240 ml),170 cal,715 kJ
+Fruit Juices,Cranberry Juice,8 fl. oz. (240 ml),110 cal,463 kJ
+Fruit Juices,Cucumber Juice,8 fl. oz. (240 ml),24 cal,101 kJ
+Fruit Juices,Currant Juice,8 fl. oz. (240 ml),115 cal,485 kJ
+Fruit Juices,Energy-Drink,12 fl. oz. (355 ml),309 cal,1296 kJ
+Fruit Juices,Fruitopia,8 fl. oz. (240 ml),264 cal,1109 kJ
+Fruit Juices,Grape Juice,8 fl. oz. (240 ml),144 cal,605 kJ
+Fruit Juices,Grapefruit Juice,8 fl. oz. (240 ml),110 cal,463 kJ
+Fruit Juices,Lemon Juice,8 fl. oz. (240 ml),50 cal,211 kJ
+Fruit Juices,Lemonade,8 fl. oz. (240 ml),120 cal,504 kJ
+Fruit Juices,Lime Juice,8 fl. oz. (240 ml),50 cal,211 kJ
+Fruit Juices,Limeade,8 fl. oz. (240 ml),307 cal,1291 kJ
+Fruit Juices,Mango Lassi,8 fl. oz. (240 ml),158 cal,665 kJ
+Fruit Juices,Nestea,8 fl. oz. (240 ml),50 cal,211 kJ
+Fruit Juices,Orange Juice,8 fl. oz. (240 ml),110 cal,463 kJ
+Fruit Juices,Papaya Juice,8 fl. oz. (240 ml),139 cal,586 kJ
+Fruit Juices,Passion Fruit Juice,8 fl. oz. (240 ml),115 cal,485 kJ
+Fruit Juices,Peach Juice,8 fl. oz. (240 ml),130 cal,545 kJ
+Fruit Juices,Peach Nectar,8 fl. oz. (240 ml),130 cal,545 kJ
+Fruit Juices,Pear Juice,8 fl. oz. (240 ml),144 cal,605 kJ
+Fruit Juices,Pear Nectar,8 fl. oz. (240 ml),144 cal,605 kJ
+Fruit Juices,Pineapple Juice,8 fl. oz. (240 ml),127 cal,535 kJ
+Fruit Juices,Pineapple Orange Juice,8 fl. oz. (240 ml),120 cal,504 kJ
+Fruit Juices,Plum Juice,8 fl. oz. (240 ml),170 cal,715 kJ
+Fruit Juices,Pomegranate Juice,8 fl. oz. (240 ml),158 cal,665 kJ
+Fruit Juices,Sauerkraut Juice,8 fl. oz. (240 ml),34 cal,142 kJ
+Fruit Juices,Tangerine Juice,8 fl. oz. (240 ml),103 cal,434 kJ
+Fruit Juices,Tomato Juice,8 fl. oz. (240 ml),41 cal,170 kJ
+Fruit Juices,Vegetable Juice,8 fl. oz. (240 ml),50 cal,211 kJ
+Fruit Juices,White Grape Juice,8 fl. oz. (240 ml),180 cal,756 kJ
+Alcoholic Drinks & Beverages,Absinthe,1 1/2 fl. oz. (44 ml),153 cal,643 kJ
+Alcoholic Drinks & Beverages,Advocaat,1 1/2 fl. oz. (44 ml),125 cal,523 kJ
+Alcoholic Drinks & Beverages,Amaretto,1 shot (25 ml),78 cal,326 kJ
+Alcoholic Drinks & Beverages,Applejack,1 1/2 fl. oz. (44 ml),103 cal,431 kJ
+Alcoholic Drinks & Beverages,Asti,1 glass (100 ml),138 cal,580 kJ
+Alcoholic Drinks & Beverages,Baileys,1 1/2 fl. oz. (44 ml),144 cal,604 kJ
+Alcoholic Drinks & Beverages,Bailey’s Irish Cream,1 1/2 fl. oz. (44 ml),144 cal,604 kJ
+Alcoholic Drinks & Beverages,Beer,1 can (355 ml),153 cal,643 kJ
+Alcoholic Drinks & Beverages,Blue Curacao,1 fl. oz. (30 ml),73 cal,306 kJ
+Alcoholic Drinks & Beverages,Bourbon,1 1/2 fl. oz. (44 ml),103 cal,431 kJ
+Alcoholic Drinks & Beverages,Brandy,1 1/2 fl. oz. (44 ml),94 cal,394 kJ
+Alcoholic Drinks & Beverages,Canadian Whiskey,1 1/2 fl. oz. (44 ml),95 cal,399 kJ
+Alcoholic Drinks & Beverages,Chambord,1 glass (150 ml),522 cal,2193 kJ
+Alcoholic Drinks & Beverages,Champagne,1 glass (100 ml),75 cal,315 kJ
+Alcoholic Drinks & Beverages,Cider,1 glass (150 ml),74 cal,309 kJ
+Alcoholic Drinks & Beverages,Cognac,1 1/2 fl. oz. (44 ml),103 cal,434 kJ
+Alcoholic Drinks & Beverages,Cointreau,1 1/2 fl. oz. (44 ml),141 cal,591 kJ
+Alcoholic Drinks & Beverages,Drambuie,1 1/2 fl. oz. (44 ml),158 cal,662 kJ
+Alcoholic Drinks & Beverages,Frangelico,1 1/2 fl. oz. (44 ml),105 cal,440 kJ
+Alcoholic Drinks & Beverages,Gin,1 shot (25 ml),66 cal,276 kJ
+Alcoholic Drinks & Beverages,Glenfiddich,1 1/2 fl. oz. (44 ml),101 cal,425 kJ
+Alcoholic Drinks & Beverages,Grand Marnier,1 1/2 fl. oz. (44 ml),111 cal,468 kJ
+Alcoholic Drinks & Beverages,Irish Whiskey,1 1/2 fl. oz. (44 ml),103 cal,431 kJ
+Alcoholic Drinks & Beverages,Jack Daniel’s,1 1/2 fl. oz. (44 ml),64 cal,270 kJ
+Alcoholic Drinks & Beverages,Jagermeister,1 shot (25 ml),63 cal,263 kJ
+Alcoholic Drinks & Beverages,Jim Beam,1 1/2 fl. oz. (44 ml),98 cal,410 kJ
+Alcoholic Drinks & Beverages,Kahlua,1 shot (25 ml),45 cal,189 kJ
+Alcoholic Drinks & Beverages,Liqueur,1 shot (25 ml),63 cal,263 kJ
+Alcoholic Drinks & Beverages,Liquor,1 shot (25 ml),63 cal,263 kJ
+Alcoholic Drinks & Beverages,Midori,1 fl. oz. (30 ml),80 cal,336 kJ
+Alcoholic Drinks & Beverages,Prosecco,1 glass (100 ml),66 cal,277 kJ
+Alcoholic Drinks & Beverages,Punch,1 cup (237 ml),147 cal,616 kJ
+Alcoholic Drinks & Beverages,Red Wine,1 glass (150 ml),128 cal,536 kJ
+Alcoholic Drinks & Beverages,Rose Wine,1 glass (150 ml),107 cal,447 kJ
+Alcoholic Drinks & Beverages,Rum,1 1/2 fl. oz. (44 ml),102 cal,427 kJ
+Alcoholic Drinks & Beverages,Sambuca,1 shot (25 ml),83 cal,350 kJ
+Alcoholic Drinks & Beverages,Sangria,1 glass (250 ml),240 cal,1008 kJ
+Alcoholic Drinks & Beverages,Scotch,1 1/2 fl. oz. (44 ml),98 cal,410 kJ
+Alcoholic Drinks & Beverages,Sherry,1 1/2 fl. oz. (44 ml),51 cal,214 kJ
+Alcoholic Drinks & Beverages,Sloe Gin,1 shot (25 ml),83 cal,349 kJ
+Alcoholic Drinks & Beverages,Southern Comfort,1 1/2 fl. oz. (44 ml),109 cal,456 kJ
+Alcoholic Drinks & Beverages,Tequila,1 shot (25 ml),28 cal,116 kJ
+Alcoholic Drinks & Beverages,Triple Sec,1 glass (150 ml),230 cal,965 kJ
+Alcoholic Drinks & Beverages,Vermouth,1 1/2 fl. oz. (44 ml),57 cal,240 kJ
+Alcoholic Drinks & Beverages,Vodka,1 shot (25 ml),58 cal,243 kJ
+Alcoholic Drinks & Beverages,Whisky,1 1/2 fl. oz. (44 ml),110 cal,462 kJ
+Alcoholic Drinks & Beverages,White Wine,1 glass (150 ml),123 cal,516 kJ
+Alcoholic Drinks & Beverages,Wine,1 glass (150 ml),125 cal,524 kJ
+Baking Ingredients,Agar-Agar,1 tbsp (5 g),1 cal,5 kJ
+Baking Ingredients,Agave Syrup,1/4 cup (55 ml),171 cal,716 kJ
+Baking Ingredients,All Purpose Flour,1 cup (120 ml),437 cal,1835 kJ
+Baking Ingredients,Almond Extract,1 tbsp (8 ml),21 cal,87 kJ
+Baking Ingredients,Almonds,1 cup (92 g),487 cal,2044 kJ
+Baking Ingredients,Apple Pie Filling,1 serving (60 g),60 cal,252 kJ
+Baking Ingredients,Baking Powder,1 tsp (4.6 g),2 cal,9 kJ
+Baking Ingredients,Baking Soda,1 tsp (4.6 g),0 cal,0 kJ
+Baking Ingredients,Bread Flour,1 cup (137 g),495 cal,2077 kJ
+Baking Ingredients,Brittle,1 oz. (28.4 g),166 cal,696 kJ
+Baking Ingredients,Brown Sugar,1 cup (220 g),869 cal,3650 kJ
+Baking Ingredients,Buttermilk,1 cup (245 ml),152 cal,637 kJ
+Baking Ingredients,Butterscotch Chips,1 cup (170 g),916 cal,3849 kJ
+Baking Ingredients,Cake Flour,1 cup (137 g),496 cal,2082 kJ
+Baking Ingredients,Candied Orange Peel,1 tbsp (6 g),6 cal,24 kJ
+Baking Ingredients,Cane Sugar,1 tbsp (5 g),19 cal,81 kJ
+Baking Ingredients,Chocolate Chips,1 tbsp (15 g),70 cal,294 kJ
+Baking Ingredients,Chocolate Sprinkles,1 tbsp (5 g),25 cal,105 kJ
+Baking Ingredients,Cocoa Powder,1 tbsp (5.4 g),11 cal,48 kJ
+Baking Ingredients,Coconut Flakes,1 cup (85 g),388 cal,1628 kJ
+Baking Ingredients,Coconut Milk,1 cup (240 ml),120 cal,504 kJ
+Baking Ingredients,Corn Flour,1 cup (117 g),422 cal,1774 kJ
+Baking Ingredients,Corn Syrup,1 tbsp (19 ml),53 cal,224 kJ
+Baking Ingredients,Cornmeal,1 cup (138 g),500 cal,2098 kJ
+Baking Ingredients,Cornstarch,1 cup (128 g),488 cal,2048 kJ
+Baking Ingredients,Couverture,1 oz. (28.4 g),168 cal,706 kJ
+Baking Ingredients,Cream Cheese,1 serving (20 g),11 cal,45 kJ
+Baking Ingredients,Cream of Tartar,1 tbsp (15 g),39 cal,163 kJ
+Baking Ingredients,Crystallized Ginger,1 tbsp (5.2 g),17 cal,70 kJ
+Baking Ingredients,Custard Powder,1 tbsp (17.5 g),57 cal,241 kJ
+Baking Ingredients,Dark Rum,1 fl. oz. (28 ml),60 cal,254 kJ
+Baking Ingredients,Dextrose,1 tsp (3.2 g),11 cal,47 kJ
+Baking Ingredients,Dried Apricots,"1 cup, halves (130 g)",313 cal,1316 kJ
+Baking Ingredients,Dried Cranberries,1/3 cup (40 g),123 cal,518 kJ
+Baking Ingredients,Dried Figs,1 fig (8.4 g),20 cal,84 kJ
+Baking Ingredients,Dried Prunes,"1 cup, pitted (248 g)",265 cal,1114 kJ
+Baking Ingredients,Duck Egg,1 egg (70 g),130 cal,544 kJ
+Baking Ingredients,Egg,1 egg (60 g),58 cal,244 kJ
+Baking Ingredients,Egg Nog,1 cup (254 g),224 cal,940 kJ
+Baking Ingredients,Egg White,1 egg white (25 g),3 cal,14 kJ
+Baking Ingredients,Egg Yolk,1 egg yolk (16 g),52 cal,216 kJ
+Baking Ingredients,Evaporated Milk,1 cup (252 g),338 cal,1419 kJ
+Baking Ingredients,Flour,1 cup (120 g),437 cal,1835 kJ
+Baking Ingredients,Fructose,1 tsp (4 g),15 cal,62 kJ
+Baking Ingredients,Gelatin,1 tbsp (7 g),23 cal,98 kJ
+Baking Ingredients,Glucose,1 tbsp (20 g),57 cal,240 kJ
+Baking Ingredients,Glucose Syrup,1 oz. (28.4 g),108 cal,455 kJ
+Baking Ingredients,Granulated Sugar,1 packet (2.8 g),8 cal,33 kJ
+Baking Ingredients,Ground Cinnamon,1 tsp (2.6 g),5 cal,21 kJ
+Baking Ingredients,Hazelnuts,"1 cup, ground (75 g)",471 cal,1979 kJ
+Baking Ingredients,Heavy Cream,"1 cup, whipped (120 g)",414 cal,1739 kJ
+Baking Ingredients,Jaggery,1 tbsp (12 g),46 cal,193 kJ
+Baking Ingredients,Lemon Pie Filling,1 oz. (28.4 g),40 cal,168 kJ
+Baking Ingredients,Malt Powder,1 cup (162 g),585 cal,2456 kJ
+Baking Ingredients,Malted Milk,1 tbsp (7 g),28 cal,119 kJ
+Baking Ingredients,Maltitol,1 tsp (4.5 g),8 cal,35 kJ
+Baking Ingredients,Maltodextrin,1 tsp (3.2 g),11 cal,47 kJ
+Baking Ingredients,Maltose,1 tbsp (13 g),45 cal,188 kJ
+Baking Ingredients,Maple Syrup,60 millilitre (80 ml),216 cal,907 kJ
+Baking Ingredients,Molasses,1 cup (337 g),977 cal,4105 kJ
+Baking Ingredients,Nonpareils,1 tbsp (5 g),24 cal,100 kJ
+Baking Ingredients,Peppermint Extract,1 tsp (5 ml),0 cal,0 kJ
+Baking Ingredients,Poppy Seeds,1 tbsp (8.8 g),42 cal,176 kJ
+Baking Ingredients,Powdered Milk,1 cup (68 g),337 cal,1416 kJ
+Baking Ingredients,Powdered Sugar,"1 cup, unsifted (120 g)",467 cal,1961 kJ
+Baking Ingredients,Protein Powder,1 tbsp (11 g),45 cal,190 kJ
+Baking Ingredients,Raisins,1 cup (165 g),782 cal,3285 kJ
+Baking Ingredients,Rice Milk,1 cup (245 ml),120 cal,505 kJ
+Baking Ingredients,Rock Sugar,1 tsp (4 g),25 cal,105 kJ
+Baking Ingredients,Rolled Oats,1 cup (156 g),599 cal,2516 kJ
+Baking Ingredients,Rum,1 serving (40 ml),98 cal,413 kJ
+Baking Ingredients,Semolina Flour,1 cup (120 g),420 cal,1764 kJ
+Baking Ingredients,Sesame Seeds,1 cup (144 g),825 cal,3466 kJ
+Baking Ingredients,Shredded Coconut,1 cup (93 g),466 cal,1957 kJ
+Baking Ingredients,Sorbitol,1 tsp (4 g),15 cal,63 kJ
+Baking Ingredients,Soy Milk,1 cup (243 ml),100 cal,418 kJ
+Baking Ingredients,Soy Protein Powder,1 oz. (28.4 g),95 cal,398 kJ
+Baking Ingredients,Sprinkles,1 tsp (2 g),10 cal,42 kJ
+Baking Ingredients,Starch,1 cup (128 g),488 cal,2048 kJ
+Baking Ingredients,Strawberry Preserves,1 tbsp (20 g),56 cal,234 kJ
+Baking Ingredients,Sucrose,1 tsp (4 g),15 cal,65 kJ
+Baking Ingredients,Sugar,1 tsp (5 g),20 cal,85 kJ
+Baking Ingredients,Sunflower Seeds,1 serving (20 g),23 cal,98 kJ
+Baking Ingredients,Sweetened Condensed Milk,1 cup (306 ml),982 cal,4125 kJ
+Baking Ingredients,Sweetener,1 packet (1 g),4 cal,15 kJ
+Baking Ingredients,Unsalted Butter,1 cup (227 g),1628 cal,6835 kJ
+Baking Ingredients,Vanilla Extract,1 tbsp (13 ml),37 cal,157 kJ
+Baking Ingredients,Vanilla Sugar,1 tsp (2.4 g),7 cal,30 kJ
+Baking Ingredients,Vegetable Oil,1 tbsp (13.6 g),115 cal,483 kJ
+Baking Ingredients,Vegetable Shortening,1 tbsp (12.8 g),106 cal,446 kJ
+Baking Ingredients,Walnuts,1 walnut (20 g),26 cal,110 kJ
+Baking Ingredients,Whole Milk,1 cup (244 ml),149 cal,625 kJ
+Baking Ingredients,Whole Wheat Flour,1 cup (120 g),408 cal,1714 kJ
+Baking Ingredients,Xylitol,1 tsp (4 g),10 cal,40 kJ
+Baking Ingredients,Yeast (dry),1 tsp (4 g),13 cal,55 kJ
+Beef & Veal,Beef,6 oz. (168 g),287 cal,1206 kJ
+Beef & Veal,Beef Brisket,1 piece (178 g),244 cal,1024 kJ
+Beef & Veal,Beef Fillet,6 oz. (168 g),318 cal,1334 kJ
+Beef & Veal,Beef Goulash,1 cup (227 g),279 cal,1174 kJ
+Beef & Veal,Beef Minute Steak,6 oz. (168 g),223 cal,939 kJ
+Beef & Veal,Beef Neck,1 piece (224 g),477 cal,2005 kJ
+Beef & Veal,Beef Pancreas,1 piece (222 g),602 cal,2526 kJ
+Beef & Veal,Beef Patty,1 patty  (64 g),158 cal,664 kJ
+Beef & Veal,Beef Prime Rib,1 piece (278 g),1123 cal,4718 kJ
+Beef & Veal,Beef Ribs,1 rib (340 g),666 cal,2798 kJ
+Beef & Veal,Beef Sirloin,1 serving (85 g),155 cal,649 kJ
+Beef & Veal,Beef Suet,1 oz. (28 g),239 cal,1004 kJ
+Beef & Veal,Beef Tallow,1 cup (205 g),1849 cal,7765 kJ
+Beef & Veal,Beef Thymus,1 piece (381 g),1215 cal,5105 kJ
+Beef & Veal,Beef Tripe,1 serving (85 g),80 cal,336 kJ
+Beef & Veal,Chuck Roast,1 piece (224 g),316 cal,1326 kJ
+Beef & Veal,Chuck Steak,1 piece (340 g),466 cal,1955 kJ
+Beef & Veal,Filet Mignon,6 oz. (168 g),348 cal,1460 kJ
+Beef & Veal,Flank Steak,1 steak (320 g),621 cal,2608 kJ
+Beef & Veal,Ground Beef,6 oz. (168 g),405 cal,1700 kJ
+Beef & Veal,Ground Chuck,6 oz. (168 g),420 cal,1764 kJ
+Beef & Veal,Ground Round,6 oz. (168 g),356 cal,1495 kJ
+Beef & Veal,Minced Veal,6 oz. (168 g),240 cal,1010 kJ
+Beef & Veal,Porterhouse Steak,1 steak (320 g),790 cal,3318 kJ
+Beef & Veal,Rib Eye Steak,1 steak (281 g),610 cal,2560 kJ
+Beef & Veal,Roast Beef,1 slice (341 g),638 cal,2677 kJ
+Beef & Veal,Rump Steak,1 steak (205 g),351 cal,1472 kJ
+Beef & Veal,Skirt Steak,6 oz. (168 g),344 cal,1446 kJ
+Beef & Veal,Stew Beef,1 lb. (454 g),867 cal,3641 kJ
+Beef & Veal,Strip Steak,3 slices (34 g),40 cal,167 kJ
+Beef & Veal,T-Bone-Steak,6 oz. (168 g),371 cal,1559 kJ
+Beef & Veal,Veal,1 piece (291 g),821 cal,3445 kJ
+Beef & Veal,Veal Breast,1 piece (291 g),821 cal,3445 kJ
+Beef & Veal,Veal Leg,1 piece (272 g),574 cal,2410 kJ
+Beef & Veal,Veal Roast Beef,1 piece (208 g),364 cal,1529 kJ
+Beef & Veal,Veal Shank,1 piece (223 g),395 cal,1657 kJ
+Beef & Veal,Veal Shoulder,1 piece (283 g),518 cal,2176 kJ
+Beef & Veal,Veal Sirloin,1 piece (183 g),373 cal,1568 kJ
+Beef & Veal,Veal Tenderloin,1 piece (229 g),497 cal,2086 kJ
+Beer,Ale,1 can/bottle (354 ml),124 cal,520 kJ
+Beer,Altbier,1 can/bottle (354 ml),152 cal,641 kJ
+Beer,Bass,1 can/bottle (354 ml),159 cal,669 kJ
+Beer,Beck’s,1 can/bottle (354 ml),138 cal,581 kJ
+Beer,Beer,1 can/bottle (354 ml),152 cal,641 kJ
+Beer,Blue Moon,1 can/bottle (354 ml),170 cal,715 kJ
+Beer,Bock Beer,1 can/bottle (354 ml),177 cal,743 kJ
+Beer,Buckler (N.A.),1 can/bottle (354 ml),74 cal,312 kJ
+Beer,Bud Ice,1 can/bottle (354 ml),124 cal,520 kJ
+Beer,Bud Light,1 can/bottle (354 ml),103 cal,432 kJ
+Beer,Bud Light Chelada,1 can/bottle (354 ml),152 cal,641 kJ
+Beer,Bud Light Lime,1 can/bottle (354 ml),120 cal,506 kJ
+Beer,Bud Select,1 can/bottle (354 ml),99 cal,418 kJ
+Beer,Bud Select 55,1 can/bottle (354 ml),53 cal,223 kJ
+Beer,Budweiser,1 can/bottle (354 ml),145 cal,609 kJ
+Beer,Budweiser Chelada,1 can/bottle (354 ml),184 cal,772 kJ
+Beer,Busch,1 can/bottle (354 ml),131 cal,549 kJ
+Beer,Busch Light,1 can/bottle (354 ml),96 cal,400 kJ
+Beer,Busch N.A.,1 can/bottle (354 ml),60 cal,251 kJ
+Beer,Carlsberg,1 can/bottle (354 ml),113 cal,474 kJ
+Beer,Clausthaler (N.A.),1 can/bottle (354 ml),92 cal,386 kJ
+Beer,Colt 45,1 can/bottle (354 ml),156 cal,655 kJ
+Beer,Coors,1 can/bottle (354 ml),149 cal,623 kJ
+Beer,Coors Light,1 can/bottle (354 ml),103 cal,432 kJ
+Beer,Coors N.A.,1 can/bottle (354 ml),64 cal,269 kJ
+Beer,Corona,1 can/bottle (354 ml),149 cal,623 kJ
+Beer,Dark Beer,1 can/bottle (354 ml),163 cal,683 kJ
+Beer,Genesee Cream Ale,1 can/bottle (354 ml),163 cal,683 kJ
+Beer,Ginger Beer,1 can/bottle (354 ml),149 cal,623 kJ
+Beer,Guinness,1 pint (568 ml),199 cal,835 kJ
+Beer,Heineken,1 can/bottle (354 ml),124 cal,520 kJ
+Beer,Honey Brown,1 can/bottle (354 ml),149 cal,623 kJ
+Beer,Hurricane High Gravity,1 can/bottle (354 ml),138 cal,581 kJ
+Beer,IPA,1 can/bottle (354 ml),181 cal,758 kJ
+Beer,Keystone Ice,1 can/bottle (354 ml),142 cal,595 kJ
+Beer,Keystone Light,1 can/bottle (354 ml),103 cal,432 kJ
+Beer,Koelsch,1 can/bottle (354 ml),152 cal,641 kJ
+Beer,Labatt,1 can/bottle (354 ml),152 cal,641 kJ
+Beer,Lager Beer,1 can/bottle (354 ml),152 cal,641 kJ
+Beer,Land Shark,1 can/bottle (354 ml),149 cal,623 kJ
+Beer,Light Beer,1 can/bottle (354 ml),103 cal,432 kJ
+Beer,Lowenbrau,1 can/bottle (354 ml),159 cal,669 kJ
+Beer,Malt Beer,1 can/bottle (354 ml),131 cal,549 kJ
+Beer,Michelob Amber Bock,1 can/bottle (354 ml),166 cal,697 kJ
+Beer,Michelob Lager,1 can/bottle (354 ml),156 cal,655 kJ
+Beer,Michelob Light,1 can/bottle (354 ml),113 cal,474 kJ
+Beer,Michelob Ultra,1 can/bottle (354 ml),96 cal,400 kJ
+Beer,Michelob Ultra Amber,1 can/bottle (354 ml),92 cal,386 kJ
+Beer,Michelob Ultra Lime Cactus,1 can/bottle (354 ml),96 cal,400 kJ
+Beer,Miller Chill,1 can/bottle (354 ml),110 cal,460 kJ
+Beer,Miller Genuine Draft,1 can/bottle (354 ml),142 cal,595 kJ
+Beer,Miller High Life,1 can/bottle (354 ml),142 cal,595 kJ
+Beer,Miller High Life Light,1 can/bottle (354 ml),110 cal,460 kJ
+Beer,Miller Lite,1 can/bottle (354 ml),96 cal,400 kJ
+Beer,Milwaukee’s Best,1 can/bottle (354 ml),127 cal,535 kJ
+Beer,Milwaukee’s Best Light,1 can/bottle (354 ml),99 cal,418 kJ
+Beer,Molson,1 can/bottle (354 ml),149 cal,623 kJ
+Beer,Natural Ice,1 can/bottle (354 ml),156 cal,655 kJ
+Beer,Natural Light,1 can/bottle (354 ml),96 cal,400 kJ
+Beer,Newcastle,1 can/bottle (354 ml),138 cal,581 kJ
+Beer,Non-alcoholic Beer,1 can/bottle (354 ml),131 cal,549 kJ
+Beer,Old Milwaukee,1 can/bottle (354 ml),145 cal,609 kJ
+Beer,Old Milwaukee N.A.,1 can/bottle (354 ml),57 cal,237 kJ
+Beer,Olde English,1 can/bottle (354 ml),159 cal,669 kJ
+Beer,O’Doul’s (N.A.),1 can/bottle (354 ml),67 cal,283 kJ
+Beer,Pabst Blue Ribbon,1 can/bottle (354 ml),145 cal,609 kJ
+Beer,Pale Ale,1 can/bottle (354 ml),149 cal,623 kJ
+Beer,Pilsner,1 can/bottle (354 ml),152 cal,641 kJ
+Beer,Porter,1 can/bottle (354 ml),191 cal,804 kJ
+Beer,Redbridge (Gluten-free),1 can/bottle (354 ml),159 cal,669 kJ
+Beer,Rolling Rock,1 can/bottle (354 ml),131 cal,549 kJ
+Beer,Rolling Rock Light,1 can/bottle (354 ml),106 cal,446 kJ
+Beer,Root Beer,1 can/bottle (354 ml),145 cal,609 kJ
+Beer,Samuel Adams,1 can/bottle (354 ml),159 cal,669 kJ
+Beer,Shock Top,1 can/bottle (354 ml),166 cal,697 kJ
+Beer,Shock Top Raspberry Wheat,1 can/bottle (354 ml),177 cal,743 kJ
+Beer,Sierra Nevada Strong,1 can/bottle (354 ml),219 cal,920 kJ
+Beer,Sparks,1 can/bottle (354 ml),262 cal,1101 kJ
+Beer,St. Pauli Girl,1 can/bottle (354 ml),149 cal,623 kJ
+Beer,Steel Reserve,1 can/bottle (354 ml),223 cal,938 kJ
+Beer,Stout,1 can/bottle (354 ml),181 cal,758 kJ
+Beer,Stout Beer,1 can/bottle (354 ml),181 cal,758 kJ
+Beer,Strong Beer,1 can/bottle (354 ml),195 cal,818 kJ
+Beer,Tilt,1 can/bottle (354 ml),227 cal,952 kJ
+Beer,Wheat Beer,1 can/bottle (354 ml),159 cal,669 kJ
+Cakes & Pies,Angel Food Cake,1 piece (28 g),72 cal,304 kJ
+Cakes & Pies,Apple Cake,1 serving (100 g),252 cal,1058 kJ
+Cakes & Pies,Apple Cobbler,1 serving (100 g),198 cal,832 kJ
+Cakes & Pies,Apple Crisp,1 serving (100 g),156 cal,655 kJ
+Cakes & Pies,Apple Crumble,1 serving (100 g),156 cal,655 kJ
+Cakes & Pies,Apple Pie,1 slice (125 g),296 cal,1244 kJ
+Cakes & Pies,Apple Strudel,1 piece (71 g),195 cal,817 kJ
+Cakes & Pies,Apple Turnover,1 turnover (82 g),285 cal,1199 kJ
+Cakes & Pies,Applesauce Cake,1 piece (62 g),222 cal,932 kJ
+Cakes & Pies,Baked Alaska,1 piece (103 g),254 cal,1068 kJ
+Cakes & Pies,Bakewell Tart,1 piece (59 g),254 cal,1066 kJ
+Cakes & Pies,Banoffee Pie,1 serving (100 g),395 cal,1659 kJ
+Cakes & Pies,Birthday Cake,1 piece (85 g),395 cal,1660 kJ
+Cakes & Pies,Black and White Cookie,1 cookie (113 g),431 cal,1808 kJ
+Cakes & Pies,Black Forest Cake,1 piece (107 g),282 cal,1187 kJ
+Cakes & Pies,Blueberry Cobbler,1 slice (100 g),234 cal,983 kJ
+Cakes & Pies,Blueberry Muffin,1 muffin (57 g),215 cal,902 kJ
+Cakes & Pies,Blueberry Pie,1 piece (125 g),290 cal,1218 kJ
+Cakes & Pies,Bundt Cake,1 slice (91 g),337 cal,1414 kJ
+Cakes & Pies,Buttermilk Pie,1 piece (144 g),547 cal,2298 kJ
+Cakes & Pies,Caramel Cake,1 slice (64 g),304 cal,1277 kJ
+Cakes & Pies,Carrot Cake,1 piece (133 g),543 cal,2280 kJ
+Cakes & Pies,Cheesecake,1 piece (80 g),257 cal,1078 kJ
+Cakes & Pies,Cherry Pie,1 piece (125 g),325 cal,1365 kJ
+Cakes & Pies,Chess Pie,1 piece (89 g),366 cal,1536 kJ
+Cakes & Pies,Chocolate Cake,1 piece (138 g),537 cal,2255 kJ
+Cakes & Pies,Chocolate Cream Pie,1 piece (99 g),301 cal,1264 kJ
+Cakes & Pies,Chocolate Mousse Cake,1 piece (95 g),247 cal,1037 kJ
+Cakes & Pies,Chocolate Mousse Pie,1 piece (95 g),247 cal,1037 kJ
+Cakes & Pies,Chocolate Muffin,1 muffin (100 g),420 cal,1764 kJ
+Cakes & Pies,Coconut Cake,1 piece (66 g),235 cal,987 kJ
+Cakes & Pies,Coffee Cake,1 piece (90 g),298 cal,1251 kJ
+Cakes & Pies,Cream Puff,1 cream puff (130 g),434 cal,1824 kJ
+Cakes & Pies,Crumb Cake,1 piece (57 g),251 cal,1056 kJ
+Cakes & Pies,Cupcake,1 cupcake (43 g),131 cal,551 kJ
+Cakes & Pies,Danish Pastry,1 pastry (71 g),266 cal,1115 kJ
+Cakes & Pies,Donut,1 donut (60 g),242 cal,1016 kJ
+Cakes & Pies,Doughnut,1 doughnut (60 g),242 cal,1016 kJ
+Cakes & Pies,Flan,1/2 cup (153 g),222 cal,932 kJ
+Cakes & Pies,Flourless Chocolate Cake,1 piece (80 g),407 cal,1710 kJ
+Cakes & Pies,French Cruller,1 cruller (41 g),169 cal,709 kJ
+Cakes & Pies,Fruit Cake,1 piece (43 g),139 cal,585 kJ
+Cakes & Pies,Funnel Cake,1 cake (90 g),276 cal,1160 kJ
+Cakes & Pies,German Chocolate Cake,1 piece (110 g),407 cal,1709 kJ
+Cakes & Pies,Gingerbread,1 piece (74 g),263 cal,1106 kJ
+Cakes & Pies,Ice Cream Cake,1 piece (120 g),240 cal,1008 kJ
+Cakes & Pies,Key Lime Pie,1 piece (80 g),287 cal,1206 kJ
+Cakes & Pies,King Cake,1 piece (91 g),343 cal,1441 kJ
+Cakes & Pies,Layer Cake,1 slice (107 g),430 cal,1806 kJ
+Cakes & Pies,Lemon Cake,1 piece (66 g),232 cal,975 kJ
+Cakes & Pies,Lemon Meringue Pie,1 piece (113 g),303 cal,1272 kJ
+Cakes & Pies,Madeira Cake,1 slice (50 g),197 cal,828 kJ
+Cakes & Pies,Marble Cake,1 piece (109 g),370 cal,1552 kJ
+Cakes & Pies,Meringue,1 piece (127 g),362 cal,1520 kJ
+Cakes & Pies,Opera Cake,1 piece (25 g),80 cal,336 kJ
+Cakes & Pies,Paczki,1 paczki (85 g),286 cal,1199 kJ
+Cakes & Pies,Pancake,1 pancake (38 g),86 cal,362 kJ
+Cakes & Pies,Panettone,1 slice (50 g),180 cal,756 kJ
+Cakes & Pies,Pavlova,1 serving (65 g),191 cal,803 kJ
+Cakes & Pies,Peach Cobbler,1 tbsp (15 g),10 cal,41 kJ
+Cakes & Pies,Peach Pie,1 piece (117 g),261 cal,1096 kJ
+Cakes & Pies,Pecan Pie,1 slice (133 g),541 cal,2273 kJ
+Cakes & Pies,Pineapple Upside-Down Cake,1 piece (115 g),367 cal,1541 kJ
+Cakes & Pies,Plum Cake,1 piece (150 g),164 cal,687 kJ
+Cakes & Pies,Poppy-Seed Cake,1 piece (90 g),355 cal,1490 kJ
+Cakes & Pies,Pound Cake,1 serving (55 g),215 cal,901 kJ
+Cakes & Pies,Profiterole,1 serving (113 g),377 cal,1585 kJ
+Cakes & Pies,Puff Pastry,1 sheet (245 g),1367 cal,5743 kJ
+Cakes & Pies,Pumpkin Bread,1 slice (60 g),179 cal,751 kJ
+Cakes & Pies,Pumpkin Cheesecake,1 piece (100 g),340 cal,1428 kJ
+Cakes & Pies,Pumpkin Pie,1 slice (133 g),323 cal,1358 kJ
+Cakes & Pies,Raspberry Pie,1 piece (137 g),329 cal,1381 kJ
+Cakes & Pies,Red Velvet Cake,1 piece (80 g),294 cal,1233 kJ
+Cakes & Pies,Rhubarb Pie,1 piece (137 g),336 cal,1410 kJ
+Cakes & Pies,Rum Cake,1 piece (57 g),200 cal,840 kJ
+Cakes & Pies,Sacher Torte,1 piece (125 g),440 cal,1848 kJ
+Cakes & Pies,Sponge Cake,1 piece (38 g),110 cal,461 kJ
+Cakes & Pies,Strawberry Cheesecake,1 slice (61 g),199 cal,838 kJ
+Cakes & Pies,Strawberry Pie,1 piece (167 g),384 cal,1613 kJ
+Cakes & Pies,Strawberry Rhubarb Pie,1 piece (150 g),422 cal,1770 kJ
+Cakes & Pies,Sweet Potato Pie,1 piece (131 g),341 cal,1431 kJ
+Cakes & Pies,Swiss Roll,1 cake (31 g),136 cal,572 kJ
+Cakes & Pies,Tarte Tatin,1 piece (100 g),210 cal,882 kJ
+Cakes & Pies,Tiramisu,1 serving (174 g),492 cal,2069 kJ
+Cakes & Pies,Tiramisu Cake,1 piece (108 g),314 cal,1320 kJ
+Cakes & Pies,Treacle Tart,1 serving (100 g),369 cal,1550 kJ
+Cakes & Pies,Tres Leches Cake,1 piece (120 g),295 cal,1240 kJ
+Cakes & Pies,Trifle,1 serving (100 g),180 cal,756 kJ
+Cakes & Pies,Victoria Sponge Cake,1 piece (28 g),72 cal,302 kJ
+Cakes & Pies,Waffles,1 waffle (33 g),103 cal,432 kJ
+Cakes & Pies,Wedding Cake,1 piece (109 g),415 cal,1744 kJ
+Candy & Sweets,3 Musketeers,1 bar (60 g),240 cal,1008 kJ
+Candy & Sweets,After Eight,1 after eight (8 g),36 cal,152 kJ
+Candy & Sweets,Airheads,1 bar (16 g),60 cal,252 kJ
+Candy & Sweets,Almond Roca,3 pieces (35 g),200 cal,839 kJ
+Candy & Sweets,Angel Delight,1 sachet (59 g),266 cal,1117 kJ
+Candy & Sweets,Animal Crackers,10 crackers (19 g),85 cal,356 kJ
+Candy & Sweets,Baby Ruth,1 bar (21 g),98 cal,414 kJ
+Candy & Sweets,Butterfinger,1 bar (60 g),270 cal,1134 kJ
+Candy & Sweets,Buttermilk Pancakes,1 pancake (35 g),83 cal,350 kJ
+Candy & Sweets,Candy Apple,1 apple (141 g),214 cal,900 kJ
+Candy & Sweets,Candy Cane,1 piece (14 g),59 cal,249 kJ
+Candy & Sweets,Candy canes,1 piece (14 g),59 cal,249 kJ
+Candy & Sweets,Candy Corn,20 pieces (41 g),148 cal,620 kJ
+Candy & Sweets,Candy Floss,1 bag (10 g),40 cal,168 kJ
+Candy & Sweets,Caramel Popcorn,1 cup (43 g),162 cal,679 kJ
+Candy & Sweets,Caramel squares,1 square (10 g),37 cal,154 kJ
+Candy & Sweets,Celebrations,1 piece (9 g),44 cal,185 kJ
+Candy & Sweets,Cheez-It’s,20 crackers (22 g),117 cal,493 kJ
+Candy & Sweets,Chocolate,1 piece (7 g),37 cal,156 kJ
+Candy & Sweets,Chocolate Bar,1 bar (45 g),240 cal,1008 kJ
+Candy & Sweets,Chocolate Chips,1 tbsp (14 g),69 cal,290 kJ
+Candy & Sweets,Cookies,1 cookie (16 g),78 cal,328 kJ
+Candy & Sweets,Cotton Candy,1/2 bag (14 g),90 cal,378 kJ
+Candy & Sweets,Eggy Bread,1 eggy bread (85 g),167 cal,700 kJ
+Candy & Sweets,Fairy Cakes,1 cake (15 g),66 cal,277 kJ
+Candy & Sweets,Ferrero Rocher,1 piece (12.5 g),69 cal,290 kJ
+Candy & Sweets,Flapjack,1 bar (75 g),365 cal,1531 kJ
+Candy & Sweets,Fortune Cookies,1 cookie (7 g),15 cal,63 kJ
+Candy & Sweets,Granola Bars,1 bar (21 g),95 cal,399 kJ
+Candy & Sweets,Gumdrops,20 pieces (74 g),238 cal,998 kJ
+Candy & Sweets,Gummi Bears,20 pieces (54 g),171 cal,717 kJ
+Candy & Sweets,Hanuta,1 hanuta (22 g),119 cal,500 kJ
+Candy & Sweets,Hershey Kisses,10 pieces (50 g),236 cal,989 kJ
+Candy & Sweets,Jelly Beans,10 pieces (30 g),106 cal,446 kJ
+Candy & Sweets,Jelly Belly,10 pieces (30 g),106 cal,446 kJ
+Candy & Sweets,Jolly Ranchers,1 piece (7 g),27 cal,113 kJ
+Candy & Sweets,Jordan Almonds,20 pieces (65 g),279 cal,1171 kJ
+Candy & Sweets,Kit Kat,1 bar (45 g),234 cal,985 kJ
+Candy & Sweets,Laffy Taffy,1 bar (9 g),33 cal,141 kJ
+Candy & Sweets,Licorice,5 pieces (29 g),109 cal,457 kJ
+Candy & Sweets,LifeSavers,10 pieces (20 g),100 cal,420 kJ
+Candy & Sweets,Lindt Chocolate,1 piece (5 g),27 cal,115 kJ
+Candy & Sweets,Liquorice,5 pieces (29 g),109 cal,457 kJ
+Candy & Sweets,Lollipop,1 lollipop (12 g),47 cal,198 kJ
+Candy & Sweets,M&M’s,20 pieces (14 g),67 cal,282 kJ
+Candy & Sweets,Maltesers,1 bag (37 g),184 cal,774 kJ
+Candy & Sweets,Mars Bar,1 bar (45 g),202 cal,847 kJ
+Candy & Sweets,Marshmallows,5 pieces (39 g),124 cal,521 kJ
+Candy & Sweets,Marzipan,1 piece (20 g),82 cal,345 kJ
+Candy & Sweets,Mike and Ike,20 pieces (37 g),133 cal,559 kJ
+Candy & Sweets,Milk Duds,20 pieces (62 g),262 cal,1099 kJ
+Candy & Sweets,Milky Way,1 bar (22 g),99 cal,415 kJ
+Candy & Sweets,PayDay,1 bar (52 g),240 cal,1009 kJ
+Candy & Sweets,Peanut Bar,1 bar (45 g),240 cal,1008 kJ
+Candy & Sweets,Peanut Brittle,1/2 cup (36 g),66 cal,277 kJ
+Candy & Sweets,Peanut Butter Bars,1 bar (77 g),292 cal,1226 kJ
+Candy & Sweets,Peanut Butter Cookies,1 cookie  (20 g),95 cal,399 kJ
+Candy & Sweets,Peppermint bark,1 piece (28 g),140 cal,588 kJ
+Candy & Sweets,Pez,1 roll (8 g),34 cal,143 kJ
+Candy & Sweets,Pop Rocks,1 bag (10 g),36 cal,150 kJ
+Candy & Sweets,Popcorn,1 cup (11 g),64 cal,269 kJ
+Candy & Sweets,Pumpkin Seeds,1 tbsp (10 g),56 cal,235 kJ
+Candy & Sweets,Reeses Peanut Butter Cups,1 cup (28 g),150 cal,630 kJ
+Candy & Sweets,Rice Pudding,1 cup (225 g),302 cal,1267 kJ
+Candy & Sweets,Roasted Almonds,1 bar (21 g),95 cal,399 kJ
+Candy & Sweets,Rolo,5 pieces (30 g),142 cal,597 kJ
+Candy & Sweets,Semolina,1 tbsp (11 g),37 cal,157 kJ
+Candy & Sweets,Skittles,20 pieces (22 g),89 cal,374 kJ
+Candy & Sweets,Smarties,1 roll (7 g),25 cal,105 kJ
+Candy & Sweets,Smores,1 bar (43 g),215 cal,903 kJ
+Candy & Sweets,Snickers,1 bar (50 g),242 cal,1017 kJ
+Candy & Sweets,Sour Patch Kids,20 pieces (37 g),134 cal,564 kJ
+Candy & Sweets,Speculoos,1 cookie (8 g),38 cal,158 kJ
+Candy & Sweets,Spritz Cookies,1 cookie (11 g),55 cal,231 kJ
+Candy & Sweets,S’mores,1 bar (43 g),215 cal,903 kJ
+Candy & Sweets,Take 5,1 bar (42 g),200 cal,840 kJ
+Candy & Sweets,Toblerone,1 piece (9 g),47 cal,198 kJ
+Candy & Sweets,Trifle,1/2 trifle (250 g),465 cal,1953 kJ
+Candy & Sweets,Twix,1 bar (25 g),124 cal,520 kJ
+Candy & Sweets,Waffles,1 waffle (35 g),95 cal,400 kJ
+Candy & Sweets,Whoopie Pie,10 crackers (19 g),76 cal,319 kJ
+Canned Fruit,Applesauce,1 cup (114 g),71 cal,296 kJ
+Canned Fruit,Canned Apricots,1 cup (246 g),118 cal,497 kJ
+Canned Fruit,Canned Blackberries,1 cup (256 g),236 cal,988 kJ
+Canned Fruit,Canned Blueberries,1 cup (256 g),225 cal,947 kJ
+Canned Fruit,Canned Cherries,1 cup (250 g),135 cal,568 kJ
+Canned Fruit,Canned Cranberries,1 cup (275 g),490 cal,2057 kJ
+Canned Fruit,Canned Crushed Pineapple,1 cup (225 g),119 cal,502 kJ
+Canned Fruit,Canned Figs,1 cup (261 g),279 cal,1172 kJ
+Canned Fruit,Canned Fruit Cocktail,1 cup (246 g),199 cal,836 kJ
+Canned Fruit,Canned Fruit Salad,1 cup (259 g),130 cal,544 kJ
+Canned Fruit,Canned Gooseberries,1 cup (252 g),184 cal,774 kJ
+Canned Fruit,Canned Grapefruit,1 cup (249 g),92 cal,386 kJ
+Canned Fruit,Canned Grapes,1 cup (256 g),195 cal,817 kJ
+Canned Fruit,Canned Mandarin Oranges,1 container (113 g),80 cal,337 kJ
+Canned Fruit,Canned Mango,1 cup (165 g),107 cal,450 kJ
+Canned Fruit,Canned Mangosteen,1 cup (216 g),158 cal,663 kJ
+Canned Fruit,Canned Mixed Fruit,1 can (113 g),80 cal,337 kJ
+Canned Fruit,Canned Morello Cherries,1 cup (270 g),219 cal,918 kJ
+Canned Fruit,Canned Oranges,1 can (113 g),70 cal,294 kJ
+Canned Fruit,Canned Peaches,1/2 peach (98 g),53 cal,222 kJ
+Canned Fruit,Canned Pears,1 cup (284 g),99 cal,417 kJ
+Canned Fruit,Canned Pineapple,1 cup (232 g),139 cal,585 kJ
+Canned Fruit,Canned Plums,1 plum (46 g),27 cal,112 kJ
+Canned Fruit,Canned Raspberries,1 cup (256 g),233 cal,978 kJ
+Canned Fruit,Canned Sliced Pineapple,1 cup (225 g),119 cal,502 kJ
+Canned Fruit,Canned Sour Cherries,1 cup (261 g),298 cal,1250 kJ
+Canned Fruit,Canned Strawberries,1 cup (254 g),234 cal,980 kJ
+Canned Fruit,Canned Tangerines,1 cup (252 g),154 cal,645 kJ
+Canned Fruit,Dried Fruit,2 oz. (56 g),136 cal,572 kJ
+Cereal Products,Amaranth,1 cup (193 g),716 cal,3007 kJ
+Cereal Products,Barley,1 cup (157 g),556 cal,2335 kJ
+Cereal Products,Barley Groats,1 cup (31 g),31 cal,130 kJ
+Cereal Products,Brown Rice,1 cup (195 g),757 cal,3179 kJ
+Cereal Products,Buckwheat,1 cup (170 g),583 cal,2450 kJ
+Cereal Products,Buckwheat Groats,1 cup (164 g),567 cal,2383 kJ
+Cereal Products,Corn Waffles,1 waffle (40 g),110 cal,460 kJ
+Cereal Products,Cornmeal,1 cup (122 g),442 cal,1854 kJ
+Cereal Products,Cornstarch,1 cup (128 g),488 cal,2048 kJ
+Cereal Products,Couscous,1 cup (173 g),650 cal,2732 kJ
+Cereal Products,Cracker,1 cracker (7 g),35 cal,148 kJ
+Cereal Products,Durum Wheat Semolina,1 tbsp (30 g),119 cal,500 kJ
+Cereal Products,Flaxseed,1 cup (168 g),897 cal,3768 kJ
+Cereal Products,Freekeh,1 cup (160 g),832 cal,3494 kJ
+Cereal Products,Gluten,1 oz. (28 g),104 cal,435 kJ
+Cereal Products,Grissini,1 grissini (5 g),20 cal,86 kJ
+Cereal Products,Kamut,1 cup (186 g),627 cal,2632 kJ
+Cereal Products,Millet,1 cup (128 g),484 cal,2033 kJ
+Cereal Products,Millet Flour,1 cup (140 g),521 cal,2187 kJ
+Cereal Products,Millet Gruel,1 cup (174 g),80 cal,336 kJ
+Cereal Products,Oat Bran,1 cup  (94 g),231 cal,971 kJ
+Cereal Products,Pearl Barley,1 cup (157 g),553 cal,2320 kJ
+Cereal Products,Polenta,1 cup (150 g),549 cal,2306 kJ
+Cereal Products,Prawn Crackers,1 cracker (3 g),16 cal,66 kJ
+Cereal Products,Pretzel Sticks,20 sticks (12 g),46 cal,192 kJ
+Cereal Products,Quinoa,1 cup (170 g),626 cal,2628 kJ
+Cereal Products,Rusk,1 rusk (10 g),41 cal,172 kJ
+Cereal Products,Rye Bran,1 cup (150 g),422 cal,1770 kJ
+Cereal Products,Sago,1 oz. (28 g),99 cal,416 kJ
+Cereal Products,Savoury Biscuits,40 grams (40 g),139 cal,583 kJ
+Cereal Products,Shortbread,1 cookie (19 g),95 cal,401 kJ
+Cereal Products,Spelt,1 cup (174 g),588 cal,2471 kJ
+Cereal Products,Spelt Bran,1 cup (160 g),283 cal,1189 kJ
+Cereal Products,Spelt Semolina,1 cup (167 g),601 cal,2525 kJ
+Cereal Products,Sunflower Seeds,1 cup (140 g),818 cal,3434 kJ
+Cereal Products,Tortilla,1 tortilla (197 g),467 cal,1960 kJ
+Cereal Products,Tortilla Chips,20 chips (32 g),160 cal,671 kJ
+Cereal Products,Wheat Bran,1 cup (58 g),125 cal,526 kJ
+Cereal Products,Wheat Germ,1 cup (113 g),432 cal,1813 kJ
+Cereal Products,Wheat Gluten,1 tsp (3 g),10 cal,41 kJ
+Cereal Products,Wheat Semolina,1 cup (167 g),601 cal,2525 kJ
+Cereal Products,Wheat Starch,1 cup (110 g),386 cal,1621 kJ
+Cereal Products,Whole Grain Wheat,1 cup (120 g),407 cal,1709 kJ
+Cereal Products,Wholegrain Oat,1 cup (80 g),300 cal,1260 kJ
+Cheese,American Cheese,1 slice (21 g),31 cal,131 kJ
+Cheese,Applewood,1 slice (20 g),82 cal,344 kJ
+Cheese,Asiago Cheese,1 oz. (28.35 g),110 cal,461 kJ
+Cheese,Babybel,1 piece (21 g),70 cal,294 kJ
+Cheese,Blue Cheese,1 oz. (28.35 g),99 cal,415 kJ
+Cheese,Brie,1 slice (30 g),100 cal,421 kJ
+Cheese,Camembert,1 slice (30 g),90 cal,378 kJ
+Cheese,Cheddar,1 slice (22 g),89 cal,372 kJ
+Cheese,Cheese Fondue,1 packet (400 g),912 cal,3832 kJ
+Cheese,Cheese Spread,1 tbsp (15 g),44 cal,183 kJ
+Cheese,Cheese Whiz,1 tbsp (33 g),91 cal,382 kJ
+Cheese,Chester,1 oz. (28.35 g),108 cal,455 kJ
+Cheese,Colby Cheese,1 cup (132 g),520 cal,2185 kJ
+Cheese,Colby-Jack Cheese,1 cup (132 g),520 cal,2185 kJ
+Cheese,Cottage Cheese,1 cup (210 g),206 cal,865 kJ
+Cheese,Dutch Cheese,1 oz. (28.35 g),110 cal,462 kJ
+Cheese,Edam Cheese,1 package (198 g),707 cal,2968 kJ
+Cheese,Emmentaler,1 slice (25 g),89 cal,375 kJ
+Cheese,Feta,1 oz. (28.35 g),74 cal,311 kJ
+Cheese,Fontina,1 slice (30 g),117 cal,490 kJ
+Cheese,Fresh Mozzarella,1 slice (28 g),78 cal,329 kJ
+Cheese,Gjetost,1 package (227 g),1058 cal,4442 kJ
+Cheese,Goat Cheese,1 oz. (28.35 g),102 cal,428 kJ
+Cheese,Gorgonzola,1 oz. (28.35 g),98 cal,412 kJ
+Cheese,Gouda,1 package (198 g),705 cal,2960 kJ
+Cheese,Grated Parmesan,1 tsp (5 g),22 cal,91 kJ
+Cheese,Grilled Cheese,1 piece (83 g),291 cal,1220 kJ
+Cheese,Gruyere,1 slice (25 g),103 cal,434 kJ
+Cheese,Halloumi,1 oz. (28.35 g),90 cal,377 kJ
+Cheese,Havarti,1 slice (28 g),104 cal,436 kJ
+Cheese,Italian Cheese,1 serving (30 g),119 cal,500 kJ
+Cheese,Jarlsberg,1 oz. (28.35 g),99 cal,414 kJ
+Cheese,Maasdam Cheese,1 slice (18 g),62 cal,260 kJ
+Cheese,Manchego Cheese,1 serving (28 g),90 cal,376 kJ
+Cheese,Monterey,1 cup (132 g),492 cal,2068 kJ
+Cheese,Monterey Jack Cheese,1 cup (132 g),492 cal,2068 kJ
+Cheese,Mozzarella,1 slice (28 g),78 cal,329 kJ
+Cheese,Muenster Cheese,1 slice (28 g),103 cal,433 kJ
+Cheese,Neufchatel,1 package (85 g),215 cal,904 kJ
+Cheese,Parmesan,1 tsp (5 g),22 cal,91 kJ
+Cheese,Pecorino,1 tbsp (5 g),19 cal,81 kJ
+Cheese,Provolone,1 slice (28 g),98 cal,413 kJ
+Cheese,Raclette Cheese,1 slice (25 g),89 cal,375 kJ
+Cheese,Ricotta,1 cup (246 g),428 cal,1798 kJ
+Cheese,Romano,5 package (142 g),550 cal,2308 kJ
+Cheese,Roquefort,1 oz. (28.35 g),103 cal,434 kJ
+Cheese,Sheep Cheese,1 oz. (28.35 g),102 cal,428 kJ
+Cheese,Soft Cheese,1 oz. (28.35 g),75 cal,315 kJ
+Cheese,Stilton Cheese,1 oz. (28.35 g),110 cal,462 kJ
+Cheese,String Cheese,1 stick (28 g),70 cal,294 kJ
+Cheese,Swiss Cheese,1 slice (25 g),95 cal,399 kJ
+Cheese,White Cheddar,1 cup (132 g),532 cal,2235 kJ
+Cheese,Wisconsin Cheese,1 oz. (28.35 g),109 cal,458 kJ
+Cold Cuts & Lunch Meat,Baked Ham,1 slice (21 g),72 cal,303 kJ
+Cold Cuts & Lunch Meat,Beef Salami,1 slice (10 g),38 cal,158 kJ
+Cold Cuts & Lunch Meat,Boiled Ham,1 slice (21 g),26 cal,111 kJ
+Cold Cuts & Lunch Meat,Bologna,1 slice (23 g),57 cal,239 kJ
+Cold Cuts & Lunch Meat,Bresaola,1 slice (9 g),16 cal,67 kJ
+Cold Cuts & Lunch Meat,Capicola,1 slice (21 g),23 cal,97 kJ
+Cold Cuts & Lunch Meat,Chicken Breast Fillet,1 slice (21 g),17 cal,70 kJ
+Cold Cuts & Lunch Meat,Chopped Ham,1 slice (28 g),50 cal,212 kJ
+Cold Cuts & Lunch Meat,Chorizo,1 oz. (28.35 g),127 cal,535 kJ
+Cold Cuts & Lunch Meat,Corned Beef,1 slice (21 g),53 cal,221 kJ
+Cold Cuts & Lunch Meat,Dutch Loaf,1 slice (21 g),56 cal,236 kJ
+Cold Cuts & Lunch Meat,Ham,1 slice (23 g),33 cal,140 kJ
+Cold Cuts & Lunch Meat,Ham Sausage,1 slice (23 g),38 cal,158 kJ
+Cold Cuts & Lunch Meat,Head Cheese,1 slice (28 g),44 cal,185 kJ
+Cold Cuts & Lunch Meat,Hickory Ham,1 slice (21 g),39 cal,166 kJ
+Cold Cuts & Lunch Meat,Honey Ham,1 slice (22 g),27 cal,113 kJ
+Cold Cuts & Lunch Meat,Liverwurst,1 slice (18 g),59 cal,246 kJ
+Cold Cuts & Lunch Meat,Olive Loaf,1 slice (23 g),53 cal,224 kJ
+Cold Cuts & Lunch Meat,Oven-Roasted Turkey Breast,1 slice (21 g),22 cal,92 kJ
+Cold Cuts & Lunch Meat,Parma Ham,1 slice (11 g),38 cal,159 kJ
+Cold Cuts & Lunch Meat,Pastrami,1 slice (29 g),39 cal,162 kJ
+Cold Cuts & Lunch Meat,Pepperoni,1 slice (2 g),10 cal,42 kJ
+Cold Cuts & Lunch Meat,Pimento Loaf,1 slice (28 g),74 cal,312 kJ
+Cold Cuts & Lunch Meat,Pork Roast,1 slice (21 g),52 cal,218 kJ
+Cold Cuts & Lunch Meat,Prosciutto,1 slice (9 g),18 cal,74 kJ
+Cold Cuts & Lunch Meat,Roast Beef,1 slice (21 g),56 cal,235 kJ
+Cold Cuts & Lunch Meat,Salami,1 slice (12.3 g),40 cal,169 kJ
+Cold Cuts & Lunch Meat,Serrano Ham,1 slice (15 g),45 cal,189 kJ
+Cold Cuts & Lunch Meat,Smoked Ham,1 slice (21 g),22 cal,94 kJ
+Cold Cuts & Lunch Meat,Smoked Turkey Breast,1 slice (21 g),22 cal,92 kJ
+Cold Cuts & Lunch Meat,Summer Sausage,1 slice (21 g),63 cal,263 kJ
+Cold Cuts & Lunch Meat,Tongue,1 slice (28 g),80 cal,334 kJ
+Cold Cuts & Lunch Meat,Turkey Breast,1 slice (21 g),22 cal,92 kJ
+Cold Cuts & Lunch Meat,Turkey Ham,1 slice (21 g),26 cal,111 kJ
+Cold Cuts & Lunch Meat,Turkey Salami,1 slice (23 g),35 cal,147 kJ
+Cream Cheese,Chive Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Cottage Cheese,1 cup (226 g),221 cal,931 kJ
+Cream Cheese,Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Cream Cheese with Herbs,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Feta Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Garlic Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Goat Cheese,1 tsp (10 g),36 cal,153 kJ
+Cream Cheese,Horseradish,1 tbsp (15 g),7 cal,30 kJ
+Cream Cheese,Mascarpone,1 tbsp (14.5 g),63 cal,265 kJ
+Cream Cheese,Obatzda,1 tbsp (15 g),45 cal,191 kJ
+Cream Cheese,Olive Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Pesto Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Philadelphia Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Pineapple Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Salmon Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Vegetable Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Cream Cheese,Walnut Cream Cheese,1 tbsp (14.5 g),48 cal,201 kJ
+Dishes & Meals,Baby Back Ribs,1 serving (139 g),360 cal,1512 kJ
+Dishes & Meals,Bacon and Eggs,1 serving (214 g),539 cal,2264 kJ
+Dishes & Meals,Baked Beans,1 cup (260 g),244 cal,1027 kJ
+Dishes & Meals,Baked Chicken,1 breast (172 g),282 cal,1185 kJ
+Dishes & Meals,BBQ Ribs,1 rib (141 g),360 cal,1510 kJ
+Dishes & Meals,Beef Stew,1 cup (196 g),186 cal,782 kJ
+Dishes & Meals,Biryani,1 cup (275 g),484 cal,2032 kJ
+Dishes & Meals,Black Pudding,1 pudding (40 g),101 cal,425 kJ
+Dishes & Meals,Black Rice,1/2 cup (100 g),323 cal,1357 kJ
+Dishes & Meals,BLT,1 item (240 g),593 cal,2489 kJ
+Dishes & Meals,Brown Rice,1 cup (185 g),670 cal,2812 kJ
+Dishes & Meals,Burrito,1 burrito (200 g),326 cal,1370 kJ
+Dishes & Meals,Butter Chicken,1 tray (350 g),490 cal,2058 kJ
+Dishes & Meals,California Roll,1 roll (35 g),33 cal,137 kJ
+Dishes & Meals,Chicken Caesar Salad,1 salad (309 g),392 cal,1647 kJ
+Dishes & Meals,Chicken Fried Steak,1 steak  (280 g),423 cal,1775 kJ
+Dishes & Meals,Chicken Marsala,1 serving (2301 g),2209 cal,9273 kJ
+Dishes & Meals,Chicken Parmesan,1 piece (227 g),250 cal,1049 kJ
+Dishes & Meals,Chicken Pot Pie,1 pie (302 g),673 cal,2830 kJ
+Dishes & Meals,Chicken Tikka Masala,1 serving (241 g),195 cal,819 kJ
+Dishes & Meals,Chili con Carne,1 cup (253 g),266 cal,1116 kJ
+Dishes & Meals,Chimichanga,1 item (180 g),418 cal,1753 kJ
+Dishes & Meals,Cobb Salad,1 serving (536 g),632 cal,2659 kJ
+Dishes & Meals,Collard Greens,1 cup (45 g),13 cal,53 kJ
+Dishes & Meals,Corn Dog,1 item (175 g),438 cal,1838 kJ
+Dishes & Meals,Corned Beef Hash,1 can (213 g),349 cal,1468 kJ
+Dishes & Meals,Cottage Pie,1 pie (376 g),523 cal,2196 kJ
+Dishes & Meals,Dal,1/2 cup (92 g),304 cal,1275 kJ
+Dishes & Meals,Deviled Eggs,1/2 egg (31 g),62 cal,262 kJ
+Dishes & Meals,Dim Sum,1 piece (19 g),37 cal,154 kJ
+Dishes & Meals,Dosa,1 serving (435 g),287 cal,1205 kJ
+Dishes & Meals,Enchiladas,1 enchilada (192 g),323 cal,1356 kJ
+Dishes & Meals,Fajita,1 serving (248 g),290 cal,1218 kJ
+Dishes & Meals,Fish and Chips,1 serving (300 g),585 cal,2457 kJ
+Dishes & Meals,Fried Rice,1 serving (356 g),662 cal,2780 kJ
+Dishes & Meals,Fried Shrimp,1 shrimp (27 g),75 cal,314 kJ
+Dishes & Meals,Grilled Cheese Sandwich,1 sandwich (136 g),392 cal,1646 kJ
+Dishes & Meals,Ham and Cheese Sandwich,1 sandwich (146 g),352 cal,1478 kJ
+Dishes & Meals,Hummus,1 cup (246 g),435 cal,1828 kJ
+Dishes & Meals,Jambalaya,1 cup (250 g),250 cal,1050 kJ
+Dishes & Meals,Kebab,1 kebab (360 g),774 cal,3251 kJ
+Dishes & Meals,Lasagne,1 serving (215 g),284 cal,1191 kJ
+Dishes & Meals,Mac and Cheese,1 serving (189 g),699 cal,2937 kJ
+Dishes & Meals,Macaroni and Cheese,1 serving (189 g),699 cal,2937 kJ
+Dishes & Meals,Mashed Potatoes,1 cup (210 g),174 cal,733 kJ
+Dishes & Meals,Meat Pie,1 pie (120 g),290 cal,1219 kJ
+Dishes & Meals,Meatloaf,1 loaf (284 g),721 cal,3030 kJ
+Dishes & Meals,Naan,1 bread (84 g),260 cal,1094 kJ
+Dishes & Meals,Orange Chicken,1 serving (162 g),420 cal,1763 kJ
+Dishes & Meals,Pad Thai,1 cup (250 g),375 cal,1575 kJ
+Dishes & Meals,Paella,1/2 package (128 g),200 cal,838 kJ
+Dishes & Meals,Paratha,1 paratha (80 g),260 cal,1092 kJ
+Dishes & Meals,Pea Soup,1 cup (253 g),190 cal,797 kJ
+Dishes & Meals,Peanut Butter Sandwich,1 sandwich (49 g),200 cal,840 kJ
+Dishes & Meals,Peking Duck,1/2 duck (178 g),401 cal,1682 kJ
+Dishes & Meals,Philly Cheese Steak,1 sandwich (120 g),300 cal,1260 kJ
+Dishes & Meals,Pizza,1 slice (102 g),272 cal,1143 kJ
+Dishes & Meals,Pork Chop,1 chop (131 g),295 cal,1238 kJ
+Dishes & Meals,Potato Salad,1/3 cup (95 g),136 cal,571 kJ
+Dishes & Meals,Pulled Pork Sandwich,1 sandwich (261 g),551 cal,2312 kJ
+Dishes & Meals,Ramen,"1 package, dry (85 g)",380 cal,1595 kJ
+Dishes & Meals,Ravioli,5 ravioli (66 g),134 cal,563 kJ
+Dishes & Meals,Reuben Sandwich,1 sandwich (308 g),641 cal,2692 kJ
+Dishes & Meals,Roast Beef,1 slice (21 g),23 cal,98 kJ
+Dishes & Meals,Roast Dinner,1 slice (121 g),240 cal,1007 kJ
+Dishes & Meals,Samosa,1 samosa (50 g),107 cal,450 kJ
+Dishes & Meals,Sausage Roll,1 roll (103 g),361 cal,1514 kJ
+Dishes & Meals,Sausage Rolls,1 roll (34 g),101 cal,424 kJ
+Dishes & Meals,Shepherds Pie,1 pie (227 g),159 cal,667 kJ
+Dishes & Meals,Shrimp Cocktail,1 oz. (28 g),130 cal,546 kJ
+Dishes & Meals,Sloppy Joe,1/2 cup (142 g),101 cal,423 kJ
+Dishes & Meals,Sloppy Joes,1 bun (258 g),397 cal,1669 kJ
+Dishes & Meals,Spaghetti Bolognese,1 serving (283 g),374 cal,1568 kJ
+Dishes & Meals,Spring Roll,1 roll (140 g),350 cal,1470 kJ
+Dishes & Meals,Spring Rolls,1 roll (140 g),350 cal,1470 kJ
+Dishes & Meals,Taco,1 taco (98 g),213 cal,893 kJ
+Dishes & Meals,Tandoori Chicken,1 serving (175 g),198 cal,831 kJ
+Dishes & Meals,Yorkshire Pudding,1 pudding (15 g),83 cal,348 kJ
+Fast Food,Arby’s Grand Turkey Club,1 sandwich (233 g),489 cal,2055 kJ
+Fast Food,Arby’s Reuben,1 sandwich (308 g),641 cal,2692 kJ
+Fast Food,Arby’s Roast Beef Classic,1 burger (154 g),360 cal,1514 kJ
+Fast Food,Arby’s Roast Beef Max,1 burger (154 g),360 cal,1514 kJ
+Fast Food,BBQ Rib,1 rib (67 g),142 cal,596 kJ
+Fast Food,Bean Burrito,1 burrito (190 g),380 cal,1596 kJ
+Fast Food,Big N’ Tasty,1 sandwich (232 g),517 cal,2174 kJ
+Fast Food,Bratwurst,1 piece (85 g),283 cal,1189 kJ
+Fast Food,Burger King Angry Whopper,1 burger (290 g),740 cal,3106 kJ
+Fast Food,Burger King Double Whopper,1 burger (374 g),894 cal,3755 kJ
+Fast Food,Burger King Double Whopper with Cheese,1 sandwich (399 g),994 cal,4174 kJ
+Fast Food,Burger King Original Chicken Sandwich,1 sandwich (219 g),659 cal,2768 kJ
+Fast Food,Burger King Premium Alaskan Fish Sandwich,1 burger (228 g),591 cal,2481 kJ
+Fast Food,Burger King Triple Whopper,1 burger (547 g),1471 cal,6181 kJ
+Fast Food,Burger King Whopper,1 burger (291 g),672 cal,2823 kJ
+Fast Food,Burger King Whopper Jr.,1 burger (148 g),346 cal,1455 kJ
+Fast Food,Burger King Whopper with Cheese,1 burger (315 g),759 cal,3188 kJ
+Fast Food,Cheeseburger,1 burger (156 g),410 cal,1724 kJ
+Fast Food,Chicken Breast,1 piece (71 g),116 cal,486 kJ
+Fast Food,Chicken Fajita,1 sandwich (222 g),326 cal,1370 kJ
+Fast Food,Chicken McNuggets,1 nugget (16 g),48 cal,203 kJ
+Fast Food,Chicken Nuggets,1 piece (20 g),59 cal,249 kJ
+Fast Food,Chicken Pizziola,1 sandwich (320 g),451 cal,1894 kJ
+Fast Food,Chicken Sandwich,1 sandwich (170 g),410 cal,1720 kJ
+Fast Food,Chicken Teriyaki Sandwich,1 sandwich (266 g),367 cal,1543 kJ
+Fast Food,Chicken Wings,1 piece (29 g),94 cal,395 kJ
+Fast Food,Chop Suey,1 serving (340 g),585 cal,2455 kJ
+Fast Food,Curly Fries,1 serving (128 g),398 cal,1672 kJ
+Fast Food,Double Cheeseburger,1 burger (155 g),414 cal,1738 kJ
+Fast Food,Egg Roll,1 roll (80 g),200 cal,840 kJ
+Fast Food,Falafel,1 patty (17 g),57 cal,239 kJ
+Fast Food,Filet-o-Fish,1 sandwich (142 g),400 cal,1681 kJ
+Fast Food,Fish and Chips,1 serving (300 g),585 cal,2457 kJ
+Fast Food,Fish Sandwich,1 sandwich (158 g),431 cal,1812 kJ
+Fast Food,French Fries,1 serving (71 g),222 cal,930 kJ
+Fast Food,Grilled Chicken Salad,1 salad (305 g),268 cal,1129 kJ
+Fast Food,Ham Sandwich,1 sandwich (146 g),352 cal,1478 kJ
+Fast Food,Hamburger,1 sandwich (110 g),279 cal,1174 kJ
+Fast Food,Hot Dog,1 hot dog (116 g),312 cal,1311 kJ
+Fast Food,Italian BMT,1 sandwich (224 g),410 cal,1723 kJ
+Fast Food,Lasagna,1 piece (130 g),172 cal,720 kJ
+Fast Food,McDonald’s Big Mac,1 burger (219 g),561 cal,2354 kJ
+Fast Food,McDonald’s Cheeseburger,1 sandwich (114 g),300 cal,1260 kJ
+Fast Food,McDonald’s Chicken Nuggets,1 nugget (16 g),48 cal,200 kJ
+Fast Food,McDonald’s Double Cheeseburger,1 burger (155 g),437 cal,1835 kJ
+Fast Food,McDonald’s Filet-o-Fish,1 sandwich (142 g),391 cal,1640 kJ
+Fast Food,McDonald’s McChicken,1 burger (143 g),359 cal,1507 kJ
+Fast Food,McDonald’s McDouble,1 burger (160 g),403 cal,1693 kJ
+Fast Food,McDonald’s McMuffi Egg,1 burger (129 g),290 cal,1219 kJ
+Fast Food,McDonald’s McRib,1 sandwich (170 g),451 cal,1892 kJ
+Fast Food,McDonald’s Mighty Wings,1 wing (31 g),95 cal,401 kJ
+Fast Food,McRib,1 sandwich (170 g),451 cal,1892 kJ
+Fast Food,Meatball Sandwich,1 sandwich (299 g),481 cal,2021 kJ
+Fast Food,Nachos with Cheese,10 nachos (188 g),575 cal,2416 kJ
+Fast Food,Onion Rings,1 ring (6.5 g),25 cal,104 kJ
+Fast Food,Poutine,1 serving (225 g),511 cal,2144 kJ
+Fast Food,Smoked Salmon,1 oz. (28.35 g),44 cal,186 kJ
+Fast Food,Spicy Italian,1 sandwich (219 g),480 cal,2015 kJ
+Fast Food,Subway Club Sandwich,1 sandwich (238 g),312 cal,1309 kJ
+Fast Food,Tortilla Wrap,1 wrap (63 g),171 cal,717 kJ
+Fast Food,Tuna,1 oz. (28.35 g),24 cal,101 kJ
+Fast Food,Turkey,1 oz. (28.35 g),29 cal,122 kJ
+Fast Food,Veggie Burger,1 burger (215 g),389 cal,1634 kJ
+Fast Food,Veggie Delight,1 sandwich (166 g),229 cal,963 kJ
+Fast Food,Veggie Patty,1 sandwich (247 g),963 cal,4046 kJ
+Fast Food,Wendy’s Baconator,1 burger (276 g),839 cal,3525 kJ
+Fast Food,Wendy’s Jr. Bacon Cheeseburger,1 burger (161 g),420 cal,1765 kJ
+Fast Food,Wendy’s Jr. Cheeseburger,1 burger (129 g),290 cal,1219 kJ
+Fast Food,Wendy’s Son of Baconator,1 burger (218 g),700 cal,2939 kJ
+Fast Food,Whopper,1 burger (291 g),672 cal,2823 kJ
+Fast Food,Zinger,1 sandwich (202 g),517 cal,2172 kJ
+Fast Food,Zinger Burger,1 sandwich (202 g),517 cal,2172 kJ
+Fish & Seafood,Anchovy,3 oz. (85 g),111 cal,468 kJ
+Fish & Seafood,Bluefish,1 fillet (117 g),186 cal,782 kJ
+Fish & Seafood,Bream,1 serving (125 g),169 cal,709 kJ
+Fish & Seafood,Butterfish,1 fillet (25 g),47 cal,196 kJ
+Fish & Seafood,Calamari,1 piece (12 g),21 cal,88 kJ
+Fish & Seafood,Carp,1 fillet (170 g),275 cal,1156 kJ
+Fish & Seafood,Caviar,1 tbsp (16 g),42 cal,177 kJ
+Fish & Seafood,Clam,3 oz. (85 g),126 cal,529 kJ
+Fish & Seafood,Cod,1 fillet (180 g),189 cal,794 kJ
+Fish & Seafood,Crawfish,1 crawfish (12 g),10 cal,41 kJ
+Fish & Seafood,Crayfish,3 oz. (85 g),74 cal,310 kJ
+Fish & Seafood,Eel,1 oz. (28.4 g),66 cal,277 kJ
+Fish & Seafood,Fish Fingers,1 stick (28 g),81 cal,341 kJ
+Fish & Seafood,Fish Sticks,1 stick (28 g),81 cal,341 kJ
+Fish & Seafood,Flounder,1 fillet (127 g),109 cal,458 kJ
+Fish & Seafood,Grouper,1 fillet (202 g),238 cal,1002 kJ
+Fish & Seafood,Haddock,1 fillet (150 g),135 cal,567 kJ
+Fish & Seafood,Hake,1 fillet (113 g),80 cal,337 kJ
+Fish & Seafood,Halibut,1/2 fillet (200 g),222 cal,932 kJ
+Fish & Seafood,Herring,1 fillet (143 g),290 cal,1220 kJ
+Fish & Seafood,Hoki,1 serving (70 g),85 cal,356 kJ
+Fish & Seafood,Kipper,1 fillet (40 g),87 cal,364 kJ
+Fish & Seafood,Ling,1 fillet (151 g),165 cal,692 kJ
+Fish & Seafood,Lobster,1 lobster (150 g),134 cal,561 kJ
+Fish & Seafood,Mackerel,1 fillet (88 g),231 cal,968 kJ
+Fish & Seafood,Milkfish,3 oz. (85 g),162 cal,678 kJ
+Fish & Seafood,Monkfish,3 oz. (85 g),82 cal,346 kJ
+Fish & Seafood,Mullet,1 fillet (93 g),140 cal,586 kJ
+Fish & Seafood,Mussel,3 oz. (85 g),146 cal,614 kJ
+Fish & Seafood,Octopus,3 oz. (85 g),139 cal,586 kJ
+Fish & Seafood,Pickerel,1 fillet (127 g),141 cal,592 kJ
+Fish & Seafood,Pickled Herring,1 cup (140 g),367 cal,1540 kJ
+Fish & Seafood,Pike,1/2 fillet (155 g),175 cal,736 kJ
+Fish & Seafood,Plaice,1 serving (100 g),91 cal,382 kJ
+Fish & Seafood,Pollack,1/2 fillet (151 g),168 cal,704 kJ
+Fish & Seafood,Red Snapper,1 fillet (170 g),218 cal,915 kJ
+Fish & Seafood,Redfish,1 serving (57 g),54 cal,225 kJ
+Fish & Seafood,Rollmops,1 rollmops (65 g),111 cal,467 kJ
+Fish & Seafood,Salmon,1/2 fillet (178 g),367 cal,1540 kJ
+Fish & Seafood,Sardines,1 cup (149 g),310 cal,1302 kJ
+Fish & Seafood,Scallops,1 scallop (10 g),11 cal,47 kJ
+Fish & Seafood,Scampi,1 scampi (10 g),8 cal,35 kJ
+Fish & Seafood,Sea Bass,1 fillet (124 g),154 cal,646 kJ
+Fish & Seafood,Shad,1 fillet (144 g),363 cal,1524 kJ
+Fish & Seafood,Shark,3 oz. (85 g),111 cal,464 kJ
+Fish & Seafood,Smelt,3 oz. (85 g),105 cal,443 kJ
+Fish & Seafood,Sole,1 fillet (127 g),109 cal,458 kJ
+Fish & Seafood,Squid,1 oz. (28.4 g),26 cal,108 kJ
+Fish & Seafood,Sturgeon,1 cup (136 g),184 cal,771 kJ
+Fish & Seafood,Sushi,1 piece (26 g),39 cal,164 kJ
+Fish & Seafood,Swordfish,1 piece (106 g),182 cal,765 kJ
+Fish & Seafood,Triggerfish,1 oz. (28.4 g),26 cal,109 kJ
+Fish & Seafood,Trout,1 fillet (62 g),118 cal,495 kJ
+Fish & Seafood,Tuna,1/2 fillet (154 g),203 cal,853 kJ
+Fish & Seafood,Tuna Salad,1 cup (205 g),383 cal,1609 kJ
+Fish & Seafood,Turbot,1/2 fillet (159 g),194 cal,814 kJ
+Fish & Seafood,Wahoo,1 serving (100 g),167 cal,701 kJ
+Fish & Seafood,Whitefish,1 fillet (154 g),265 cal,1112 kJ
+Fish & Seafood,Whiting,1 fillet (72 g),84 cal,351 kJ
+Fish & Seafood,Zander,1 fillet (62 g),52 cal,219 kJ
+Fruits,Acai,1 oz. (28.35 g),20 cal,82 kJ
+Fruits,Apple,1 apple (182 g),95 cal,397 kJ
+Fruits,Applesauce,1 cup (246 g),167 cal,704 kJ
+Fruits,Apricot,1 apricot (35 g),17 cal,71 kJ
+Fruits,Avocado,1 avocado (200 g),320 cal,1344 kJ
+Fruits,Banana,1 banana (125 g),111 cal,468 kJ
+Fruits,Blackberries,1 cup (144 g),62 cal,261 kJ
+Fruits,Blood Oranges,1 serving (140 g),70 cal,294 kJ
+Fruits,Blueberries,1 cup (148 g),84 cal,354 kJ
+Fruits,Cantaloupe,1 wedge (69 g),23 cal,99 kJ
+Fruits,Cherries,1 cherry (8 g),4 cal,17 kJ
+Fruits,Clementine,1 clementine (74 g),35 cal,146 kJ
+Fruits,Cranberries,1 cup (100 g),46 cal,193 kJ
+Fruits,Currants,1 cup (112 g),63 cal,263 kJ
+Fruits,Custard Apple,1 custard apple (135 g),136 cal,572 kJ
+Fruits,Dates,1 date (7.1 g),20 cal,83 kJ
+Fruits,Figs,1 fig (50 g),37 cal,156 kJ
+Fruits,Fruit salad,1 cup (249 g),125 cal,523 kJ
+Fruits,Grapes,1 cup (151 g),104 cal,438 kJ
+Fruits,Greengage,1 fruit (5 g),2 cal,9 kJ
+Fruits,Guava,1 guava (55 g),37 cal,157 kJ
+Fruits,Jackfruit,1 cup (151 g),143 cal,602 kJ
+Fruits,Jujube,1 oz. (28.35 g),22 cal,93 kJ
+Fruits,Kiwi,1 liwi (183 g),112 cal,468 kJ
+Fruits,Lemon,1 lemon (58 g),17 cal,71 kJ
+Fruits,Lime,1 lime (67 g),20 cal,84 kJ
+Fruits,Lychees,1 lychee (10 g),7 cal,28 kJ
+Fruits,Mandarin Oranges,1 mandarin orange (88 g),47 cal,196 kJ
+Fruits,Mango,1 mango (336 g),202 cal,847 kJ
+Fruits,Minneola,1 minneola (109 g),70 cal,293 kJ
+Fruits,Mulberries,1 cup (140 g),60 cal,253 kJ
+Fruits,Nectarine,1 nectarine (150 g),66 cal,278 kJ
+Fruits,Olives,1 olive (2.7 g),2 cal,10 kJ
+Fruits,Orange,1 orange (131 g),62 cal,258 kJ
+Fruits,Papaya,1 fruit (500 g),215 cal,905 kJ
+Fruits,Passion Fruit,1 passoin fruit (18 g),17 cal,73 kJ
+Fruits,Peach,1 peach (150 g),59 cal,246 kJ
+Fruits,Pear,1 pear (178 g),101 cal,425 kJ
+Fruits,Persimmon,1 fruit (25 g),32 cal,133 kJ
+Fruits,Physalis,1 berry (5 g),2 cal,10 kJ
+Fruits,Pineapple,1 pineapple (905 g),453 cal,1901 kJ
+Fruits,Plantains,1 plantain (179 g),218 cal,916 kJ
+Fruits,Plum,1 plum (66 g),30 cal,127 kJ
+Fruits,Pomegranate,1 pomegranate (282 g),234 cal,984 kJ
+Fruits,Quince,1 quince (92 g),52 cal,220 kJ
+Fruits,Raisins,1 cup (145 g),434 cal,1821 kJ
+Fruits,Rambutan,1 rambutan (9 g),7 cal,31 kJ
+Fruits,Raspberries,1 cup (123 g),64 cal,268 kJ
+Fruits,Rhubarb,1 stalk (51 g),11 cal,45 kJ
+Fruits,Starfruit,1 star fruit (91 g),28 cal,118 kJ
+Fruits,Strawberries,1 cup (152 g),49 cal,204 kJ
+Fruits,Tamarind,1 tamarind (2 g),5 cal,20 kJ
+Fruits,Tangerine,1 tangerine (88 g),47 cal,196 kJ
+Fruits,Watermelon,1 wedge (286 g),86 cal,360 kJ
+Herbs & Spices,Almond Extract,1 tbsp (10 ml),37 cal,157 kJ
+Herbs & Spices,Anise,1 tsp (2.1 g),7 cal,28 kJ
+Herbs & Spices,Anise Seed,1 tsp (2.1 g),7 cal,28 kJ
+Herbs & Spices,Arrowroot,1 root (33 g),21 cal,90 kJ
+Herbs & Spices,Arugula,1 leaf (2 g),1 cal,2 kJ
+Herbs & Spices,Balsamic Vinegar,1 tbsp (16 ml),14 cal,59 kJ
+Herbs & Spices,Basil,1 tsp (0.7 g),0 cal,0 kJ
+Herbs & Spices,Black Pepper,1 tsp (2.4 g),5 cal,21 kJ
+Herbs & Spices,Black Sesame Seeds,1 tbsp (9 g),52 cal,217 kJ
+Herbs & Spices,Broth,1 tsp (5 g),5 cal,21 kJ
+Herbs & Spices,Capers,1 tbsp (8.6 g),2 cal,8 kJ
+Herbs & Spices,Caraway Seeds,1 tbsp (6.7 g),20 cal,84 kJ
+Herbs & Spices,Cardamom,1 tbsp (5.8 g),16 cal,65 kJ
+Herbs & Spices,Cassava,1 root (408 g),653 cal,2742 kJ
+Herbs & Spices,Cayenne Pepper,1 tsp (1.8 g),3 cal,13 kJ
+Herbs & Spices,Chard,1 leaf (48 g),9 cal,38 kJ
+Herbs & Spices,Chicory Greens,1 cup (29 g),7 cal,28 kJ
+Herbs & Spices,Chicory Roots,1 root (60 g),43 cal,181 kJ
+Herbs & Spices,Chili,1 tbsp (8 g),23 cal,95 kJ
+Herbs & Spices,Chili Powder,1 tsp (2.7 g),6 cal,24 kJ
+Herbs & Spices,Chives,1 tbsp (3 g),1 cal,4 kJ
+Herbs & Spices,Cider Vinegar,1 tbsp (14 ml),3 cal,12 kJ
+Herbs & Spices,Cilantro,1/4 cup (4 g),1 cal,4 kJ
+Herbs & Spices,Cinnamon,1 tbsp (7.9 g),17 cal,73 kJ
+Herbs & Spices,Cloves,1 tbsp (6.5 g),16 cal,69 kJ
+Herbs & Spices,Coriander,1/4 cup (4 g),1 cal,4 kJ
+Herbs & Spices,Cream of Tartar,1 tsp (3 g),8 cal,33 kJ
+Herbs & Spices,Cress,1 sprig (1 g),0 cal,1 kJ
+Herbs & Spices,Crystallized Ginger,1 tbsp (5.2 g),17 cal,70 kJ
+Herbs & Spices,Cumin,1 tbsp (6 g),23 cal,95 kJ
+Herbs & Spices,Cumin Seed,1 tbsp (6 g),23 cal,95 kJ
+Herbs & Spices,Curry,1 tbsp (6.3 g),20 cal,82 kJ
+Herbs & Spices,Dandelion,1 cup (55 g),25 cal,104 kJ
+Herbs & Spices,Dill,5 sprigs (1 g),0 cal,2 kJ
+Herbs & Spices,Dill Weed,5 sprigs (1 g),0 cal,2 kJ
+Herbs & Spices,Fennel,1 bulb (234 g),73 cal,304 kJ
+Herbs & Spices,Fennel Seed,1 tsp (2 g),7 cal,29 kJ
+Herbs & Spices,Fenugreek,1 tbsp (11.1 g),36 cal,149 kJ
+Herbs & Spices,Garlic,1 clove (3 g),4 cal,19 kJ
+Herbs & Spices,Garlic Powder,1 tsp (3.1 g),10 cal,42 kJ
+Herbs & Spices,Garlic Salt,1/4 tsp (1 g),0 cal,0 kJ
+Herbs & Spices,Ginger,1 tsp (2 g),2 cal,7 kJ
+Herbs & Spices,Grape Leaves,1 leaf (3 g),3 cal,12 kJ
+Herbs & Spices,Ground Ginger,1 tbsp (5.2 g),17 cal,70 kJ
+Herbs & Spices,Horseradish,1 tbsp (15 g),7 cal,30 kJ
+Herbs & Spices,Hot Pepper,1 tsp (1.8 g),3 cal,13 kJ
+Herbs & Spices,Iodized Salt,1 tbsp (18 g),0 cal,0 kJ
+Herbs & Spices,Jalapeno,1 oz. (30 g),4 cal,17 kJ
+Herbs & Spices,Juniper,1 cup (55 g),25 cal,104 kJ
+Herbs & Spices,Lemon Grass,1 tbsp (4.8 g),4 cal,17 kJ
+Herbs & Spices,Licorice,1 tbsp (18 g),68 cal,284 kJ
+Herbs & Spices,Maggi,1 tsp (4 ml),4 cal,17 kJ
+Herbs & Spices,Marjoram,1 tbsp (1.7 g),3 cal,11 kJ
+Herbs & Spices,Minced Onion,1 cup (160 g),64 cal,269 kJ
+Herbs & Spices,Mint,1 tbsp (1.6 g),1 cal,3 kJ
+Herbs & Spices,Mustard Seed,1 tsp (2 g),10 cal,43 kJ
+Herbs & Spices,Nutmeg,1 tsp (2.2 g),11 cal,44 kJ
+Herbs & Spices,Okra,1 tbsp (18 g),6 cal,25 kJ
+Herbs & Spices,Onion,1 onion (85 g),34 cal,143 kJ
+Herbs & Spices,Onion Powder,1 tsp (2.4 g),7 cal,29 kJ
+Herbs & Spices,Orange Peel,1 tbsp (6 g),6 cal,24 kJ
+Herbs & Spices,Oregano,1 tsp (1 g),3 cal,11 kJ
+Herbs & Spices,Paprika,1 tsp (2.3 g),6 cal,24 kJ
+Herbs & Spices,Parsley,1 tbsp (3.8 g),1 cal,5 kJ
+Herbs & Spices,Parsnip,1 parsnip (170 g),128 cal,536 kJ
+Herbs & Spices,Pepper,1 tsp (2.4 g),5 cal,21 kJ
+Herbs & Spices,Poppy Seed,1 tbsp (8.8 g),42 cal,176 kJ
+Herbs & Spices,Poultry Seasoning,1 tbsp (4.4 g),12 cal,52 kJ
+Herbs & Spices,Pumpkin Pie Spice,1 tbsp (5.6 g),17 cal,72 kJ
+Herbs & Spices,Red Pepper,1 tsp (3 g),8 cal,32 kJ
+Herbs & Spices,Red Wine Vinegar,1 tbsp (14.9 g),3 cal,11 kJ
+Herbs & Spices,Rosemary,1 tbsp (1.7 g),1 cal,6 kJ
+Herbs & Spices,Saffron,1 tbsp (2.1 g),6 cal,26 kJ
+Herbs & Spices,Sage,1 tbsp (2 g),6 cal,26 kJ
+Herbs & Spices,Salt,1 tbsp (18 g),0 cal,0 kJ
+Herbs & Spices,Savory,1 tbsp (4.4 g),11 cal,46 kJ
+Herbs & Spices,Sea Salt,1 tbsp (18 g),0 cal,0 kJ
+Herbs & Spices,Serrano Pepper,1 pepper (6.1 g),2 cal,8 kJ
+Herbs & Spices,Sesame Seeds,1 cup (144 g),825 cal,3466 kJ
+Herbs & Spices,Stevia,1 tbsp (15 g),0 cal,0 kJ
+Herbs & Spices,Tamarind,1 tamarind (2 g),5 cal,20 kJ
+Herbs & Spices,Taro,"1 cup, sliced (104 g)",116 cal,489 kJ
+Herbs & Spices,Tarragon,1 tbsp (1.8 g),3 cal,12 kJ
+Herbs & Spices,Thyme,1 tsp (1 g),3 cal,12 kJ
+Herbs & Spices,Turmeric,1 tsp (2.2 g),7 cal,30 kJ
+Herbs & Spices,Vanilla Bean,1 pod (2 g),5 cal,21 kJ
+Herbs & Spices,Vanilla Extract,1 tbsp (13 ml),37 cal,157 kJ
+Herbs & Spices,Vinegar,1 tbsp (14 ml),3 cal,11 kJ
+Herbs & Spices,White Pepper,1 tsp (2.4 g),6 cal,25 kJ
+Herbs & Spices,Yam,1 cup (150 g),177 cal,744 kJ
+Ice Cream,Baskin-Robbins,1 scoop (71 g),170 cal,713 kJ
+Ice Cream,Ben and Jerry’s,1 scoop (92 g),210 cal,881 kJ
+Ice Cream,Butter Pecan Ice Cream,1 scoop (113 g),280 cal,1177 kJ
+Ice Cream,Carvel,1 cup (212 g),449 cal,1887 kJ
+Ice Cream,Chocolate Chip Ice Cream,1 scoop (72 g),155 cal,650 kJ
+Ice Cream,Chocolate Ice Cream,1 scoop (72 g),156 cal,653 kJ
+Ice Cream,Ciao Bella,1 cup (220 g),240 cal,1008 kJ
+Ice Cream,Coffee Ice Cream,1 scoop (72 g),170 cal,714 kJ
+Ice Cream,Cold Stone Creamery,1 scoop (142 g),329 cal,1383 kJ
+Ice Cream,Cookie Dough Ice Cream,1/2 cup (65 g),130 cal,546 kJ
+Ice Cream,Crunchie McFlurry,1 mcflurry (183 g),318 cal,1338 kJ
+Ice Cream,Dairy Milk McFlurry,1 mcflurry (183 g),340 cal,1429 kJ
+Ice Cream,Dippin Dots,1 cup (170 g),381 cal,1600 kJ
+Ice Cream,Double Rainbow,1 scoop (72 g),185 cal,777 kJ
+Ice Cream,Drumsticks,1 cone (141 g),360 cal,1510 kJ
+Ice Cream,French Vanilla Ice Cream,1 scoop (72 g),145 cal,608 kJ
+Ice Cream,Friendly’s,1 scoop (66 g),140 cal,587 kJ
+Ice Cream,Healthy Choice,1 bar (64 g),80 cal,336 kJ
+Ice Cream,Hot Fudge Sundae,1 sundae (179 g),333 cal,1398 kJ
+Ice Cream,Ice Cream Sandwich,1 bar (112 g),265 cal,1114 kJ
+Ice Cream,Ice Cream Sundae,1 sundae (178 g),253 cal,1061 kJ
+Ice Cream,Ice Milk,1 scoop (103 g),164 cal,688 kJ
+Ice Cream,Magnolia,1 scoop (72 g),166 cal,696 kJ
+Ice Cream,Magnum,1 magnum (86 g),258 cal,1084 kJ
+Ice Cream,Magnum Almond,1 magnum (86 g),271 cal,1138 kJ
+Ice Cream,Magnum Double Caramel,1 magnum (86 g),305 cal,1282 kJ
+Ice Cream,Magnum Double Chocolate,1 magnum (86 g),327 cal,1373 kJ
+Ice Cream,Magnum Gold,1 magnum (85 g),290 cal,1217 kJ
+Ice Cream,Magnum White,1 magnum (86 g),255 cal,1072 kJ
+Ice Cream,McFlurry,1 mcflurry (134 g),205 cal,862 kJ
+Ice Cream,McFlurry Oreo,1 mcflurry (183 g),340 cal,1429 kJ
+Ice Cream,Mini Milk,1 mini milk (25 g),30 cal,126 kJ
+Ice Cream,Mint Chocolate Chip Ice Cream,1 scoop (72 g),172 cal,723 kJ
+Ice Cream,Rocky Road Ice Cream,1 scoop (113 g),290 cal,1219 kJ
+Ice Cream,Schwan’s,1 scoop (72 g),177 cal,744 kJ
+Ice Cream,Smarties McFlurry,1 mcflurry (202 g),400 cal,1681 kJ
+Ice Cream,Snickers Ice Cream,1 bar (50 g),180 cal,756 kJ
+Ice Cream,Soft Serve,1 cup (86 g),191 cal,802 kJ
+Ice Cream,Solero,1 solero (75 g),75 cal,315 kJ
+Ice Cream,Strawberry Ice Cream,1 scoop (72 g),170 cal,714 kJ
+Ice Cream,Strawberry Sundae,1 sundae (178 g),281 cal,1182 kJ
+Ice Cream,Sundae,1 scoop (72 g),155 cal,650 kJ
+Ice Cream,Turkey Hill,1 sandwich (70 g),190 cal,797 kJ
+Ice Cream,Vanilla Cone,1 cone (142 g),230 cal,966 kJ
+Ice Cream,Vanilla Ice Cream,1 scoop (72 g),145 cal,608 kJ
+Legumes,Azuki Bean,1 can (266 g),330 cal,1386 kJ
+Legumes,Bamboo Shoots,1 cup (151 g),41 cal,171 kJ
+Legumes,Bean Curd,1/2 cup (124 g),94 cal,396 kJ
+Legumes,Bean Sprouts,1 cup (104 g),31 cal,131 kJ
+Legumes,Bengal Gram,1 cup (200 g),728 cal,3058 kJ
+Legumes,Black Beans,1 tbsp (12.1 g),41 cal,172 kJ
+Legumes,Black Chickpeas,1 cup (200 g),728 cal,3058 kJ
+Legumes,Black Gram,1 cup (207 g),706 cal,2964 kJ
+Legumes,Brown Lentil,1 cup (192 g),678 cal,2847 kJ
+Legumes,Butternut,1 cup (120 g),734 cal,3084 kJ
+Legumes,Chickpeas,1 tbsp (12.5 g),44 cal,183 kJ
+Legumes,Chili Bean,1 cup (253 g),245 cal,1030 kJ
+Legumes,Dal,1 serving (100 g),230 cal,966 kJ
+Legumes,Deep-Fried Tofu,1 oz. (28.35 g),76 cal,319 kJ
+Legumes,Extra-Firm Tofu,1/5 block (91 g),83 cal,348 kJ
+Legumes,Firm Tofu,1/4 block (81 g),57 cal,238 kJ
+Legumes,Flageolet,1 serving (100 g),85 cal,357 kJ
+Legumes,Fried Bean Curd,1 piece (13 g),35 cal,148 kJ
+Legumes,Green Beans,1 cup (100 g),31 cal,130 kJ
+Legumes,Green Gram,1 cup (207 g),718 cal,3016 kJ
+Legumes,Green Lentil,"1 cup, dry (60 g)",154 cal,647 kJ
+Legumes,Kidney Beans,1 cup (184 g),620 cal,2604 kJ
+Legumes,Lentils,1 cup (192 g),678 cal,2847 kJ
+Legumes,Lima Beans,1/2 cup (124 g),88 cal,370 kJ
+Legumes,Marron,1 serving (100 g),210 cal,882 kJ
+Legumes,Miso,1 cup (275 g),547 cal,2299 kJ
+Legumes,Mung Beans,1 cup (125 g),15 cal,63 kJ
+Legumes,Natto,1 cup (175 g),371 cal,1558 kJ
+Legumes,Navy Bean,1 cup (208 g),701 cal,2943 kJ
+Legumes,Okara,1 cup (122 g),94 cal,394 kJ
+Legumes,Okra,1 cup (100 g),33 cal,139 kJ
+Legumes,Peanuts,1 oz. (28.35 g),159 cal,667 kJ
+Legumes,Peas,1 cup (63 g),26 cal,111 kJ
+Legumes,Pecan,1 cup (99 g),684 cal,2873 kJ
+Legumes,Pinto Beans,1 cup (193 g),670 cal,2812 kJ
+Legumes,Puy Lentils,1 serving (100 g),345 cal,1449 kJ
+Legumes,Rajma,1 serving (100 g),140 cal,588 kJ
+Legumes,Red Beans,1 can (266 g),330 cal,1386 kJ
+Legumes,Red Kidney Bean,1 cup (184 g),620 cal,2604 kJ
+Legumes,Red Lentils,1 cup (197 g),648 cal,2723 kJ
+Legumes,Refried Beans,1 can (443 g),403 cal,1692 kJ
+Legumes,Roasted Soybeans,1 cup (172 g),810 cal,3402 kJ
+Legumes,Silken Tofu,1 slice (84 g),46 cal,194 kJ
+Legumes,Soft Tofu,1 cubic inch (18 g),11 cal,46 kJ
+Legumes,Soy Cheese,1 slice (17 g),40 cal,168 kJ
+Legumes,Soy Mayonnaise,1 tbsp (15 g),48 cal,203 kJ
+Legumes,Soy Nut Butter,1 serving (32 g),180 cal,755 kJ
+Legumes,Soy Nuts,1 cup (256 g),1206 cal,5064 kJ
+Legumes,Soy Yogurt,1 container (227 g),150 cal,629 kJ
+Legumes,Soya Cheese,1 slice (17 g),40 cal,168 kJ
+Legumes,Soybeans,1 cup (256 g),376 cal,1580 kJ
+Legumes,Soynut Butter,1 serving (32 g),180 cal,755 kJ
+Legumes,Sugar Peas,1 serving (100 g),42 cal,176 kJ
+Legumes,Sweet Peas,1 serving (100 g),48 cal,202 kJ
+Legumes,Tempeh,1 cup (166 g),320 cal,1346 kJ
+Legumes,Textured Soy Protein,1 cup (56 g),320 cal,1343 kJ
+Legumes,Textured Vegetable Protein,1 cup (96 g),320 cal,1343 kJ
+Legumes,Tofu,1/2 cup (124 g),94 cal,396 kJ
+Legumes,White Beans,1 cup (215 g),722 cal,3034 kJ
+Legumes,Yam Bean,1 cup (130 g),49 cal,208 kJ
+Legumes,Yellow Lentils,1 cup (200 g),608 cal,2554 kJ
+Legumes,Yuba,1 oz. (28.35 g),49 cal,207 kJ
+Meat,Alligator,1 serving (153 g),355 cal,1490 kJ
+Meat,Beef,1 steak (164 g),407 cal,1709 kJ
+Meat,Beef Brisket,1 piece (1780 g),4308 cal,18085 kJ
+Meat,Beef Jerky,1 piece (20 g),82 cal,344 kJ
+Meat,Beef Ribs,1 piece (225 g),536 cal,2250 kJ
+Meat,Beef Tenderloin,1 steak (140 g),305 cal,1282 kJ
+Meat,Chicken,1/2 chicken (334 g),731 cal,3073 kJ
+Meat,Chicken Breast,1 breast (200 g),344 cal,1444 kJ
+Meat,Chicken Drumstick,1 drumstick (71 g),131 cal,552 kJ
+Meat,Chicken Fat,1 cup (205 g),1841 cal,7733 kJ
+Meat,Chicken Giblets,1 cup (145 g),229 cal,963 kJ
+Meat,Chicken Gizzards,1 cup (145 g),212 cal,889 kJ
+Meat,Chicken Leg,1 leg (199 g),346 cal,1455 kJ
+Meat,Chicken Liver,1 liver (44 g),73 cal,308 kJ
+Meat,Chicken Meat,1 breast (200 g),344 cal,1444 kJ
+Meat,Chicken Thigh,1 thigh (111 g),254 cal,1068 kJ
+Meat,Chicken Wing,1 wing (29 g),77 cal,324 kJ
+Meat,Chuck Steak,1 steak (310 g),859 cal,3605 kJ
+Meat,Cubed Steak,1 serving (165 g),328 cal,1379 kJ
+Meat,Duck,1/2 duck (634 g),2137 cal,8971 kJ
+Meat,Filet Mignon,1 fillet (104 g),278 cal,1166 kJ
+Meat,Flank Steak,1 steak (188 g),365 cal,1532 kJ
+Meat,Flat Iron Steak,1 steak (252 g),345 cal,1449 kJ
+Meat,Ground Beef,1 patty (70 g),172 cal,723 kJ
+Meat,Ground Round,1 piece (113 g),278 cal,1167 kJ
+Meat,Ham,1 slice (145 g),236 cal,993 kJ
+Meat,New York Strip Steak,1 steak (214 g),426 cal,1789 kJ
+Meat,Ostrich,1 serving (85 g),123 cal,518 kJ
+Meat,Pork,1 chop (185 g),363 cal,1523 kJ
+Meat,Pork Baby Back Ribs,1 rib (70 g),148 cal,623 kJ
+Meat,Pork Chops,1 chop (131 g),257 cal,1078 kJ
+Meat,Pork Country-Style Ribs,1 rib (60 g),148 cal,622 kJ
+Meat,Pork Loin,1 chop (83 g),169 cal,711 kJ
+Meat,Pork Roast,1 roast (830 g),2108 cal,8856 kJ
+Meat,Pork Steaks,1 steak (264 g),517 cal,2173 kJ
+Meat,Roast Beef,1 roast (515 g),721 cal,3028 kJ
+Meat,Round Steak,1 steak (236 g),430 cal,1803 kJ
+Meat,Schnitzel,1 schnitzel (130 g),203 cal,852 kJ
+Meat,Spare Ribs,1 rack (1400 g),3332 cal,14000 kJ
+Meat,Standing Rib Roast,1 serving (113 g),376 cal,1581 kJ
+Meat,T-Bone Steak,1 steak (287 g),580 cal,2434 kJ
+Meat,Turkey,1 turkey (3812 g),7205 cal,30267 kJ
+Meat,Turkey Breast,1/2 breast (864 g),1166 cal,4899 kJ
+Meat,Turkey Legs,1 leg (546 g),1136 cal,4772 kJ
+Meat,Turkey Steak,1 steak (170 g),321 cal,1350 kJ
+Meat,Turkey Wings,1 wing (24 g),53 cal,223 kJ
+Milk & Dairy Products,Almond Milk,1 cup (235 ml),40 cal,167 kJ
+Milk & Dairy Products,Buttermilk,1 cup (254 ml),157 cal,660 kJ
+Milk & Dairy Products,Chocolate Mousse,1/2 cup (202 g),455 cal,1909 kJ
+Milk & Dairy Products,Coconut Milk,1 cup (240 ml),552 cal,2318 kJ
+Milk & Dairy Products,Coffee Creamer,1 tbsp (15 g),29 cal,123 kJ
+Milk & Dairy Products,Condensed Milk,1 cup (306 g),982 cal,4125 kJ
+Milk & Dairy Products,Cottage Cheese,1 cup (210 g),206 cal,865 kJ
+Milk & Dairy Products,Cream,1 tbsp (15 g),36 cal,152 kJ
+Milk & Dairy Products,Creme Fraiche,1 tbsp (14 g),55 cal,231 kJ
+Milk & Dairy Products,Curd,1 cup (210 g),206 cal,865 kJ
+Milk & Dairy Products,Custard,1/2 cup (141 g),172 cal,722 kJ
+Milk & Dairy Products,Evaporated Milk,1 cup (252 g),340 cal,1429 kJ
+Milk & Dairy Products,Goat Milk,1 cup (244 g),168 cal,708 kJ
+Milk & Dairy Products,Hot Chocolate,1 cup (266 ml),237 cal,995 kJ
+Milk & Dairy Products,Kefir,1 cup (246 ml),135 cal,568 kJ
+Milk & Dairy Products,Lactose-free Milk,1 cup (250 ml),130 cal,545 kJ
+Milk & Dairy Products,Lassi,1 glass (200 ml),150 cal,630 kJ
+Milk & Dairy Products,Milk,1 cup (244 ml),149 cal,625 kJ
+Milk & Dairy Products,Plain Yogurt,1 container (227 g),138 cal,581 kJ
+Milk & Dairy Products,Powdered Milk,1 cup (68 g),337 cal,1416 kJ
+Milk & Dairy Products,Quark,1 cup (220 g),319 cal,1340 kJ
+Milk & Dairy Products,Rice Milk,1 cup (245 ml),120 cal,505 kJ
+Milk & Dairy Products,Rice Pudding,1 serving (113 g),133 cal,560 kJ
+Milk & Dairy Products,Semi-skimmed Milk,1 serving (250 ml),125 cal,525 kJ
+Milk & Dairy Products,Semolina Pudding,1 serving (143 g),96 cal,402 kJ
+Milk & Dairy Products,Skim Milk,1 cup (247 ml),86 cal,363 kJ
+Milk & Dairy Products,Sour Cream,1 tbsp (12 g),22 cal,91 kJ
+Milk & Dairy Products,Soy Milk,1 cup (243 ml),109 cal,459 kJ
+Milk & Dairy Products,Sweetened Condensed Milk,1 cup (306 ml),982 cal,4125 kJ
+Milk & Dairy Products,Tzatziki,1 tbsp (15 g),18 cal,74 kJ
+Milk & Dairy Products,Whipped Cream,1 tbsp (3 g),8 cal,32 kJ
+Milk & Dairy Products,Whole Milk,1 cup (244 ml),149 cal,625 kJ
+Milk & Dairy Products,Yogurt,1 container (227 g),138 cal,581 kJ
+Non-Alcoholic Drinks & Beverages,ACE Drink,1/2 litre (500 ml),220 cal,925 kJ
+Non-Alcoholic Drinks & Beverages,Apple Spritzer,1/2 litre (500 ml),120 cal,505 kJ
+Non-Alcoholic Drinks & Beverages,Chai,1 cup (236 ml),0 cal,0 kJ
+Non-Alcoholic Drinks & Beverages,Chai Tea,1 cup (236 ml),0 cal,0 kJ
+Non-Alcoholic Drinks & Beverages,Chocolate Milk,1 cup (266 ml),237 cal,995 kJ
+Non-Alcoholic Drinks & Beverages,Chocolate Milkshake,10 fl. oz. (283 ml),354 cal,1486 kJ
+Non-Alcoholic Drinks & Beverages,Club Mate,1/2 litre (500 ml),150 cal,630 kJ
+Non-Alcoholic Drinks & Beverages,Coca Cola,1 can (330 ml),139 cal,581 kJ
+Non-Alcoholic Drinks & Beverages,Coffee,1 cup (237 ml),2 cal,9 kJ
+Non-Alcoholic Drinks & Beverages,Coke Zero,1 can (330 ml),3 cal,13 kJ
+Non-Alcoholic Drinks & Beverages,Cola,1 can (330 ml),139 cal,581 kJ
+Non-Alcoholic Drinks & Beverages,Crystal Light,8 fl. oz. (237 ml),623 cal,2619 kJ
+Non-Alcoholic Drinks & Beverages,Diet Coke,1 can (330 ml),3 cal,13 kJ
+Non-Alcoholic Drinks & Beverages,Egg Cream,1 serving (125 ml),118 cal,494 kJ
+Non-Alcoholic Drinks & Beverages,Egg Nog,1 cup (254 ml),224 cal,940 kJ
+Non-Alcoholic Drinks & Beverages,Elderflower Cordial,8 oz. (227 ml),66 cal,277 kJ
+Non-Alcoholic Drinks & Beverages,Evian,1 bottle (500 ml),0 cal,0 kJ
+Non-Alcoholic Drinks & Beverages,Gatorade,12 fl. oz. (355 ml),82 cal,344 kJ
+Non-Alcoholic Drinks & Beverages,Ginger Tea,1 cup (254 ml),0 cal,0 kJ
+Non-Alcoholic Drinks & Beverages,Hawaiian Punch,8 oz. (227 ml),70 cal,295 kJ
+Non-Alcoholic Drinks & Beverages,Hi-C,12 fl. oz. (253 ml),124 cal,521 kJ
+Non-Alcoholic Drinks & Beverages,Horchata,8 fl. oz. (240 ml),130 cal,545 kJ
+Non-Alcoholic Drinks & Beverages,Hot Chocolate,1 cup (266 ml),237 cal,995 kJ
+Non-Alcoholic Drinks & Beverages,Ice Tea,12 fl. oz. (355 ml),96 cal,401 kJ
+Non-Alcoholic Drinks & Beverages,Iced Tea,12 fl. oz. (355 ml),96 cal,401 kJ
+Non-Alcoholic Drinks & Beverages,Karamalz,1 cup (237 ml),88 cal,367 kJ
+Non-Alcoholic Drinks & Beverages,Kombucha,8 oz. (227 ml),30 cal,125 kJ
+Non-Alcoholic Drinks & Beverages,Kool-Aid,8 fl. oz. (237 ml),62 cal,258 kJ
+Non-Alcoholic Drinks & Beverages,Lassi,1 cup (250 ml),260 cal,1093 kJ
+Non-Alcoholic Drinks & Beverages,Latte Macchiato,1 cup (300 ml),171 cal,717 kJ
+Non-Alcoholic Drinks & Beverages,Lemonade,12 fl. oz. (355 ml),149 cal,625 kJ
+Non-Alcoholic Drinks & Beverages,Malt Beer,1 cup (237 ml),88 cal,367 kJ
+Non-Alcoholic Drinks & Beverages,Milk,1 cup (244 ml),149 cal,625 kJ
+Non-Alcoholic Drinks & Beverages,Milkshake (dry),1 tbsp (7 g),23 cal,97 kJ
+Non-Alcoholic Drinks & Beverages,Milo,3 tbsp (24 g),98 cal,412 kJ
+Non-Alcoholic Drinks & Beverages,Nectar,8 oz. (227 ml),120 cal,506 kJ
+Non-Alcoholic Drinks & Beverages,Nestea,1 cup (240 ml),86 cal,362 kJ
+Non-Alcoholic Drinks & Beverages,Non-alcoholic Beer,"1 can, bottle (354 ml)",131 cal,549 kJ
+Non-Alcoholic Drinks & Beverages,Powerade,1 bottle (500 ml),80 cal,335 kJ
+Non-Alcoholic Drinks & Beverages,Slurpee,8 oz. (240 ml),10 cal,41 kJ
+Non-Alcoholic Drinks & Beverages,Slush Puppie,8 fl. oz. (237 ml),119 cal,498 kJ
+Non-Alcoholic Drinks & Beverages,Smoothie,8 oz. (240 ml),89 cal,372 kJ
+Non-Alcoholic Drinks & Beverages,Soy Milk,1 cup (243 ml),109 cal,459 kJ
+Non-Alcoholic Drinks & Beverages,Strawberry Milkshake,10 fl. oz. (283 ml),320 cal,1344 kJ
+Non-Alcoholic Drinks & Beverages,Tang,1/8 cup (24 g),91 cal,384 kJ
+Non-Alcoholic Drinks & Beverages,Tap Water,1 fl. oz. (29.6 ml),0 cal,0 kJ
+Non-Alcoholic Drinks & Beverages,Tea,1 cup (237 ml),2 cal,9 kJ
+Non-Alcoholic Drinks & Beverages,Vanilla Milkshake,10 fl. oz. (283 ml),422 cal,1772 kJ
+Non-Alcoholic Drinks & Beverages,Volvic,1/2 litre (500 ml),0 cal,0 kJ
+Non-Alcoholic Drinks & Beverages,Water,1 fl. oz. (29.6 ml),0 cal,0 kJ
+Non-Alcoholic Drinks & Beverages,Yerba Mate,1 serving (50 ml),31 cal,130 kJ
+Nuts & Seeds,Acorn,1 oz. (28.35 g),108 cal,455 kJ
+Nuts & Seeds,Alfalfa Sprouts,1 cup (33 g),8 cal,32 kJ
+Nuts & Seeds,Almonds,1 cup (95 g),546 cal,2294 kJ
+Nuts & Seeds,Beechnut,1 oz. (28.35 g),161 cal,677 kJ
+Nuts & Seeds,Brazil Nuts,1 cup (133 g),872 cal,3664 kJ
+Nuts & Seeds,Breadfruit,1 oz. (28.35 g),53 cal,225 kJ
+Nuts & Seeds,Butternut,1 cup (120 g),734 cal,3084 kJ
+Nuts & Seeds,Cashew,1 oz. (28.35 g),155 cal,650 kJ
+Nuts & Seeds,Chestnut,1 cup (145 g),309 cal,1298 kJ
+Nuts & Seeds,Chia Seeds,1 oz. (28.35 g),136 cal,571 kJ
+Nuts & Seeds,Coconut,1 coconut (397 g),1405 cal,5903 kJ
+Nuts & Seeds,Cotton Seeds,1 cup (149 g),754 cal,3166 kJ
+Nuts & Seeds,Flaxseed,1 cup (168 g),897 cal,3768 kJ
+Nuts & Seeds,Ginkgo Nuts,1 oz. (28.35 g),51 cal,214 kJ
+Nuts & Seeds,Goa Bean,1 cup (182 g),744 cal,3127 kJ
+Nuts & Seeds,Hazelnut,1 cup (75 g),471 cal,1979 kJ
+Nuts & Seeds,Hickory Nuts,1 cup (120 g),788 cal,3311 kJ
+Nuts & Seeds,Lima Beans,1/2 cup (124 g),88 cal,370 kJ
+Nuts & Seeds,Lotus Seed,1 oz. (28.35 g),25 cal,105 kJ
+Nuts & Seeds,Macadamia Nuts,1 cup (134 g),962 cal,4041 kJ
+Nuts & Seeds,Peanuts,1 cup (146 g),828 cal,3476 kJ
+Nuts & Seeds,Peas,1 cup (145 g),117 cal,493 kJ
+Nuts & Seeds,Pecan Nuts,1 cup (99 g),684 cal,2873 kJ
+Nuts & Seeds,Pecans,1 cup (99 g),684 cal,2873 kJ
+Nuts & Seeds,Pili Nuts,1 cup (120 g),863 cal,3624 kJ
+Nuts & Seeds,Pine Nuts,1 cup (135 g),909 cal,3816 kJ
+Nuts & Seeds,Pinto Beans,1 cup (193 g),670 cal,2812 kJ
+Nuts & Seeds,Pistachios,1 cup (123 g),691 cal,2903 kJ
+Nuts & Seeds,Poppy Seeds,1 tbsp (8.8 g),42 cal,176 kJ
+Nuts & Seeds,Pumpkin Seeds,1 cup (129 g),721 cal,3029 kJ
+Nuts & Seeds,Radish Seeds,1 cup (38 g),16 cal,69 kJ
+Nuts & Seeds,Safflower Seeds,1 oz. (28.35 g),145 cal,608 kJ
+Nuts & Seeds,Sesame Seeds,1 cup (144 g),825 cal,3466 kJ
+Nuts & Seeds,Smoked Almonds,1 cup (95 g),546 cal,2294 kJ
+Nuts & Seeds,Soy Beans,1 cup (256 g),376 cal,1580 kJ
+Nuts & Seeds,Sunflower Seeds,1 cup (140 g),818 cal,3434 kJ
+Nuts & Seeds,Sweet Chestnut,1 oz. (28.35 g),54 cal,228 kJ
+Nuts & Seeds,Walnuts,1 cup (80 g),523 cal,2198 kJ
+Nuts & Seeds,Watermelon,1 wedge (286 g),86 cal,360 kJ
+"Oatmeal, Muesli & Cereals",Bran Flakes,1 serving (37.5 g),132 cal,553 kJ
+"Oatmeal, Muesli & Cereals",Cap’n Crunch,1 serving (37.5 g),149 cal,628 kJ
+"Oatmeal, Muesli & Cereals",Cheerios,1 serving (37.5 g),128 cal,539 kJ
+"Oatmeal, Muesli & Cereals",Chex,1 serving (37.5 g),143 cal,601 kJ
+"Oatmeal, Muesli & Cereals",Chocolate Cheerios,1 serving (37.5 g),136 cal,570 kJ
+"Oatmeal, Muesli & Cereals",Chocos,1 serving (37.5 g),141 cal,591 kJ
+"Oatmeal, Muesli & Cereals",Cinnamon Toast Crunch,1 serving (37.5 g),160 cal,673 kJ
+"Oatmeal, Muesli & Cereals",Coco Pops,1 serving (37.5 g),139 cal,584 kJ
+"Oatmeal, Muesli & Cereals",Cocoa Krispies,1 serving (37.5 g),143 cal,600 kJ
+"Oatmeal, Muesli & Cereals",Cocoa Pebbles,1 serving (37.5 g),136 cal,570 kJ
+"Oatmeal, Muesli & Cereals",Cocoa Puffs,1 serving (37.5 g),148 cal,622 kJ
+"Oatmeal, Muesli & Cereals",Cookie Crisp,1 serving (37.5 g),148 cal,622 kJ
+"Oatmeal, Muesli & Cereals",Corn Flakes,1 serving (37.5 g),132 cal,555 kJ
+"Oatmeal, Muesli & Cereals",Corn Pops,1 serving (37.5 g),139 cal,586 kJ
+"Oatmeal, Muesli & Cereals",Count Chocula,1 serving (37.5 g),151 cal,632 kJ
+"Oatmeal, Muesli & Cereals",Cracklin Oat Bran,1 serving (37.5 g),149 cal,625 kJ
+"Oatmeal, Muesli & Cereals",Cream of Wheat,1 serving (37.5 g),135 cal,566 kJ
+"Oatmeal, Muesli & Cereals",Crunchy Nut,1 serving (37.5 g),222 cal,932 kJ
+"Oatmeal, Muesli & Cereals",Crunchy Nut Cornflakes,1 serving (37.5 g),222 cal,932 kJ
+"Oatmeal, Muesli & Cereals",Fiber One,1 serving (37.5 g),99 cal,415 kJ
+"Oatmeal, Muesli & Cereals",Froot Loops,1 serving (37.5 g),140 cal,589 kJ
+"Oatmeal, Muesli & Cereals",Frosted Cheerios,1 serving (37.5 g),145 cal,611 kJ
+"Oatmeal, Muesli & Cereals",Frosted Flakes,1 serving (37.5 g),136 cal,570 kJ
+"Oatmeal, Muesli & Cereals",Frosted Mini-Wheats,1 serving (37.5 g),131 cal,549 kJ
+"Oatmeal, Muesli & Cereals",Frosties,1 serving (37.5 g),136 cal,570 kJ
+"Oatmeal, Muesli & Cereals",Fruity Pebbles,1 serving (37.5 g),148 cal,622 kJ
+"Oatmeal, Muesli & Cereals",Golden Grahams,1 serving (37.5 g),148 cal,622 kJ
+"Oatmeal, Muesli & Cereals",Grape-Nuts,1 serving (37.5 g),134 cal,562 kJ
+"Oatmeal, Muesli & Cereals",Honey Nut Cheerios,1 serving (37.5 g),145 cal,611 kJ
+"Oatmeal, Muesli & Cereals",Honey Smacks,1 serving (37.5 g),137 cal,575 kJ
+"Oatmeal, Muesli & Cereals",Honeycomb,1 serving (37.5 g),147 cal,617 kJ
+"Oatmeal, Muesli & Cereals",Just Right,1 serving (37.5 g),145 cal,608 kJ
+"Oatmeal, Muesli & Cereals",Kashi,1 serving (37.5 g),139 cal,586 kJ
+"Oatmeal, Muesli & Cereals",Kelloggs Corn Flakes,1 serving (37.5 g),132 cal,555 kJ
+"Oatmeal, Muesli & Cereals",Kix,1 serving (37.5 g),136 cal,570 kJ
+"Oatmeal, Muesli & Cereals",Krave,1 serving (37.5 g),138 cal,578 kJ
+"Oatmeal, Muesli & Cereals",Life Cereal,1 serving (37.5 g),139 cal,583 kJ
+"Oatmeal, Muesli & Cereals",Lucky Charms,1 serving (37.5 g),150 cal,631 kJ
+"Oatmeal, Muesli & Cereals",Malt-O-Meal,1 cup (240 g),122 cal,514 kJ
+"Oatmeal, Muesli & Cereals",Mini-Wheats,1 serving (37.5 g),131 cal,549 kJ
+"Oatmeal, Muesli & Cereals",Muesli,1 serving (37.5 g),124 cal,522 kJ
+"Oatmeal, Muesli & Cereals",Multigrain Cheerios,1 serving (37.5 g),141 cal,591 kJ
+"Oatmeal, Muesli & Cereals",Nutri-Grain,1 serving (37.5 g),130 cal,545 kJ
+"Oatmeal, Muesli & Cereals",Oatibix,1 biscuit (24 g),101 cal,424 kJ
+"Oatmeal, Muesli & Cereals",Oatmeal,1 cup (175 g),656 cal,2756 kJ
+"Oatmeal, Muesli & Cereals",Peanut Butter Toast Crunch,1 serving (37.5 g),159 cal,670 kJ
+"Oatmeal, Muesli & Cereals",Post Raisin Bran,1 serving (37.5 g),119 cal,500 kJ
+"Oatmeal, Muesli & Cereals",Post Shredded Wheat,1 serving (37.5 g),128 cal,539 kJ
+"Oatmeal, Muesli & Cereals",Puff,1 serving (37.5 g),136 cal,570 kJ
+"Oatmeal, Muesli & Cereals",Puffed Rice,1 serving (37.5 g),142 cal,595 kJ
+"Oatmeal, Muesli & Cereals",Puffed Wheat,1 serving (37.5 g),136 cal,570 kJ
+"Oatmeal, Muesli & Cereals",Quaker Grits,1 serving (37.5 g),127 cal,535 kJ
+"Oatmeal, Muesli & Cereals",Quaker Oatmeal,1 serving (37.5 g),139 cal,583 kJ
+"Oatmeal, Muesli & Cereals",Quaker Oatmeal Squares,1 serving (37.5 g),148 cal,622 kJ
+"Oatmeal, Muesli & Cereals",Raisin Bran,1 serving (37.5 g),119 cal,500 kJ
+"Oatmeal, Muesli & Cereals",Raisin Bran Crunch,100g,355 cal,1491 kJ
+"Oatmeal, Muesli & Cereals",Raisin Nut Bran,1 serving (37.5 g),136 cal,570 kJ
+"Oatmeal, Muesli & Cereals",Ready Brek,1 serving (37.5 g),133 cal,558 kJ
+"Oatmeal, Muesli & Cereals",Rice Chex,1 serving (37.5 g),143 cal,601 kJ
+"Oatmeal, Muesli & Cereals",Rice Krispies,1 serving (37.5 g),146 cal,612 kJ
+"Oatmeal, Muesli & Cereals",Scooters,1 serving (37.5 g),136 cal,570 kJ
+"Oatmeal, Muesli & Cereals",Shredded Wheat,1 serving (37.5 g),126 cal,528 kJ
+"Oatmeal, Muesli & Cereals",Shreddies,1 serving (37.5 g),130 cal,545 kJ
+"Oatmeal, Muesli & Cereals",Smart Start,1 serving (37.5 g),137 cal,576 kJ
+"Oatmeal, Muesli & Cereals",Special K,1 serving (37.5 g),139 cal,586 kJ
+"Oatmeal, Muesli & Cereals",Special K Chocolatey Delight,1 serving (37.5 g),144 cal,603 kJ
+"Oatmeal, Muesli & Cereals",Special K Protein Plus,1 serving (37.5 g),139 cal,583 kJ
+"Oatmeal, Muesli & Cereals",Special K Red Berries,1 serving (37.5 g),128 cal,536 kJ
+"Oatmeal, Muesli & Cereals",Sugar Puffs,1 serving (37.5 g),140 cal,589 kJ
+"Oatmeal, Muesli & Cereals",Toasties,1 serving (37.5 g),134 cal,561 kJ
+"Oatmeal, Muesli & Cereals",Trix,1 serving (37.5 g),148 cal,622 kJ
+"Oatmeal, Muesli & Cereals",Weet-Bix,1 bix (15 g),53 cal,222 kJ
+"Oatmeal, Muesli & Cereals",Weetabix,1 serving (37.5 g),132 cal,556 kJ
+"Oatmeal, Muesli & Cereals",Weetos,1 serving (37.5 g),140 cal,588 kJ
+"Oatmeal, Muesli & Cereals",Wheaties,1 serving (37.5 g),136 cal,570 kJ
+Offal & Giblets,Beef Brain,1 piece (351 g),688 cal,2889 kJ
+Offal & Giblets,Beef Heart,3 oz. (85 g),140 cal,589 kJ
+Offal & Giblets,Beef Kidney,3 oz. (85 g),134 cal,564 kJ
+Offal & Giblets,Beef Liver,1 slice (68 g),130 cal,545 kJ
+Offal & Giblets,Beef Lung,1 piece (303 g),364 cal,1527 kJ
+Offal & Giblets,Beef Melt,1 piece (222 g),602 cal,2526 kJ
+Offal & Giblets,Beef Tongue,3 oz. (85 g),241 cal,1014 kJ
+Offal & Giblets,Calf Brain,1 unit (339 g),461 cal,1936 kJ
+Offal & Giblets,Calf Liver,1 slice (80 g),154 cal,645 kJ
+Offal & Giblets,Calf Lung,1 unit (300 g),312 cal,1311 kJ
+Offal & Giblets,Calf Melt,1 unit (240 g),614 cal,2580 kJ
+Offal & Giblets,Chicken Giblets,1 cup (145 g),402 cal,1686 kJ
+Offal & Giblets,Chicken Heart,1 heart (6.1 g),11 cal,47 kJ
+Offal & Giblets,Chicken Liver,1 liver (44 g),76 cal,318 kJ
+Offal & Giblets,Chicken Stomach,1 serving (100 g),148 cal,622 kJ
+Offal & Giblets,Chitterlings,3 oz. (85 g),198 cal,832 kJ
+Offal & Giblets,Duck Liver,1 liver (44 g),60 cal,251 kJ
+Offal & Giblets,Goose Liver,1 liver (94 g),125 cal,525 kJ
+Offal & Giblets,Hog Maws,3 oz. (85 g),133 cal,560 kJ
+Offal & Giblets,Pig Brain,3 oz. (85 g),117 cal,493 kJ
+Offal & Giblets,Pig Heart,1 heart (129 g),191 cal,802 kJ
+Offal & Giblets,Pig Kidney,3 oz. (85 g),128 cal,539 kJ
+Offal & Giblets,Pig Lung,1 unit (300 g),297 cal,1248 kJ
+Offal & Giblets,Pork Liver,3 oz. (85 g),140 cal,589 kJ
+Offal & Giblets,Pork Melt,1 unit (245 g),537 cal,2254 kJ
+Offal & Giblets,Pork Tongue,1 tongue (231 g),626 cal,2629 kJ
+Offal & Giblets,Turkey Giblets,1 giblets (95 g),164 cal,691 kJ
+Offal & Giblets,Turkey Heart,1 heart (20 g),35 cal,146 kJ
+Offal & Giblets,Turkey Liver,1 liver (53 g),100 cal,421 kJ
+Offal & Giblets,Turkey Stomach,1 serving (100 g),148 cal,622 kJ
+Offal & Giblets,Veal Heart,1 unit (198 g),368 cal,1546 kJ
+Offal & Giblets,Veal Kidney,1 unit (184 g),300 cal,1260 kJ
+Offal & Giblets,Veal Tongue,1 unit (255 g),515 cal,2162 kJ
+Oils & Fats,Almond Oil,1 tbsp (14 ml),123 cal,519 kJ
+Oils & Fats,Avocado Oil,1 tbsp (14 ml),120 cal,504 kJ
+Oils & Fats,Butter,1 tbsp (15 g),108 cal,454 kJ
+Oils & Fats,Canola Oil,1 tbsp (14 ml),124 cal,520 kJ
+Oils & Fats,Coconut Oil,1 tbsp (14 ml),120 cal,504 kJ
+Oils & Fats,Cod Liver Oil,1 tbsp (14 ml),140 cal,588 kJ
+Oils & Fats,Corn Oil,1 tbsp (15 ml),120 cal,504 kJ
+Oils & Fats,Cottonseed Oil,1 tbsp (14 ml),123 cal,519 kJ
+Oils & Fats,Flaxseed Oil,1 tbsp (14 ml),124 cal,520 kJ
+Oils & Fats,Ghee,1 tbsp (14 g),17 cal,71 kJ
+Oils & Fats,Goose Fat,1 tbsp (13 g),117 cal,490 kJ
+Oils & Fats,Grape Seed Oil,1 tbsp (14 ml),124 cal,520 kJ
+Oils & Fats,Hemp Oil,1 tbsp (15 ml),121 cal,508 kJ
+Oils & Fats,Herring Oil,1 tbsp (14 ml),126 cal,530 kJ
+Oils & Fats,I can\’t believe it\’s not Butter,1 tbsp (14 g),50 cal,210 kJ
+Oils & Fats,Lard,1 tbsp (13 g),117 cal,492 kJ
+Oils & Fats,Macadamia Oil,1 tbsp (14 ml),115 cal,482 kJ
+Oils & Fats,Margarine,1 tbsp (14 g),100 cal,422 kJ
+Oils & Fats,Mustard Oil,1 tbsp (14 ml),124 cal,520 kJ
+Oils & Fats,Olive Oil,1 tbsp (15 ml),133 cal,557 kJ
+Oils & Fats,Palm Oil,1 tbsp (14 ml),123 cal,519 kJ
+Oils & Fats,Peanut Oil,1 tbsp (14 ml),120 cal,504 kJ
+Oils & Fats,Real Butter,1 tbsp (15 g),108 cal,454 kJ
+Oils & Fats,Rice Bran Oil,1 tbsp (14 ml),124 cal,523 kJ
+Oils & Fats,Safflower Oil,1 tbsp (14 ml),120 cal,504 kJ
+Oils & Fats,Sardine Oil,1 tbsp (14 ml),126 cal,530 kJ
+Oils & Fats,Sesame Oil,1 tbsp (14 ml),124 cal,520 kJ
+Oils & Fats,Soybean Oil,1 tbsp (14 ml),124 cal,523 kJ
+Oils & Fats,Sunflower Oil,1 tbsp (14 ml),124 cal,520 kJ
+Oils & Fats,Walnut Oil,1 tbsp (14 ml),124 cal,523 kJ
+Pasta & Noodles,Cannelloni,2 oz. (56 g),82 cal,343 kJ
+Pasta & Noodles,Capellini,2 oz. (56 g),198 cal,830 kJ
+Pasta & Noodles,Cappelletti,2 oz. (56 g),92 cal,386 kJ
+Pasta & Noodles,Cellophane Noodles,1 cup (140 g),491 cal,2064 kJ
+Pasta & Noodles,Cheese Tortellini,1 cup (113 g),329 cal,1381 kJ
+Pasta & Noodles,Dampfnudel,1 dampfnudel (85 g),233 cal,978 kJ
+Pasta & Noodles,Dumpling Dough,2 oz. (56 g),55 cal,233 kJ
+Pasta & Noodles,Durum Wheat Semolina,2 oz. (56 g),222 cal,934 kJ
+Pasta & Noodles,Egg Noodles,1 cup (38 g),146 cal,613 kJ
+Pasta & Noodles,Farfalle,2 oz. (56 g),200 cal,842 kJ
+Pasta & Noodles,Fettuccine,2 oz. (56 g),198 cal,830 kJ
+Pasta & Noodles,Fusilli,2 oz. (56 g),197 cal,828 kJ
+Pasta & Noodles,Glass Noodles,2 oz. (56 g),108 cal,451 kJ
+Pasta & Noodles,Lasagne Sheets,1 sheet (21 g),57 cal,239 kJ
+Pasta & Noodles,Linguine,2 oz. (56 g),200 cal,839 kJ
+Pasta & Noodles,Low Carb Pasta,2 oz. (56 g),158 cal,663 kJ
+Pasta & Noodles,Macaroni,1 cup (114 g),422 cal,1772 kJ
+Pasta & Noodles,Manicotti,2 oz. (56 g),200 cal,839 kJ
+Pasta & Noodles,Mostaccioli,2 oz. (56 g),103 cal,433 kJ
+Pasta & Noodles,Orecchiette,2 oz. (56 g),207 cal,870 kJ
+Pasta & Noodles,Orzo,2 oz. (56 g),200 cal,839 kJ
+Pasta & Noodles,Penne,2 oz. (56 g),197 cal,825 kJ
+Pasta & Noodles,Penne Rigate,2 oz. (56 g),207 cal,870 kJ
+Pasta & Noodles,Pierogi,3 pierogi (100 g),200 cal,840 kJ
+Pasta & Noodles,Ravioli,2 oz. (56 g),43 cal,181 kJ
+Pasta & Noodles,Rigatoni,2 oz. (56 g),198 cal,830 kJ
+Pasta & Noodles,Rotini,2 oz. (56 g),198 cal,830 kJ
+Pasta & Noodles,Shells,1 cup (85 g),300 cal,1261 kJ
+Pasta & Noodles,Shirataki Noodles,2 oz. (56 g),10 cal,43 kJ
+Pasta & Noodles,Soy Noodles,2 oz. (56 g),121 cal,508 kJ
+Pasta & Noodles,Spaetzle,2 oz. (56 g),206 cal,866 kJ
+Pasta & Noodles,Spaghetti,2 oz. (56 g),207 cal,870 kJ
+Pasta & Noodles,Spinach Tortellini,1 cup (102 g),320 cal,1345 kJ
+Pasta & Noodles,Spirelli,2 oz. (56 g),206 cal,863 kJ
+Pasta & Noodles,Tagliatelle,2 oz. (56 g),207 cal,870 kJ
+Pasta & Noodles,Tortellini,1 cup (113 g),329 cal,1381 kJ
+Pasta & Noodles,Vermicelli,2 oz. (56 g),206 cal,866 kJ
+Pasta & Noodles,Whole Grain Noodles,2 oz. (56 g),194 cal,816 kJ
+Pasta & Noodles,Whole Grain Spaghetti,2 oz. (56 g),197 cal,825 kJ
+Pasta & Noodles,Ziti,2 oz. (56 g),197 cal,828 kJ
+"Pastries, Breads & Rolls",Apple Pie,1 slice (125 g),296 cal,1244 kJ
+"Pastries, Breads & Rolls",Apple Turnover,1 turnover (82 g),285 cal,1199 kJ
+"Pastries, Breads & Rolls",Bagel,1 bagel (98 g),252 cal,1057 kJ
+"Pastries, Breads & Rolls",Baguette,1 slice (60 g),164 cal,691 kJ
+"Pastries, Breads & Rolls",Banana Bread,1 oz. (28.4 g),91 cal,383 kJ
+"Pastries, Breads & Rolls",Banana Nut Bread,1 piece (57 g),186 cal,780 kJ
+"Pastries, Breads & Rolls",Beer Bread,1 slice (30 g),68 cal,286 kJ
+"Pastries, Breads & Rolls",Biscuit,1 biscuit (58 g),156 cal,655 kJ
+"Pastries, Breads & Rolls",Black Bread,1 slice (26 g),65 cal,273 kJ
+"Pastries, Breads & Rolls",Bran Muffins,1 muffin (58 g),157 cal,658 kJ
+"Pastries, Breads & Rolls",Bread Pudding,1 serving (100 g),153 cal,643 kJ
+"Pastries, Breads & Rolls",Breadsticks,1 breadstick (5 g),20 cal,84 kJ
+"Pastries, Breads & Rolls",Brioche,1 serving (77 g),266 cal,1119 kJ
+"Pastries, Breads & Rolls",Brown Bread,1 slice (30 g),74 cal,310 kJ
+"Pastries, Breads & Rolls",Brownies,1 square (40 g),162 cal,680 kJ
+"Pastries, Breads & Rolls",Bun,1 bun (38 g),120 cal,504 kJ
+"Pastries, Breads & Rolls",Cannoli,1 serving (85 g),216 cal,907 kJ
+"Pastries, Breads & Rolls",Caramel Cake,1 oz. (28.4 g),108 cal,453 kJ
+"Pastries, Breads & Rolls",Challah,1 slice (23 g),65 cal,273 kJ
+"Pastries, Breads & Rolls",Chapati,1 piece (50 g),120 cal,504 kJ
+"Pastries, Breads & Rolls",Ciabatta,1 slice (20 g),54 cal,228 kJ
+"Pastries, Breads & Rolls",Cinnamon Bun,1 bun (65 g),283 cal,1190 kJ
+"Pastries, Breads & Rolls",Coffee Cake,1 piece (76 g),318 cal,1335 kJ
+"Pastries, Breads & Rolls",Conchas/Mexican Sweet Bread,1 piece (82 g),289 cal,1216 kJ
+"Pastries, Breads & Rolls",Cornbread,1 oz. (28.4 g),50 cal,211 kJ
+"Pastries, Breads & Rolls",Crepes,1 crepe (50 g),112 cal,471 kJ
+"Pastries, Breads & Rolls",Croissant,1 croissant (57 g),231 cal,972 kJ
+"Pastries, Breads & Rolls",Crumpet,1 crumpet (55 g),98 cal,411 kJ
+"Pastries, Breads & Rolls",Cupcakes,1 cupcake (43 g),131 cal,551 kJ
+"Pastries, Breads & Rolls",Donut/Doughnut,1 doughnut (45 g),189 cal,796 kJ
+"Pastries, Breads & Rolls",Dosa,1 serving (50 g),105 cal,439 kJ
+"Pastries, Breads & Rolls",Empanada,1 piece (89 g),298 cal,1252 kJ
+"Pastries, Breads & Rolls",English Muffin,1 muffin (57 g),129 cal,543 kJ
+"Pastries, Breads & Rolls",Flatbread,1 slice (50 g),156 cal,653 kJ
+"Pastries, Breads & Rolls",Focaccia,1 piece (57 g),142 cal,596 kJ
+"Pastries, Breads & Rolls",Garlic Bread,1 slice (43 g),151 cal,632 kJ
+"Pastries, Breads & Rolls",Hot Dog Buns,1 bun (43 g),120 cal,504 kJ
+"Pastries, Breads & Rolls",Italian Bread,1 slice (30 g),81 cal,341 kJ
+"Pastries, Breads & Rolls",Latkes,1 serving (74 g),140 cal,588 kJ
+"Pastries, Breads & Rolls",Matzo Bread,1 matzo (28 g),98 cal,413 kJ
+"Pastries, Breads & Rolls",Monkey Bread,1 piece (57 g),165 cal,694 kJ
+"Pastries, Breads & Rolls",Muffin,1 muffin (71 g),210 cal,883 kJ
+"Pastries, Breads & Rolls",Multi-Grain Bread,1 slice (26 g),69 cal,289 kJ
+"Pastries, Breads & Rolls",Naan,1 naan (160 g),440 cal,1848 kJ
+"Pastries, Breads & Rolls",Oatmeal Cookies,1 cookie (25 g),113 cal,473 kJ
+"Pastries, Breads & Rolls",Oatmeal Raisin Cookies,1 cookie (25 g),109 cal,457 kJ
+"Pastries, Breads & Rolls",Pan de Sal,1 serving (50 g),147 cal,616 kJ
+"Pastries, Breads & Rolls",Pancake,1 pancake (38 g),89 cal,372 kJ
+"Pastries, Breads & Rolls",Pandesal,1 serving (50 g),147 cal,616 kJ
+"Pastries, Breads & Rolls",Panettone,1 slice (27 g),86 cal,361 kJ
+"Pastries, Breads & Rolls",Pide,1 pide (60 g),161 cal,676 kJ
+"Pastries, Breads & Rolls",Pie,1 piece (125 g),296 cal,1244 kJ
+"Pastries, Breads & Rolls",Pita Bread,1 pita (50 g),138 cal,578 kJ
+"Pastries, Breads & Rolls",Potato Bread,1 slice (32 g),85 cal,357 kJ
+"Pastries, Breads & Rolls",Pretzel,1 pretzel (115 g),389 cal,1633 kJ
+"Pastries, Breads & Rolls",Pretzel Roll,1 roll (60 g),203 cal,852 kJ
+"Pastries, Breads & Rolls",Puff Pastry,1 piece (47 g),262 cal,1102 kJ
+"Pastries, Breads & Rolls",Pumpernickel,1 pumpernickel (36 g),90 cal,378 kJ
+"Pastries, Breads & Rolls",Raisin Bread,1 slice (32 g),88 cal,368 kJ
+"Pastries, Breads & Rolls",Roll,1 roll (38 g),120 cal,504 kJ
+"Pastries, Breads & Rolls",Roti,1 roti (43 g),114 cal,477 kJ
+"Pastries, Breads & Rolls",Rye Bread,1 oz. (28.4 g),73 cal,305 kJ
+"Pastries, Breads & Rolls",Sandwich,1 sandwich (83 g),252 cal,1060 kJ
+"Pastries, Breads & Rolls",Sandwich Bread,1 slice (26 g),65 cal,274 kJ
+"Pastries, Breads & Rolls",Scone,1 scone (40 g),145 cal,608 kJ
+"Pastries, Breads & Rolls",Shortcrust Pastry,1 serving (50 g),272 cal,1143 kJ
+"Pastries, Breads & Rolls",Soda Bread,1 oz. (28.4 g),81 cal,341 kJ
+"Pastries, Breads & Rolls",Soufflé,1 cup (136 g),277 cal,1166 kJ
+"Pastries, Breads & Rolls",Sourdough Bread,1 slice (35 g),101 cal,425 kJ
+"Pastries, Breads & Rolls",Spanakopita,1 piece (57 g),140 cal,589 kJ
+"Pastries, Breads & Rolls",Spice Cake,1 piece (66 g),219 cal,920 kJ
+"Pastries, Breads & Rolls",Sweet Rolls,1 roll (66 g),220 cal,923 kJ
+"Pastries, Breads & Rolls",Swiss Roll,1 piece (32 g),100 cal,421 kJ
+"Pastries, Breads & Rolls",Toast,1 slice (33 g),86 cal,362 kJ
+"Pastries, Breads & Rolls",Tortilla,1 tortilla (49 g),146 cal,611 kJ
+"Pastries, Breads & Rolls",Tortilla Bread,1 tortilla (68 g),180 cal,757 kJ
+"Pastries, Breads & Rolls",White Bread,1 slice (28 g),67 cal,280 kJ
+"Pastries, Breads & Rolls",Whole Wheat Bread,1 slice (46 g),114 cal,477 kJ
+Pizza,BBQ Chicken Pizza,1 slice (132 g),309 cal,1298 kJ
+Pizza,BBQ Pizza,1 slice (140 g),314 cal,1317 kJ
+Pizza,Beef Pizza,1 slice (235 g),714 cal,3001 kJ
+Pizza,Bianca Pizza,1 slice (187 g),460 cal,1932 kJ
+Pizza,Buffalo Chicken Pizza,1 slice (238 g),600 cal,2518 kJ
+Pizza,Calabrese Pizza,1 slice (108 g),254 cal,1066 kJ
+Pizza,Calzone,1 calzone (364 g),841 cal,3531 kJ
+Pizza,Capricciosa Pizza,1 slice (74 g),192 cal,808 kJ
+Pizza,Cheese Pizza,1 slice (63 g),168 cal,706 kJ
+Pizza,Chicken Pizza,1 slice (132 g),309 cal,1298 kJ
+Pizza,Deep Dish Pizza,1 slice (118 g),313 cal,1313 kJ
+Pizza,Dominos Philly Cheese Steak Pizza,1 slice (159 g),356 cal,1496 kJ
+Pizza,Four Cheese Pizza,1 slice (113 g),250 cal,1049 kJ
+Pizza,Goat Cheese Pizza,1 slice (63 g),138 cal,580 kJ
+Pizza,Grilled Pizza,1 slice (124 g),280 cal,1177 kJ
+Pizza,Hawaiian Pizza,1 slice (134 g),154 cal,647 kJ
+Pizza,Margherita Pizza,1 slice (63 g),173 cal,728 kJ
+Pizza,Mozzarella Pizza,1 slice (62 g),154 cal,649 kJ
+Pizza,Mushroom Pizza,1 slice (288 g),611 cal,2563 kJ
+Pizza,Napoli Pizza,1 slice (123 g),248 cal,1043 kJ
+Pizza,New York Style Pizza,1 slice (103 g),174 cal,731 kJ
+Pizza,Pepperoni Pizza,1 slice (71 g),181 cal,760 kJ
+Pizza,Pizza Dough,2 oz. (57 g),130 cal,546 kJ
+Pizza,Pizza Hut Stuffed Crust Pizza,1 slice (149 g),380 cal,1596 kJ
+Pizza,Pizza Hut Supreme Pizza,1 slice (123 g),305 cal,1282 kJ
+Pizza,Pizza Rolls,1 roll (14 g),35 cal,145 kJ
+Pizza,Quattro Formaggi Pizza,1 slice (133 g),330 cal,1386 kJ
+Pizza,Red Pepper Pizza,1 slice (86 g),165 cal,693 kJ
+Pizza,Salami Pizza,1 slice (71 g),181 cal,760 kJ
+Pizza,Sausage Pizza,1 slice (72 g),177 cal,744 kJ
+Pizza,Seafood Pizza,1 slice (76 g),186 cal,782 kJ
+Pizza,Shrimp Pizza,1 slice (91 g),190 cal,799 kJ
+Pizza,Sicilian Pizza,1 slice (133 g),321 cal,1346 kJ
+Pizza,Spinach Feta Pizza,1 slice (62 g),150 cal,630 kJ
+Pizza,Spinach Pizza,1 slice (62 g),145 cal,609 kJ
+Pizza,Stuffed Crust Pizza,1 slice (149 g),380 cal,1596 kJ
+Pizza,Tarte Flambée,1 square (56 g),142 cal,595 kJ
+Pizza,Thin Crust Pizza,1 slice (60 g),157 cal,658 kJ
+Pizza,Tuna Pizza,1 slice (125 g),318 cal,1334 kJ
+Pizza,Vegetable Pizza,1 slice (156 g),399 cal,1677 kJ
+Pizza,Vegetarian Pizza,1 slice (156 g),399 cal,1677 kJ
+Pizza,Veggie Pizza,1 slice (114 g),263 cal,1106 kJ
+Pizza,White Pizza,1 slice (232 g),571 cal,2397 kJ
+Pork,Bacon,1 slice (26 g),106 cal,444 kJ
+Pork,Brawn,1 slice (25 g),77 cal,325 kJ
+Pork,Canadian-Style Bacon,1 slice (56 g),60 cal,251 kJ
+Pork,Chitterlings,3 oz. (85 g),198 cal,832 kJ
+Pork,Ground Pork,4 oz. (112 g),295 cal,1238 kJ
+Pork,Hog Maws,1 oz. (28 g),70 cal,294 kJ
+Pork,Lard,1 tbsp (13 g),117 cal,490 kJ
+Pork,Meatloaf,12 oz. (336 g),299 cal,1257 kJ
+Pork,Parma Ham,1 serving (12 g),31 cal,132 kJ
+Pork,Pig Ear,1 ear (111 g),184 cal,774 kJ
+Pork,Pig Fat,1 oz. (28 g),179 cal,750 kJ
+Pork,Pig’s Tail,1 piece (275 g),1089 cal,4573 kJ
+Pork,Pig’s Trotter,4 oz. (113 g),275 cal,1154 kJ
+Pork,Pork Bacon,1 slice (26 g),106 cal,444 kJ
+Pork,Pork Belly,1 oz. (28 g),145 cal,609 kJ
+Pork,Pork Blade Steak,4 oz. (113 g),262 cal,1101 kJ
+Pork,Pork Chop,1 chop  (158 g),194 cal,817 kJ
+Pork,Pork Country-Style Ribs,4 oz. (113 g),150 cal,632 kJ
+Pork,Pork Crown Roast,4 oz. (113 g),240 cal,1006 kJ
+Pork,Pork Cutlet,1 package (283 g),371 cal,1557 kJ
+Pork,Pork Cutlets,1 package (283 g),371 cal,1557 kJ
+Pork,Pork Leg,1 piece (231 g),464 cal,1950 kJ
+Pork,Pork Loin,1 piece (333 g),476 cal,2001 kJ
+Pork,Pork Meatloaf,4 oz. (113 g),275 cal,1154 kJ
+Pork,Pork Ragout,1 serving (361 g),264 cal,1108 kJ
+Pork,Pork Rib Roast,4 oz. (113 g),180 cal,755 kJ
+Pork,Pork Ribs,3 oz. (85 g),248 cal,1042 kJ
+Pork,Pork Roast,1 chop  (263 g),510 cal,2143 kJ
+Pork,Pork Sausage,1 sausage (48 g),163 cal,684 kJ
+Pork,Pork Shank,1 oz. (28 g),48 cal,202 kJ
+Pork,Pork Shoulder,1 piece (262 g),705 cal,2961 kJ
+Pork,Pork Shoulder Blade,4 oz. (113 g),262 cal,1101 kJ
+Pork,Pork Stomach,1 oz. (28 g),70 cal,294 kJ
+Pork,Rack of Pork,4 oz. (113 g),272 cal,1144 kJ
+Pork,Salt Meat,1 oz. (28 g),80 cal,336 kJ
+Pork,Salt Pork,1 oz. (28 g),80 cal,336 kJ
+Pork,Serrano Ham,2 oz. (56 g),190 cal,797 kJ
+Pork,Spare Ribs,3 oz. (85 g),337 cal,1414 kJ
+Pork,Spareribs,1 piece (247 g),588 cal,2470 kJ
+Potato Products,All-blue Potatoes,1 potato (136 g),83 cal,348 kJ
+Potato Products,Baked Potato,1 potato (173 g),161 cal,676 kJ
+Potato Products,Boiled Potatoes,1 potato (136 g),118 cal,496 kJ
+Potato Products,Cassava,1 root (408 g),653 cal,2742 kJ
+Potato Products,Croquettes,1 serving (138 g),175 cal,736 kJ
+Potato Products,Dumpling Dough,1 dumpling (40 g),50 cal,208 kJ
+Potato Products,Dumplings,1 dumpling (40 g),50 cal,208 kJ
+Potato Products,French Fingerling Potatoes,1 potato (136 g),112 cal,468 kJ
+Potato Products,French Fries,1 serving (117 g),365 cal,1533 kJ
+Potato Products,Fried Potatoes,1 serving (117 g),365 cal,1533 kJ
+Potato Products,Gnocchi,1 cup (188 g),250 cal,1051 kJ
+Potato Products,Japanese Sweet Potatoes,1 potato (130 g),113 cal,475 kJ
+Potato Products,Marrow Dumplings,1 dumpling (136 g),577 cal,2422 kJ
+Potato Products,Mashed Potatoes,1 cup (242 g),215 cal,905 kJ
+Potato Products,Norland Red Potatoes,1 potato (136 g),121 cal,509 kJ
+Potato Products,Omelette,1 omelette (61 g),94 cal,395 kJ
+Potato Products,Potato,1 potato (214 g),165 cal,691 kJ
+Potato Products,Potato Dumpling,1 dumpling (40 g),50 cal,208 kJ
+Potato Products,Potato Fritter,1 fritter (74 g),137 cal,575 kJ
+Potato Products,Potato Gratin,1 cup (245 g),323 cal,1357 kJ
+Potato Products,Potato Pancakes,1 pancake (37 g),99 cal,417 kJ
+Potato Products,Potato Salad,1 cup (250 g),358 cal,1503 kJ
+Potato Products,Potato Starch,1 tbsp (12 g),40 cal,167 kJ
+Potato Products,Potato Sticks,1/2 cup (18 g),94 cal,395 kJ
+Potato Products,Potato Waffles,1 waffle (57 g),95 cal,400 kJ
+Potato Products,Potato Wedges,1 serving (100 g),123 cal,517 kJ
+Potato Products,Potatoes au Gratin,1 cup (245 g),323 cal,1357 kJ
+Potato Products,Purple Majesty Potatoes,1 potato (136 g),98 cal,411 kJ
+Potato Products,Red Gold Potatoes,1 potato (136 g),121 cal,509 kJ
+Potato Products,Red Potatoes,1 potato (173 g),154 cal,647 kJ
+Potato Products,Roast Potatoes,1 potato (136 g),203 cal,851 kJ
+Potato Products,Rosemary Potatoes,1 potato (173 g),161 cal,676 kJ
+Potato Products,Russet Potatoes,1 potato (173 g),168 cal,704 kJ
+Potato Products,Russian Banana Potatoes,1 potato (136 g),91 cal,382 kJ
+Potato Products,Rösti,1 roesti (100 g),138 cal,580 kJ
+Potato Products,Sweet Potato,1 potato (114 g),105 cal,440 kJ
+Potato Products,White Potatoes,1 potato (138 g),130 cal,545 kJ
+Potato Products,Yams,1 cup (136 g),158 cal,662 kJ
+Potato Products,Yukon Gold Potatoes,1 potato (136 g),112 cal,468 kJ
+Poultry & Fowl,Capon,1 capon (1418 g),3247 cal,13641 kJ
+Poultry & Fowl,Chicken,1/2 chicken (334 g),731 cal,3073 kJ
+Poultry & Fowl,Chicken Breast,1 breast (200 g),344 cal,1444 kJ
+Poultry & Fowl,Chicken Drumsticks,1 drumstick (71 g),131 cal,552 kJ
+Poultry & Fowl,Chicken Gizzards,1 cup (145 g),223 cal,938 kJ
+Poultry & Fowl,Chicken Legs,1 leg (199 g),346 cal,1455 kJ
+Poultry & Fowl,Chicken Thighs,1 thigh (111 g),254 cal,1068 kJ
+Poultry & Fowl,Chicken Wings,1 wing (53 g),141 cal,592 kJ
+Poultry & Fowl,Cornish Hens,1 duck (257 g),666 cal,2796 kJ
+Poultry & Fowl,Dove,1 serving (100 g),213 cal,895 kJ
+Poultry & Fowl,Duck,1/2 duck (634 g),2137 cal,8971 kJ
+Poultry & Fowl,Duck Breast,1 breast (73 g),147 cal,616 kJ
+Poultry & Fowl,Emu,1 steak (394 g),599 cal,2514 kJ
+Poultry & Fowl,Goose,1/2 goose (591 g),1803 cal,7571 kJ
+Poultry & Fowl,Guinea-Fowl,1/2 guinea (345 g),545 cal,2291 kJ
+Poultry & Fowl,Ostrich,1 serving (85 g),123 cal,518 kJ
+Poultry & Fowl,Ostrich Meat,1 serving (85 g),123 cal,518 kJ
+Poultry & Fowl,Pheasant,1 serving (100 g),239 cal,1004 kJ
+Poultry & Fowl,Pheasant Breast,1/2 breast (182 g),242 cal,1017 kJ
+Poultry & Fowl,Pheasant Leg,1 leg (107 g),256 cal,1074 kJ
+Poultry & Fowl,Pigeon,1 pigeon (199 g),283 cal,1186 kJ
+Poultry & Fowl,Poularde,1 serving (100 g),200 cal,840 kJ
+Poultry & Fowl,Quail,1 quail (92 g),209 cal,877 kJ
+Poultry & Fowl,Quail Breast,1 breast (56 g),69 cal,290 kJ
+Poultry & Fowl,Rhea,1 serving (100 g),160 cal,672 kJ
+Poultry & Fowl,Turkey,1 turkey (3812 g),7205 cal,30267 kJ
+Poultry & Fowl,Turkey Breast,1/2 breast (864 g),1166 cal,4899 kJ
+Poultry & Fowl,Turkey Cutlet,1 cutlet (113 g),214 cal,897 kJ
+Poultry & Fowl,Turkey Drumsticks,1 serving (100 g),208 cal,874 kJ
+Poultry & Fowl,Turkey Legs,1 leg (546 g),1136 cal,4772 kJ
+Poultry & Fowl,Turkey Steak,1 steak (170 g),321 cal,1350 kJ
+Poultry & Fowl,Turkey Wings,1 wing (24 g),53 cal,223 kJ
+Poultry & Fowl,Wild Duck,1/2 duck (270 g),570 cal,2392 kJ
+Sauces & Dressings,1000 Island Dressing,1 tbsp (15 ml),56 cal,233 kJ
+Sauces & Dressings,Ajvar,1 tbsp (15 ml),3 cal,11 kJ
+Sauces & Dressings,Arrabiata Sauce,1 pot (350 g),126 cal,529 kJ
+Sauces & Dressings,Balsamic Vinaigrette Dressing,1 tbsp (16 ml),46 cal,195 kJ
+Sauces & Dressings,Barbecue Sauce,1 tbsp (15 g),23 cal,95 kJ
+Sauces & Dressings,Bechamel Sauce,1 tbsp (15 g),34 cal,142 kJ
+Sauces & Dressings,Bernaise Sauce,1 tbsp (15 g),62 cal,261 kJ
+Sauces & Dressings,Blue Cheese Dressing,1 tbsp (15 ml),80 cal,336 kJ
+Sauces & Dressings,Bolognese,1 cup (226 g),240 cal,1006 kJ
+Sauces & Dressings,Buttermilk Ranch Dressing,1 tbsp (15 ml),80 cal,336 kJ
+Sauces & Dressings,Caesar Dressing,1 tbsp (15 ml),64 cal,270 kJ
+Sauces & Dressings,Catalina Dressing,1 tbsp (15 ml),42 cal,178 kJ
+Sauces & Dressings,Chasseur Sauce,1 tbsp (15 g),7 cal,28 kJ
+Sauces & Dressings,Chili Sauce,1 tbsp (18 g),20 cal,85 kJ
+Sauces & Dressings,Cream Sauce,1 cup (244 g),439 cal,1845 kJ
+Sauces & Dressings,Curry Ketchup,1 tbsp (15 g),19 cal,78 kJ
+Sauces & Dressings,Curry Sauce,1 tbsp (17 g),4 cal,19 kJ
+Sauces & Dressings,French Dressing,1 tbsp (15 ml),9 cal,38 kJ
+Sauces & Dressings,Gravy,1 cup (233 g),123 cal,520 kJ
+Sauces & Dressings,Greek Dressing,1 tbsp (15 ml),70 cal,294 kJ
+Sauces & Dressings,Hamburger Sauce,1 tbsp (15 g),57 cal,241 kJ
+Sauces & Dressings,Harissa,1 tbsp (15 g),8 cal,33 kJ
+Sauces & Dressings,Hollandaise Sauce,1 tbsp (15 g),80 cal,337 kJ
+Sauces & Dressings,Honey Mustard Dressing,1 tbsp (16 ml),74 cal,312 kJ
+Sauces & Dressings,Horseradish,1 tbsp (15 g),7 cal,30 kJ
+Sauces & Dressings,Italian Dressing,1 tbsp (15 ml),44 cal,185 kJ
+Sauces & Dressings,Ketchup,1 tbsp (15 g),15 cal,63 kJ
+Sauces & Dressings,Mayonnaise,1 tbsp (13 g),90 cal,378 kJ
+Sauces & Dressings,Mustard,1 tsp (5 g),3 cal,13 kJ
+Sauces & Dressings,Mustard Sauce,1 tbsp (13 g),84 cal,352 kJ
+Sauces & Dressings,Orange Sauce,1 tbsp (15 g),27 cal,113 kJ
+Sauces & Dressings,Pesto,1 tbsp (15 g),69 cal,289 kJ
+Sauces & Dressings,Ranch Dressing,1 tbsp (15 ml),77 cal,321 kJ
+Sauces & Dressings,Remoulade Sauce,1 tbsp (13 g),83 cal,347 kJ
+Sauces & Dressings,Russian Dressing,1 tbsp (15 ml),60 cal,252 kJ
+Sauces & Dressings,Salad Dressing,1 tbsp (16 ml),72 cal,302 kJ
+Sauces & Dressings,Sambal Oelek,1 tsp (5 g),1 cal,4 kJ
+Sauces & Dressings,Sesame Ginger Dressing,1 tbsp (15 ml),70 cal,292 kJ
+Sauces & Dressings,Sesame Paste,1 tbsp (15 g),89 cal,375 kJ
+Sauces & Dressings,Sour Cream,1 tbsp (12 g),26 cal,109 kJ
+Sauces & Dressings,Sour Cream Sauce,1 tbsp (15 g),9 cal,38 kJ
+Sauces & Dressings,Soy Sauce,1 tbsp (15 ml),10 cal,42 kJ
+Sauces & Dressings,Sweet and Sour Sauce,1 tbsp (15 g),27 cal,113 kJ
+Sauces & Dressings,Tabasco,1 tsp (5 g),4 cal,15 kJ
+Sauces & Dressings,Teriyaki Sauce,1 tbsp (18 g),16 cal,67 kJ
+Sauces & Dressings,Thai Curry Paste,1 tbsp (15 g),23 cal,98 kJ
+Sauces & Dressings,Tomato Paste,1 tbsp (17 g),14 cal,58 kJ
+Sauces & Dressings,Tomato Puree,1 tbsp (15 g),6 cal,24 kJ
+Sauces & Dressings,Tomato Sauce,1 cup (245 g),59 cal,247 kJ
+Sauces & Dressings,Tzatziki,1 tbsp (15 g),14 cal,59 kJ
+Sauces & Dressings,Vinaigrette,1 tbsp (15 ml),18 cal,76 kJ
+Sauces & Dressings,Worcestershire Sauce,1 tbsp (15 ml),12 cal,49 kJ
+Sauces & Dressings,Yogurt Dressing,1 tbsp (15 ml),7 cal,28 kJ
+Sauces & Dressings,Zesty Italian Dressing,1 tbsp (15 ml),40 cal,168 kJ
+Sausage,Andouille,1 link (85 g),197 cal,828 kJ
+Sausage,Bacon,1 slice (26 g),106 cal,444 kJ
+Sausage,Black Pudding,1 slice (25 g),95 cal,398 kJ
+Sausage,Blood Sausage,1 slice (25 g),95 cal,398 kJ
+Sausage,Bockwurst,1 sausage (91 g),274 cal,1150 kJ
+Sausage,Boiled Ham,1 serving (63 g),66 cal,275 kJ
+Sausage,Bologna,1 slice (23 g),57 cal,239 kJ
+Sausage,Boudin,1 oz. (28.35 g),54 cal,228 kJ
+Sausage,Bratwurst,1 bratwurst (66 g),196 cal,823 kJ
+Sausage,Brawn,1 slice (28 g),44 cal,185 kJ
+Sausage,Breakfast Sausage Links,1 link (13 g),44 cal,185 kJ
+Sausage,Cheese Pastry,1 pastry (71 g),266 cal,1115 kJ
+Sausage,Chicken Breast,1 slice (21 g),17 cal,70 kJ
+Sausage,Chicken Meat,1 slice (21 g),17 cal,70 kJ
+Sausage,Chicken Salad,1 serving (344 g),279 cal,1170 kJ
+Sausage,Chorizo,1 oz. (28.35 g),127 cal,535 kJ
+Sausage,Cooked Ham,1 oz. (28.35 g),37 cal,157 kJ
+Sausage,Corned Beef,1 slice (28 g),43 cal,180 kJ
+Sausage,Cumberland Sausage,1 sausage (30 g),75 cal,315 kJ
+Sausage,Frankfurters,1 frankfurter (45 g),137 cal,576 kJ
+Sausage,Garlic Sausage,1 slice (13 g),22 cal,92 kJ
+Sausage,Hot Dogs,1 hot dog (52 g),145 cal,607 kJ
+Sausage,Hot Sausage,1 serving (55 g),142 cal,598 kJ
+Sausage,Italian Sausage,1 link (84 g),125 cal,526 kJ
+Sausage,Jerky,1 piece (20 g),82 cal,344 kJ
+Sausage,Kielbasa,1 link (75 g),232 cal,974 kJ
+Sausage,Knackwurst,1 link (72 g),221 cal,928 kJ
+Sausage,Landjaeger,1 landjaeger (56.8 g),197 cal,828 kJ
+Sausage,Linguica,1 oz. (28.35 g),79 cal,332 kJ
+Sausage,Liver Pate,1 tbsp (13 g),41 cal,174 kJ
+Sausage,Liverwurst,1 slice (18 g),59 cal,246 kJ
+Sausage,Luncheon Meat,1 slice (9.3 g),11 cal,44 kJ
+Sausage,Mettwurst,1 serving (28 g),87 cal,365 kJ
+Sausage,Mortadella,1 slice (15 g),47 cal,196 kJ
+Sausage,Pastrami,1 slice (29 g),39 cal,162 kJ
+Sausage,Pepperoni,1 slice (2 g),10 cal,42 kJ
+Sausage,Polish Sausage,1 serving (76 g),229 cal,961 kJ
+Sausage,Pork,1 slice (21 g),52 cal,218 kJ
+Sausage,Pork Roll,1 slice (43 g),130 cal,545 kJ
+Sausage,Prosciutto,1 slice (9 g),18 cal,74 kJ
+Sausage,Ring Bologna,1 oz. (28.35 g),80 cal,336 kJ
+Sausage,Salami,1 slice (12.3 g),40 cal,169 kJ
+Sausage,Sausage,1 sausage (16 g),37 cal,155 kJ
+Sausage,Smoked Sausage,1 serving (76 g),229 cal,961 kJ
+Sausage,Souse,1 slice (28 g),44 cal,185 kJ
+Sausage,Spam,1 serving (56 g),176 cal,741 kJ
+Sausage,Weisswurst,1 link (113 g),354 cal,1486 kJ
+Sliced Cheese,American Cheese,1 slice (21 g),31 cal,131 kJ
+Sliced Cheese,Applewood,1 slice (20 g),82 cal,344 kJ
+Sliced Cheese,Bergkäse,1 slice (24 g),100 cal,421 kJ
+Sliced Cheese,Butter Cheese,1 slice (26 g),101 cal,424 kJ
+Sliced Cheese,Cheddar,1 slice (28 g),113 cal,474 kJ
+Sliced Cheese,Cheese Platter,1 slice (28 g),100 cal,420 kJ
+Sliced Cheese,Cheese Slices,1 slice (28 g),100 cal,419 kJ
+Sliced Cheese,Colby Cheese,1 slice (28 g),110 cal,463 kJ
+Sliced Cheese,Colby-Jack Cheese,1 slice (28 g),110 cal,463 kJ
+Sliced Cheese,Cold Pack Cheese,1 tbsp (14 g),34 cal,145 kJ
+Sliced Cheese,Edam,1 slice (28 g),100 cal,420 kJ
+Sliced Cheese,Edam Cheese,1 slice (28 g),100 cal,420 kJ
+Sliced Cheese,Emmental,1 slice (25 g),89 cal,375 kJ
+Sliced Cheese,Emmentaler,1 slice (25 g),89 cal,375 kJ
+Sliced Cheese,Esrom (Cheese),1 slice (23 g),74 cal,311 kJ
+Sliced Cheese,Fol Epi,1 slice (24 g),93 cal,391 kJ
+Sliced Cheese,Fresh Mozzarella,1 slice (28 g),78 cal,329 kJ
+Sliced Cheese,Gouda,1 slice (28 g),100 cal,419 kJ
+Sliced Cheese,Gouda Cheese,1 slice (28 g),100 cal,419 kJ
+Sliced Cheese,Havarti,1 slice (28 g),104 cal,436 kJ
+Sliced Cheese,Lacy Swiss Cheese,1 slice (28 g),90 cal,377 kJ
+Sliced Cheese,Leerdammer,1 slice (25 g),71 cal,298 kJ
+Sliced Cheese,Leerdammer Cheese,1 slice (25 g),71 cal,298 kJ
+Sliced Cheese,Maasdam Cheese,1 slice (18 g),62 cal,260 kJ
+Sliced Cheese,Monterey Jack Cheese,1 slice (28 g),104 cal,439 kJ
+Sliced Cheese,Mozzarella,1 slice (28 g),78 cal,329 kJ
+Sliced Cheese,Muenster Cheese,1 slice (28 g),103 cal,433 kJ
+Sliced Cheese,Pepper Cheese,1 slice (21 g),21 cal,88 kJ
+Sliced Cheese,Sandwich Cheese,1 slice (21 g),31 cal,131 kJ
+Sliced Cheese,Smoked Cheese,1 slice (20 g),82 cal,344 kJ
+Sliced Cheese,Tilsit,1 slice (25 g),85 cal,357 kJ
+Sliced Cheese,White American,1 slice (21 g),31 cal,131 kJ
+Sliced Cheese,White Cheddar,1 cup (132 g),532 cal,2235 kJ
+Sliced Cheese,Young Gouda,1 slice (28 g),100 cal,419 kJ
+Soda & Soft Drinks,7up,12 fl. oz. (355 ml),156 cal,657 kJ
+Soda & Soft Drinks,Barq’s,12 fl. oz. (355 ml),163 cal,685 kJ
+Soda & Soft Drinks,Bitter Lemon,12 fl. oz. (355 ml),121 cal,508 kJ
+Soda & Soft Drinks,Canada Dry Ginger Ale,8 fl. oz. (240 ml),98 cal,413 kJ
+Soda & Soft Drinks,Cherry Coke,12 fl. oz. (355 ml),156 cal,657 kJ
+Soda & Soft Drinks,Coke,12 fl. oz. (355 ml),149 cal,625 kJ
+Soda & Soft Drinks,Coke Zero,12 fl. oz. (355 ml),0 cal,0 kJ
+Soda & Soft Drinks,Diet Cherry Coke,12 fl. oz. (355 ml),4 cal,14 kJ
+Soda & Soft Drinks,Diet Coke,12 fl. oz. (355 ml),4 cal,14 kJ
+Soda & Soft Drinks,Diet Dr. Pepper,12 fl. oz. (355 ml),0 cal,0 kJ
+Soda & Soft Drinks,Diet Pepsi,12 fl. oz. (355 ml),0 cal,0 kJ
+Soda & Soft Drinks,Diet Sunkist,12 fl. oz. (355 ml),0 cal,0 kJ
+Soda & Soft Drinks,Dr. Brown’s,12 fl. oz. (355 ml),188 cal,792 kJ
+Soda & Soft Drinks,Dr. Pepper,12 fl. oz. (355 ml),96 cal,401 kJ
+Soda & Soft Drinks,Fanta,12 fl. oz. (355 ml),138 cal,582 kJ
+Soda & Soft Drinks,Fanta Zero,12 fl. oz. (355 ml),0 cal,0 kJ
+Soda & Soft Drinks,Five Alive,12 fl. oz. (355 ml),124 cal,522 kJ
+Soda & Soft Drinks,Fresca,12 fl. oz. (355 ml),0 cal,0 kJ
+Soda & Soft Drinks,Full Throttle,8 fl. oz. (240 ml),264 cal,1109 kJ
+Soda & Soft Drinks,Fuze,12 fl. oz. (355 ml),71 cal,298 kJ
+Soda & Soft Drinks,Fuze Tea,12 fl. oz. (355 ml),89 cal,373 kJ
+Soda & Soft Drinks,Gatorade,12 fl. oz. (355 ml),89 cal,373 kJ
+Soda & Soft Drinks,Ginger Ale,12 fl. oz. (355 ml),124 cal,522 kJ
+Soda & Soft Drinks,Ice Tea,12 fl. oz. (355 ml),96 cal,401 kJ
+Soda & Soft Drinks,Jolt Cola,8 fl. oz. (240 ml),106 cal,444 kJ
+Soda & Soft Drinks,Kool-Aid,8 fl. oz. (237 ml),62 cal,258 kJ
+Soda & Soft Drinks,Lemonade,12 fl. oz. (355 ml),149 cal,625 kJ
+Soda & Soft Drinks,Mello Yello,8 fl. oz. (240 ml),118 cal,494 kJ
+Soda & Soft Drinks,Minute Maid,8 fl. oz. (240 ml),110 cal,463 kJ
+Soda & Soft Drinks,Minute Maid Light,8 fl. oz. (240 ml),5 cal,19 kJ
+Soda & Soft Drinks,Mug Root Beer,8 fl. oz. (240 ml),101 cal,422 kJ
+Soda & Soft Drinks,Orange Soda,12 fl. oz. (355 ml),170 cal,717 kJ
+Soda & Soft Drinks,Pepsi,12 fl. oz. (355 ml),156 cal,657 kJ
+Soda & Soft Drinks,Pibb Xtra,12 fl. oz. (355 ml),142 cal,596 kJ
+Soda & Soft Drinks,Powerade,1 bottle (500 ml),600 cal,2520 kJ
+Soda & Soft Drinks,Schweppes Ginger Ale,12 fl. oz. (355 ml),135 cal,568 kJ
+Soda & Soft Drinks,Soda,12 fl. oz. (355 ml),188 cal,792 kJ
+Soda & Soft Drinks,Sprite,12 fl. oz. (355 ml),131 cal,550 kJ
+Soda & Soft Drinks,Sprite Zero,12 fl. oz. (355 ml),0 cal,0 kJ
+Soda & Soft Drinks,Squirt,8 fl. oz. (240 ml),106 cal,444 kJ
+Soda & Soft Drinks,Sunkist,12 fl. oz. (355 ml),89 cal,373 kJ
+Soda & Soft Drinks,Surge,12 fl. oz. (355 ml),170 cal,717 kJ
+Soda & Soft Drinks,TaB,12 fl. oz. (355 ml),0 cal,0 kJ
+Soda & Soft Drinks,Tonic Water,12 fl. oz. (355 ml),124 cal,522 kJ
+Soda & Soft Drinks,Vanilla Coke,12 fl. oz. (355 ml),160 cal,671 kJ
+Soups,Alphabet Soup,1 cup (248 g),62 cal,260 kJ
+Soups,Bean Stew,1 cup (252 g),335 cal,1409 kJ
+Soups,Beef Bouillon,1 cup (240 g),7 cal,31 kJ
+Soups,Beef Noodle Soup,1 cup (244 g),83 cal,349 kJ
+Soups,Beef Soup,1 cup (213 g),70 cal,296 kJ
+Soups,Bouillon,1 cup (244 g),39 cal,163 kJ
+Soups,Broccoli Cheese Soup,1 can (303 g),264 cal,1106 kJ
+Soups,Broccoli Soup,1 cup (237 g),206 cal,865 kJ
+Soups,Cabbage Soup,1 cup (245 g),69 cal,289 kJ
+Soups,Carrot Ginger Soup,1 serving (381 g),95 cal,400 kJ
+Soups,Carrot Soup,1 serving (381 g),95 cal,400 kJ
+Soups,Chicken Bouillon,1 cup (241 g),10 cal,41 kJ
+Soups,Chicken Broth,1 cup (244 g),39 cal,163 kJ
+Soups,Chicken Gumbo Soup,1 cup (244 g),56 cal,237 kJ
+Soups,Chicken Noodle Soup,1 cup (248 g),62 cal,260 kJ
+Soups,Chicken Stock,1 cup (244 g),39 cal,163 kJ
+Soups,Chicken Vegetable Soup,1 cup (248 g),77 cal,322 kJ
+Soups,Chicken with Rice Soup,1 cup (243 g),58 cal,245 kJ
+Soups,Cream of Asparagus Soup,1 cup (244 g),85 cal,359 kJ
+Soups,Cream of Broccoli Soup,1 serving (310 g),140 cal,586 kJ
+Soups,Cream of Celery Soup,1 cup (248 g),92 cal,384 kJ
+Soups,Cream of Chicken Soup,1 cup (244 g),117 cal,493 kJ
+Soups,Cream of Mushroom Soup,1 cup (248 g),97 cal,407 kJ
+Soups,Cream of Onion Soup,1 cup (244 g),107 cal,451 kJ
+Soups,Cream of Potato Soup,1 cup (244 g),73 cal,307 kJ
+Soups,Creamy Chicken Noodle Soup,1 cup (245 g),56 cal,238 kJ
+Soups,French Onion Soup,1 cup (243 g),56 cal,236 kJ
+Soups,Golden Mushroom Soup,1 cup (248 g),161 cal,677 kJ
+Soups,Goulash,1 serving (187 g),1887 cal,7925 kJ
+Soups,Instant Ramen,1 package (85 g),371 cal,1556 kJ
+Soups,Lentil Soup,1 cup (248 g),139 cal,583 kJ
+Soups,Lobster Bisque Soup,1 cup (248 g),248 cal,1042 kJ
+Soups,Meatball Soup,1 cup (245 g),120 cal,505 kJ
+Soups,Minestrone,1 cup (241 g),82 cal,345 kJ
+Soups,Mushroom Soup,1 cup (244 g),85 cal,359 kJ
+Soups,Noodle Soup,1 cup (244 g),83 cal,349 kJ
+Soups,Onion Soup,1 cup (243 g),56 cal,236 kJ
+Soups,Oxtail Soup,1 cup (244 g),68 cal,288 kJ
+Soups,Pea Soup,1 cup (253 g),190 cal,797 kJ
+Soups,Potato Soup,1 serving (240 g),192 cal,806 kJ
+Soups,Pumpkin Soup,1 cup (245 g),71 cal,299 kJ
+Soups,Ramen,1 package (85 g),371 cal,1556 kJ
+Soups,Scotch Broth,1 cup (241 g),80 cal,335 kJ
+Soups,Succotash,1 cup (192 g),221 cal,927 kJ
+Soups,Thai Soup,1 cup (245 g),147 cal,617 kJ
+Soups,Tomato Rice Soup,1 cup (247 g),116 cal,487 kJ
+Soups,Tomato Soup,1 cup (248 g),74 cal,312 kJ
+Soups,Vegetable Beef Soup,1 cup (244 g),76 cal,317 kJ
+Soups,Vegetable Broth,1 cup (235 g),12 cal,49 kJ
+Soups,Vegetable Soup,1 cup (241 g),67 cal,284 kJ
+Soups,Vegetable Stock,1 cup (235 g),12 cal,49 kJ
+Soups,Wedding Soup,1 cup (245 g),130 cal,546 kJ
+Spreads,Almond Butter,1 tbsp (16 g),98 cal,413 kJ
+Spreads,Apple Butter,1 tbsp (17 g),29 cal,124 kJ
+Spreads,Applesauce,1 cup (255 g),173 cal,729 kJ
+Spreads,Apricot Jam,1 tbsp (20 g),50 cal,210 kJ
+Spreads,Blackberry Jam,1 tbsp (20 g),50 cal,210 kJ
+Spreads,Blackcurrant Jam,1 tbsp (20 g),50 cal,210 kJ
+Spreads,Blueberry Jam,1 tbsp (20 g),50 cal,210 kJ
+Spreads,Cheese Spread,1 tbsp (15 g),44 cal,183 kJ
+Spreads,Cherry Jam,1 tbsp (20 g),50 cal,210 kJ
+Spreads,Chocolate Philadelphia,1 serving (30 g),86 cal,362 kJ
+Spreads,Chocolate Spread,1 tsp (12 g),65 cal,273 kJ
+Spreads,Cream Cheese,1 cup (232 g),793 cal,3332 kJ
+Spreads,Egg,1 egg (56 g),54 cal,228 kJ
+Spreads,Grape Jelly,1 tbsp (20 g),51 cal,214 kJ
+Spreads,Honey,1 tbsp (21 g),64 cal,268 kJ
+Spreads,Jelly,1 tbsp (20 g),56 cal,234 kJ
+Spreads,Jif Peanut Butter,1 tbsp (16 g),93 cal,390 kJ
+Spreads,Liverwurst,1 slice (18 g),55 cal,231 kJ
+Spreads,Margarine,1 tbsp (14 g),100 cal,422 kJ
+Spreads,Marmite,1 tsp (4 g),9 cal,38 kJ
+Spreads,Marshmallow Fluff,1 tbsp (6 g),40 cal,168 kJ
+Spreads,Nutella,1 serving (15 g),82 cal,343 kJ
+Spreads,Olive Spread,1 serving (10 g),55 cal,231 kJ
+Spreads,Peanut Butter,1 tbsp (16 g),94 cal,396 kJ
+Spreads,Peter Pan Peanut Butter,1 tbsp (16 g),97 cal,409 kJ
+Spreads,Philadelphia Cream Cheese,1 cup (232 g),793 cal,3332 kJ
+Spreads,Plum Jam,1 tbsp (20 g),50 cal,210 kJ
+Spreads,"Pâté (720), Pate",1 tbsp (13 g),41 cal,174 kJ
+Spreads,Salted Butter,1 cup (227 g),1628 cal,6835 kJ
+Spreads,Skippy Peanut Butter,1 tbsp (16 g),95 cal,399 kJ
+Spreads,Smuckers Strawberry Jam,1 tbsp (20 g),50 cal,210 kJ
+Spreads,Strawberry Jam,1 tbsp (20 g),50 cal,210 kJ
+Spreads,Strawberry Jelly,1 tbsp (20 g),50 cal,210 kJ
+Spreads,Sunbutter,1 tbsp (16 g),99 cal,415 kJ
+Spreads,Sunflower Butter,1 cup (227 g),1401 cal,5882 kJ
+Spreads,Tapenade,1 tbsp (15 g),35 cal,147 kJ
+Spreads,Unsalted Butter,1 cup (227 g),1628 cal,6835 kJ
+Spreads,Vegemite,1 tsp (5 g),9 cal,38 kJ
+Spreads,Wild Honey,1 tbsp (21 g),60 cal,252 kJ
+Tropical & Exotic Fruits,Acerola,1 acerola (4.8 g),1 cal,5 kJ
+Tropical & Exotic Fruits,Asian Pear,1 pear (178 g),75 cal,313 kJ
+Tropical & Exotic Fruits,Avocado,1 avocado (200 g),320 cal,1344 kJ
+Tropical & Exotic Fruits,Banana,1 banana (125 g),111 cal,468 kJ
+Tropical & Exotic Fruits,Breadfruit,1/4 breadfruit (96 g),99 cal,416 kJ
+Tropical & Exotic Fruits,Cantaloupe Melon,1 wedge (69 g),23 cal,99 kJ
+Tropical & Exotic Fruits,Casaba Melon,1 wedge (125 g),35 cal,148 kJ
+Tropical & Exotic Fruits,Cherimoya,1 cherimoya (235 g),176 cal,740 kJ
+Tropical & Exotic Fruits,Dragon Fruit,1 dragonfruit (200 g),120 cal,504 kJ
+Tropical & Exotic Fruits,Durian,1 durian (602 g),885 cal,3714 kJ
+Tropical & Exotic Fruits,Feijoa,1 feijoa (42 g),23 cal,97 kJ
+Tropical & Exotic Fruits,Galia Melon,1 melon (130 g),30 cal,126 kJ
+Tropical & Exotic Fruits,Grapefruit,1/2 grapefruit (123 g),52 cal,216 kJ
+Tropical & Exotic Fruits,Guava,1 guava (55 g),37 cal,157 kJ
+Tropical & Exotic Fruits,Honeydew,1 wedge (125 g),45 cal,189 kJ
+Tropical & Exotic Fruits,Jackfruit,1 cup (151 g),143 cal,602 kJ
+Tropical & Exotic Fruits,Kiwi,1 kiwi (183 g),112 cal,468 kJ
+Tropical & Exotic Fruits,Kumquat,1 kumquat (19 g),13 cal,57 kJ
+Tropical & Exotic Fruits,Lychee,1 lychee (10 g),7 cal,28 kJ
+Tropical & Exotic Fruits,Mandarin Oranges,1 madarin orange (90 g),48 cal,201 kJ
+Tropical & Exotic Fruits,Mango,1 mango (336 g),202 cal,847 kJ
+Tropical & Exotic Fruits,Mangosteen,1 serving (80 g),58 cal,246 kJ
+Tropical & Exotic Fruits,Maracuya,1 maracuya (18 g),17 cal,73 kJ
+Tropical & Exotic Fruits,Maraschino Cherries,1 cherry (5 g),8 cal,35 kJ
+Tropical & Exotic Fruits,Muskmelon,1 wedge (69 g),23 cal,99 kJ
+Tropical & Exotic Fruits,Noni,1 oz. (28.4 g),15 cal,62 kJ
+Tropical & Exotic Fruits,Passion Fruit,1 passion fruit (18 g),17 cal,73 kJ
+Tropical & Exotic Fruits,Pineapple,1 pineapple (905 g),453 cal,1901 kJ
+Tropical & Exotic Fruits,Pink Grapefruit,1/2 grapefruit (123 g),52 cal,216 kJ
+Tropical & Exotic Fruits,Plantain,1 plantain (179 g),218 cal,916 kJ
+Tropical & Exotic Fruits,Pomegranate,1 pomegranate (282 g),234 cal,984 kJ
+Tropical & Exotic Fruits,Pomelo,1 pomelo (609 g),231 cal,974 kJ
+Tropical & Exotic Fruits,Prickly Pear,"1 pad, peeled (19 g)",8 cal,33 kJ
+Tropical & Exotic Fruits,Rambutan,1 rambutan (9 g),7 cal,31 kJ
+Tropical & Exotic Fruits,Sapodilla,1 sapodilla (170 g),141 cal,593 kJ
+Tropical & Exotic Fruits,Soursop Fruit,1 soursop fruit (625 g),413 cal,1731 kJ
+Tropical & Exotic Fruits,Star Fruit,1 starfruit (91 g),28 cal,118 kJ
+Tropical & Exotic Fruits,Tamarind,1 tamarind (2 g),5 cal,20 kJ
+Tropical & Exotic Fruits,Watermelon,1 wedge (286 g),86 cal,360 kJ
+Vegetable Oils,Almond Oil,1 tbsp (14 ml),123 cal,519 kJ
+Vegetable Oils,Apricot Kernel Oil,1 tbsp (14 ml),124 cal,523 kJ
+Vegetable Oils,Argan Oil,1 tbsp (14 ml),125 cal,527 kJ
+Vegetable Oils,Avocado Oil,1 tbsp (14 ml),120 cal,504 kJ
+Vegetable Oils,Babassu Oil,1 tbsp (14 ml),124 cal,520 kJ
+Vegetable Oils,Canola Oil,1 tbsp (14 ml),124 cal,520 kJ
+Vegetable Oils,Coconut Oil,1 tbsp (14 ml),120 cal,504 kJ
+Vegetable Oils,Corn Oil,1 tbsp (15 ml),120 cal,504 kJ
+Vegetable Oils,Cottonseed Oil,1 tbsp (14 ml),123 cal,519 kJ
+Vegetable Oils,Flaxseed Oil,1 tbsp (14 ml),124 cal,520 kJ
+Vegetable Oils,Grape Seed Oil,1 tbsp (14 ml),124 cal,520 kJ
+Vegetable Oils,Hazelnut Oil,1 tbsp (14 ml),124 cal,523 kJ
+Vegetable Oils,Linseed Oil,1 tbsp (14 ml),117 cal,492 kJ
+Vegetable Oils,Menhaden Oil,1 tbsp (14 ml),128 cal,536 kJ
+Vegetable Oils,Mustard Oil,1 tbsp (14 ml),124 cal,520 kJ
+Vegetable Oils,Oat Oil,1 tbsp (14 ml),124 cal,520 kJ
+Vegetable Oils,Olive Oil,1 tbsp (15 ml),120 cal,504 kJ
+Vegetable Oils,Palm Kernel Oil,1 tbsp (14 ml),123 cal,519 kJ
+Vegetable Oils,Palm Oil,1 tbsp (14 ml),123 cal,519 kJ
+Vegetable Oils,Peanut Oil,1 tbsp (14 ml),120 cal,504 kJ
+Vegetable Oils,Poppy Seed Oil,1 tbsp (14 ml),124 cal,520 kJ
+Vegetable Oils,Pumpkin Seed Oil,1 tbsp (14 ml),123 cal,517 kJ
+Vegetable Oils,Rice Bran Oil,1 tbsp (14 ml),124 cal,523 kJ
+Vegetable Oils,Safflower Oil,1 tbsp (14 ml),120 cal,504 kJ
+Vegetable Oils,Salmon Oil,1 tbsp (14 ml),128 cal,536 kJ
+Vegetable Oils,Sesame Oil,1 tbsp (14 ml),124 cal,523 kJ
+Vegetable Oils,Shea Oil,1 tbsp (14 ml),124 cal,520 kJ
+Vegetable Oils,Soy Oil,1 tbsp (14 ml),123 cal,519 kJ
+Vegetable Oils,Sunflower Oil,1 tbsp (14 ml),124 cal,520 kJ
+Vegetable Oils,Tomato Seed Oil,1 tbsp (14 ml),124 cal,520 kJ
+Vegetable Oils,Vegetable Oil,1 tbsp (15 ml),120 cal,504 kJ
+Vegetable Oils,Walnut Oil,1 tbsp (14 ml),124 cal,523 kJ
+Vegetable Oils,Wheat Germ Oil,1 tbsp (14 ml),130 cal,546 kJ
+Vegetables,Artichoke,1 artichoke (128 g),60 cal,252 kJ
+Vegetables,Arugula,1 leaf (2 g),1 cal,2 kJ
+Vegetables,Asparagus,1 spear (12 g),2 cal,10 kJ
+Vegetables,Aubergine,1 aubergine (458 g),115 cal,481 kJ
+Vegetables,Beetroot,1 beet (82 g),35 cal,148 kJ
+Vegetables,Bell Pepper,1 pepper (73 g),15 cal,61 kJ
+Vegetables,Black Olives,1 olive (2.7 g),2 cal,10 kJ
+Vegetables,Broccoli,1 bunch (608 g),207 cal,869 kJ
+Vegetables,Brussels Sprouts,1 sprout (19 g),8 cal,34 kJ
+Vegetables,Cabbage,1 head (908 g),227 cal,953 kJ
+Vegetables,Capsicum,1 pepper (45 g),12 cal,51 kJ
+Vegetables,Carrot,1 carrot (61 g),25 cal,105 kJ
+Vegetables,Cauliflower,1 floweret (13 g),3 cal,14 kJ
+Vegetables,Celery,1 stalk (40 g),6 cal,27 kJ
+Vegetables,Chard,1 leaf (48 g),9 cal,38 kJ
+Vegetables,Cherry Tomato,1 cherry tomato (20 g),20 cal,84 kJ
+Vegetables,Chicory,1 head (53 g),38 cal,160 kJ
+Vegetables,Chinese Cabbage,1 head (840 g),134 cal,563 kJ
+Vegetables,Chives,"1 tbsp, chopped (3 g)",1 cal,4 kJ
+Vegetables,Collard Greens,"1 cup, raw (36 g)",12 cal,48 kJ
+Vegetables,Corn,1 cup (154 g),562 cal,2361 kJ
+Vegetables,Courgette,1 courgette (196 g),33 cal,139 kJ
+Vegetables,Creamed Spinach,1 cup (200 g),148 cal,622 kJ
+Vegetables,Cucumber,1 cucumber (410 g),66 cal,275 kJ
+Vegetables,Eggplant,1 eggplant (458 g),115 cal,481 kJ
+Vegetables,Endive,1 head (513 g),87 cal,364 kJ
+Vegetables,Fennel,1 bulb (234 g),73 cal,304 kJ
+Vegetables,Garlic,1 clove (3 g),4 cal,19 kJ
+Vegetables,Gherkin,1 gherkin (65 g),9 cal,38 kJ
+Vegetables,Gourd,1 gourd (771 g),108 cal,455 kJ
+Vegetables,Green Beans,1 cup (110 g),34 cal,143 kJ
+Vegetables,Green Olives,1 olive (2.7 g),2 cal,10 kJ
+Vegetables,Green Onion,1 green onion (15 g),5 cal,20 kJ
+Vegetables,Horseradish,1 tbsp (15 g),7 cal,30 kJ
+Vegetables,Kale,"1 cup, chopped (67 g)",33 cal,138 kJ
+Vegetables,Kohlrabi,1 kohlrabi (400 g),108 cal,452 kJ
+Vegetables,Kumara,1 kumara (130 g),112 cal,469 kJ
+Vegetables,Leek,1 leek (89 g),54 cal,228 kJ
+Vegetables,Lettuce,1 head (600 g),90 cal,378 kJ
+Vegetables,Mushrooms,1 mushroom (5.4 g),1 cal,5 kJ
+Vegetables,Mustard Greens,"1 cup, chopped (56 g)",15 cal,63 kJ
+Vegetables,Nori,1 sheet (2.6 g),1 cal,3 kJ
+Vegetables,Okra,1 pod (12 g),4 cal,17 kJ
+Vegetables,Olives,1 olive (2.7 g),2 cal,10 kJ
+Vegetables,Onion,1 onion (85 g),34 cal,143 kJ
+Vegetables,Parsnips,1 parsnip (170 g),128 cal,536 kJ
+Vegetables,Peas,1 cup (98 g),79 cal,333 kJ
+Vegetables,Pepper,1 pepper (75 g),20 cal,85 kJ
+Vegetables,Potato,1 potato (213 g),164 cal,688 kJ
+Vegetables,Pumpkin,1 pumpkin (196 g),51 cal,214 kJ
+Vegetables,Radishes,1 radish (4.5 g),1 cal,3 kJ
+Vegetables,Red Cabbage,1 leaf (22 g),7 cal,29 kJ
+Vegetables,Rutabaga,1 rutabaga (386 g),147 cal,618 kJ
+Vegetables,Shallots,1 shallot (25 g),18 cal,76 kJ
+Vegetables,Spinach,1 bunch (340 g),78 cal,330 kJ
+Vegetables,Squash,1 squash (196 g),88 cal,370 kJ
+Vegetables,Sweet Potato,1 potato (130 g),112 cal,469 kJ
+Vegetables,Tomato,1 tomato (111 g),20 cal,84 kJ
+Vegetables,Turnip Greens,1 turnip green (170 g),34 cal,143 kJ
+Vegetables,Turnips,1 turnip (122 g),34 cal,144 kJ
+Vegetables,Wasabi,1 root (169 g),184 cal,774 kJ
+Vegetables,Winter Squash,1 squash (431 g),147 cal,616 kJ
+Vegetables,Zucchini,1 zucchini (196 g),33 cal,139 kJ
+Venison & Game,Alligator,1 piece (184 g),191 cal,804 kJ
+Venison & Game,Alligator Meat,1 piece (340 g),789 cal,3312 kJ
+Venison & Game,Antelope Meat,1 piece (340 g),510 cal,2142 kJ
+Venison & Game,Bear Meat,1 piece (277 g),717 cal,3014 kJ
+Venison & Game,Beaver Meat,1 piece (313 g),664 cal,2786 kJ
+Venison & Game,Bison,1 piece (194 g),332 cal,1393 kJ
+Venison & Game,Bison Meat,1 piece (194 g),332 cal,1393 kJ
+Venison & Game,Bison Sirloin,1 piece (194 g),332 cal,1393 kJ
+Venison & Game,Buffalo,1 piece (340 g),445 cal,1870 kJ
+Venison & Game,Buffalo Meat,1 piece (340 g),445 cal,1870 kJ
+Venison & Game,Caribou,1 piece (102 g),162 cal,681 kJ
+Venison & Game,Goose,1/2 goose (591 g),1407 cal,5910 kJ
+Venison & Game,Goose Meat,1/2 goose (591 g),1407 cal,5910 kJ
+Venison & Game,Lamb,1 piece (193 g),390 cal,1637 kJ
+Venison & Game,Lamb Meat,1 piece (193 g),390 cal,1637 kJ
+Venison & Game,Mallard Duck Meat,1 piece (265 g),559 cal,2348 kJ
+Venison & Game,Mallard Meat,1 piece (265 g),559 cal,2348 kJ
+Venison & Game,Moose,1 piece (340 g),456 cal,1914 kJ
+Venison & Game,Moose Meat,1 piece (340 g),456 cal,1914 kJ
+Venison & Game,Mutton,1 piece (240 g),562 cal,2359 kJ
+Venison & Game,Mutton Meat,1 oz. (28 g),66 cal,275 kJ
+Venison & Game,Ostrich,1 patty (93 g),163 cal,684 kJ
+Venison & Game,Ostrich Meat,1 piece (340 g),595 cal,2499 kJ
+Venison & Game,Pheasant,1 piece (169 g),404 cal,1697 kJ
+Venison & Game,Pheasant Meat,1 piece (169 g),404 cal,1697 kJ
+Venison & Game,Rabbit,1 piece (313 g),617 cal,2589 kJ
+Venison & Game,Racoon,1 piece (356 g),908 cal,3813 kJ
+Venison & Game,Racoon Meat,1 piece (399 g),1017 cal,4273 kJ
+Venison & Game,Reindeer,1 piece (340 g),680 cal,2856 kJ
+Venison & Game,Reindeer Meat,1 piece (340 g),680 cal,2856 kJ
+Venison & Game,Squirrel,1 piece (313 g),541 cal,2276 kJ
+Venison & Game,Squirrel Meat,1 piece (313 g),541 cal,2276 kJ
+Venison & Game,Venison,1 piece (157 g),257 cal,1082 kJ
+Venison & Game,Venison Sirloin,1 piece (340 g),537 cal,2258 kJ
+Venison & Game,Wild Boar,1 piece (340 g),544 cal,2285 kJ
+Venison & Game,Wild Boar Meat,1 piece (340 g),544 cal,2285 kJ
+Wine,Cabernet Sauvignon,1 glass (118 ml),91 cal,381 kJ
+Wine,Cava,1 glass (118 ml),90 cal,376 kJ
+Wine,Champagne,1 glass (118 ml),90 cal,376 kJ
+Wine,Chardonnay,1 glass (118 ml),100 cal,421 kJ
+Wine,Chenin Blanc,1 glass (118 ml),94 cal,396 kJ
+Wine,Chocolate Wine,1 glass (118 ml),302 cal,1269 kJ
+Wine,Dry Red Wine,1 glass (118 ml),100 cal,421 kJ
+Wine,Gamay,1 glass (118 ml),92 cal,387 kJ
+Wine,Malbec,1 glass (118 ml),97 cal,406 kJ
+Wine,Malbec Wine,1 glass (118 ml),97 cal,406 kJ
+Wine,Marsala Wine,1 glass (118 ml),118 cal,496 kJ
+Wine,Merlot,1 glass (118 ml),98 cal,412 kJ
+Wine,Merlot Wine,1 glass (118 ml),98 cal,412 kJ
+Wine,Moscato Wine,1 glass (118 ml),90 cal,376 kJ
+Wine,Mulled Wine,1 glass (118 ml),231 cal,971 kJ
+Wine,Pinot Gris,1 glass (118 ml),98 cal,412 kJ
+Wine,Pinot Noir,1 glass (118 ml),89 cal,372 kJ
+Wine,Plum Wine,1 glass (118 ml),192 cal,808 kJ
+Wine,Port Wine,1 glass (118 ml),189 cal,793 kJ
+Wine,Prosecco,1 glass (118 ml),84 cal,352 kJ
+Wine,Red Wine,1 glass (118 ml),100 cal,421 kJ
+Wine,Red Wines,1 glass (118 ml),100 cal,421 kJ
+Wine,Riesling,1 glass (118 ml),94 cal,396 kJ
+Wine,Riesling Wine,1 glass (118 ml),94 cal,396 kJ
+Wine,Rose Wine,1 glass (118 ml),84 cal,352 kJ
+Wine,Sangria,1 glass (118 ml),156 cal,654 kJ
+Wine,Sauvignon Blanc,1 glass (118 ml),96 cal,401 kJ
+Wine,Sherry,1 glass (118 ml),137 cal,575 kJ
+Wine,Shiraz,1 glass (118 ml),84 cal,352 kJ
+Wine,Sparkling Wine,1 glass (118 ml),224 cal,942 kJ
+Wine,Sweet Red Wine,1 glass (118 ml),96 cal,401 kJ
+Wine,Sweet White Wine,1 glass (118 ml),97 cal,406 kJ
+Wine,Sweet Wines,1 glass (118 ml),98 cal,412 kJ
+Wine,Vermouth,1 glass (30 ml),32 cal,136 kJ
+Wine,White Wine,1 glass (118 ml),97 cal,406 kJ
+Wine,White Zinfandel,1 glass (118 ml),104 cal,437 kJ
+Wine,Wine,1 glass (118 ml),98 cal,412 kJ
+Wine,Yellow Tail Wine,1 glass (118 ml),84 cal,352 kJ
+Wine,Zinfandel,1 glass (118 ml),104 cal,437 kJ
+Yogurt,Activia,1 container (113 g),84 cal,351 kJ
+Yogurt,Activia Lemon,1 container (113 g),113 cal,475 kJ
+Yogurt,Activia Strawberry,1 container (113 g),110 cal,460 kJ
+Yogurt,Aloe Vera Yogurt,1 container (227 g),193 cal,810 kJ
+Yogurt,Ayran,1 cup (200 ml),84 cal,352 kJ
+Yogurt,Bircher Muesli Yogurt,1 container (227 g),247 cal,1040 kJ
+Yogurt,Blueberry Yogurt,1 container (227 g),238 cal,1001 kJ
+Yogurt,Cherry Yogurt,1 container (227 g),220 cal,924 kJ
+Yogurt,Chocolate Yogurt,1 container (227 g),291 cal,1221 kJ
+Yogurt,Cream Yogurt,1 container (113 g),140 cal,589 kJ
+Yogurt,Creamy Yogurt,1 container (227 g),204 cal,858 kJ
+Yogurt,Diet Yogurt,1 container (227 g),123 cal,515 kJ
+Yogurt,Fruit Yogurt,1 container (227 g),220 cal,924 kJ
+Yogurt,Greek Yogurt,1 container (150 g),80 cal,335 kJ
+Yogurt,Low-Fat Yogurt,1 container (227 g),143 cal,602 kJ
+Yogurt,Mocca Yogurt,1 container (227 g),227 cal,953 kJ
+Yogurt,Organic Yogurt,1 container (227 g),170 cal,715 kJ
+Yogurt,Peach Yogurt,1 container (113 g),110 cal,460 kJ
+Yogurt,Plain Yogurt,1 container (227 g),138 cal,581 kJ
+Yogurt,Probiotic Yogurt,1 container (113 g),90 cal,380 kJ
+Yogurt,Skim Milk Yogurt,1 container (227 g),127 cal,533 kJ
+Yogurt,Stracciatella Yogurt,1 container (227 g),316 cal,1326 kJ
+Yogurt,Strawberry Yogurt,1 container (227 g),227 cal,953 kJ
+Yogurt,Vanilla Yogurt,1 container (227 g),229 cal,962 kJ
+Yogurt,Yogurt,1 container (227 g),138 cal,581 kJ
+Yogurt,Yogurt Corner,1 container (135 g),161 cal,675 kJ
+Yogurt,Yoplait Boston Cream Pie,1 container (170 g),153 cal,643 kJ
+Yogurt,Yoplait French Vanilla,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Greek Blueberry,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Greek Coconut,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Greek Strawberry,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Greek Vanilla,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Harvest Peach,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Key Lime Pie,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Mango,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Mixed Berry,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Pina Colada,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Strawberry,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Strawberry Banana,1 container (170 g),170 cal,714 kJ
+Yogurt,Yoplait Strawberry Cheesecake,1 container (170 g),170 cal,714 kJ
