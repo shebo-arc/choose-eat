@@ -1,103 +1,78 @@
-import csv
-import math
-import random
+from flask import Flask, request
 
+app = Flask(__name__)
 
-class Destination:
-    def __init__(self, name, cost, rating, rating_weight, cost_weight, parent=None):
-        self.name = name
-        self.cost = cost
-        self.rating = rating
-        self.rating_weight = rating_weight
-        self.cost_weight = cost_weight
-        self.visits = 0  # Initialize visit count (how many times this destination has been visited)
-        self.wins = 0  # Initialize win count (sum of ratings from simulations)
-        self.children = []  # List to store child nodes (destinations that can be explored)
-        self.parent = parent  # Keep track of the parent node for backpropagation
+# Route to serve the HTML page
+@app.route('/')
+def index():
+    return '''
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Bullet Point Selector</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                padding: 20px;
+            }
+            label {
+                display: block;
+                margin-bottom: 10px;
+            }
+            input[type="text"] {
+                width: 100%;
+                padding: 8px;
+                margin-bottom: 20px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+            }
+            ul {
+                list-style-type: none;
+                padding-left: 0;
+            }
+            li {
+                margin-bottom: 10px;
+            }
+        </style>
+    </head>
+    <body>
 
+        <h1>Bullet Point Selector</h1>
 
-def ucb_score(total_visits, node_wins, parent_visits, exploration_param):
-    if total_visits == 0:
-        return float('inf')  # If a node has never been visited, it should be explored
-    return (node_wins / total_visits) + exploration_param * math.sqrt(math.log(parent_visits) / total_visits)
+        <form id="bulletForm" method="POST" action="/submit">
+            <!-- Selectable bullet points -->
+            <label>Select bullet points:</label>
+            <ul>
+                <li><input type="checkbox" name="bullets" value="Bullet Point 1"> Bullet Point 1</li>
+                <li><input type="checkbox" name="bullets" value="Bullet Point 2"> Bullet Point 2</li>
+                <li><input type="checkbox" name="bullets" value="Bullet Point 3"> Bullet Point 3</li>
+            </ul>
 
+            <!-- Submit button -->
+            <button type="submit">Submit</button>
+        </form>
 
-def select_best_child(node, exploration_param):
-    best_score = -float('inf')
-    best_child = None
-    for child in node.children:
-        score = ucb_score(child.visits, child.wins, node.visits, exploration_param)
-        if score > best_score:
-            best_score = score
-            best_child = child
-    return best_child
+    </body>
+    </html>
+    '''
 
+# Route to handle form submission
+@app.route('/submit', methods=['POST'])
+def submit():
+    # Get selected bullet points
+    selected_bullets = request.form.getlist('bullets')
 
-def simulate(destination):
-    # Simulate a weighted outcome based on the destination's rating and cost
-    rating_score = destination.rating * destination.rating_weight
-    cost_score = (1 / destination.cost) * destination.cost_weight  # Inversely proportional to cost
-    return random.uniform(0, rating_score + cost_score)
+    # Print the results in the Python shell
+    print(f"Selected bullet points: {', '.join(selected_bullets)}")
 
+    # Return a response to the user
+    return f'''
+    <h2>Form submitted successfully!</h2>
+    <p>Selected bullet points: {', '.join(selected_bullets)}</p>
+    <a href="/">Go back</a>
+    '''
 
-def expand_node(node, destinations):
-    # Expand the node by creating children that haven't been explored yet
-    for dest in destinations:
-        if not any(child.name == dest.name for child in node.children):
-            node.children.append(
-                Destination(dest.name, dest.cost, dest.rating, dest.rating_weight, dest.cost_weight, parent=node))
-
-
-def mcts_choose_destination(destinations, iterations):
-    root = Destination('Root', 0, 0, 0, 0)
-    expand_node(root, destinations)  # Initialize root with possible destinations
-
-    for _ in range(iterations):
-        node = root
-        # Selection and Expansion
-        while node.children:
-            if all(child.visits > 0 for child in node.children):
-                node = select_best_child(node, math.sqrt(2))  # Exploration parameter (adjustable)
-            else:
-                expand_node(node, destinations)
-                node = random.choice([child for child in node.children if child.visits == 0])
-                break
-
-        # Simulation: simulate the outcome of choosing this destination
-        simulation_result = simulate(node)
-
-        # Backpropagation
-        while node:
-            node.visits += 1
-            node.wins += simulation_result
-            node = node.parent
-
-    # Choose the destination with the highest average result
-    best_destination = max(root.children, key=lambda x: x.wins / x.visits)
-
-    return best_destination.name
-
-
-def load_destinations_from_csv(csv_filename):
-    destinations = []
-    with open(csv_filename, mode='r') as file:
-        csv_reader = csv.DictReader(file)
-        for row in csv_reader:
-            name = row['name']
-            cost = float(row['cost'])
-            rating = float(row['rating'])
-            rating_weight = float(row['rating_weight'])
-            cost_weight = float(row['cost_weight'])
-            destinations.append(Destination(name, cost, rating, rating_weight, cost_weight))
-    return destinations
-
-
-# Example usage
-if __name__ == "__main__":
-    # Load destinations from CSV file
-    csv_filename = 'destinations.csv'
-    destinations = load_destinations_from_csv(csv_filename)
-
-    # Run MCTS with 1000 iterations using the data from the CSV
-    chosen_destination = mcts_choose_destination(destinations, 1000)
-    print(f"The recommended destination is: {chosen_destination}")
+if __name__ == '__main__':
+    app.run(debug=True)

@@ -1,44 +1,56 @@
 Fruit Juices
 Alcoholic Drinks & Beverages
-Baking Ingredients
 Beef & Veal
 Beer
 Cakes & Pies
-Candy & Sweets
-Canned Fruit
 Cereal Products
-Cheese
 Cold Cuts & Lunch Meat
-Cream Cheese
 Dishes & Meals
 Fast Food
 Fish & Seafood
 Fruits
-Herbs & Spices
 Ice Cream
 Legumes
 Meat
 Milk & Dairy Products
 Non-Alcoholic Drinks & Beverages
-Nuts & Seeds
-Oatmeal, Muesli & Cereals
-Offal & Giblets
-Oils & Fats
 Pasta & Noodles
 Pastries, Breads & Rolls
 Pizza
 Pork
 Potato Products
 Poultry & Fowl
-Sauces & Dressings
-Sausage
-Sliced Cheese
-Soda & Soft Drinks
 Soups
-Spreads
 Tropical & Exotic Fruits
-Vegetable Oils
-Vegetables
 Venison & Game
 Wine
-Yogurt
+
+
+categories = [
+    "Fruit Juices",
+    "Alcoholic Drinks & Beverages",
+    "Beef & Veal",
+    "Beer",
+    "Cakes & Pies",
+    "Cereal Products",
+    "Cold Cuts & Lunch Meat",
+    "Dishes & Meals",
+    "Fast Food",
+    "Fish & Seafood",
+    "Fruits",
+    "Ice Cream",
+    "Legumes",
+    "Meat",
+    "Milk & Dairy Products",
+    "Non-Alcoholic Drinks & Beverages",
+    "Pasta & Noodles",
+    "Pastries, Breads & Rolls",
+    "Pizza",
+    "Pork",
+    "Potato Products",
+    "Poultry & Fowl",
+    "Soups",
+    "Tropical & Exotic Fruits",
+    "Venison & Game",
+    "Wine"
+]

@@ -14,14 +14,31 @@ df['cal_per_serving'] = df['cal_per_serving'].apply(clean_nutritional_values)
 df['kj_per_serving'] = df['kj_per_serving'].apply(clean_nutritional_values)
 
 # Remove rows where cal_per_serving or kj_per_serving is 0
-df_filtered = df[(df['cal_per_serving'] != 0) & (df['kj_per_serving'] != 0)]
+df = df[(df['cal_per_serving'] != 0) & (df['kj_per_serving'] != 0)]
+
+# Remove rows where 'food_category' is 'Baking Ingredients'
+df = df[df['food_category'] != 'Baking Ingredients']
+df = df[df['food_category'] != 'Candy & Sweets']
+df = df[df['food_category'] != 'Cream Cheese']
+df = df[df['food_category'] != 'Canned Fruit']
+df = df[df['food_category'] != 'Cheese']
+df = df[df['food_category'] != 'Herbs & Spices']
+df = df[df['food_category'] != 'Candy & Sweets']
+df = df[df['food_category'] != 'Nuts & Seeds']
+df = df[df['food_category'] != 'Oatmeal, Muesli & Cereals']
+df = df[df['food_category'] != 'Offal & Giblets']
+df = df[df['food_category'] != 'Oils & Fats']
+df = df[df['food_category'] != 'Sauces & Dressings']
+df = df[df['food_category'] != 'Sliced Cheese']
+df = df[df['food_category'] != 'Spreads']
+df = df[df['food_category'] != 'Vegetable Oils']
+df = df[df['food_category'] != 'Vegetables']
+df = df[df['food_category'] != 'Sausage']
+df = df[df['food_category'] != 'Soda & Soft Drinks']
+df = df[df['food_category'] != 'Yogurt']
 
 # Save the filtered DataFrame to a new CSV file
-df_filtered.to_csv('filtered_food_data.csv', index=False)
-
-# Optionally, you can also save the rows that were removed
-removed_rows = df[(df['cal_per_serving'] == 0) | (df['kj_per_serving'] == 0)]
-removed_rows.to_csv('removed_food_data.csv', index=False)
+df.to_csv('filtered_food_data.csv', index=False)
 
 # Extract unique values from the food_category column
 unique_categories = df['food_category'].unique()
