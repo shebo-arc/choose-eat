@@ -15,28 +15,36 @@ def read_food_data_from_csv(file_path):
             food_items.append(FoodItem(food_name, calories, energy))
     return food_items
 
-def data_prune(file_path):
+def data_prune(file_path,foods):
     df = pd.read_csv(file_path)
-    list = ["Fruit Juices", "Alcoholic Drinks & Beverages", "Beef & Veal", "Beer", "Cakes & Pies", "Cereal Products",
-    "Cold Cuts & Lunch Meat",
-    "Dishes & Meals",
-    "Fast Food",
-    "Fish & Seafood",
-    "Fruits",
-    "Ice Cream",
-    "Legumes",
-    "Meat",
-    "Milk & Dairy Products",
-    "Non-Alcoholic Drinks & Beverages",
-    "Pasta & Noodles",
-    "Pastries, Breads & Rolls",
-    "Pizza",
-    "Pork",
-    "Potato Products",
-    "Poultry & Fowl",
-    "Soups",
-    "Tropical & Exotic Fruits",
-    "Venison & Game",]
+    list = ["Fruit Juices",
+            "Alcoholic Drinks & Beverages",
+            "Beef & Veal",
+            "Beer",
+            "Cakes & Pies",
+            "Cereal Products",
+            "Cold Cuts & Lunch Meat",
+            "Dishes & Meals",
+            "Fast Food",
+            "Fish & Seafood",
+            "Fruits",
+            "Ice Cream",
+            "Legumes",
+            "Meat",
+            "Milk & Dairy Products",
+            "Non-Alcoholic Drinks & Beverages",
+            "Pasta & Noodles",
+            "Pastries, Breads & Rolls",
+            "Pizza",
+            "Pork",
+            "Potato Products",
+            "Poultry & Fowl",
+            "Soups",
+            "Tropical & Exotic Fruits",
+            "Venison & Game",
+            "Wine"]
+    for food in foods:
+        list.remove(food)
     for name in list:
         df = df[df['food_category'] != name]
     df.to_csv('pruned.csv')
@@ -82,8 +90,8 @@ class Node:
         best_node = None
 
         for child in self.children:
-            ucb_value = (child.total_reward / (child.visits + 1e-5)) + exploration_param * math.sqrt(
-                math.log(self.visits + 1) / (child.visits + 1e-5))
+            ucb_value = (child.total_reward / child.visits) + exploration_param * math.sqrt(
+                math.log(self.visits) / child.visits)
             if ucb_value > best_value:
                 best_value = ucb_value
                 best_node = child
@@ -109,12 +117,6 @@ class MCTS:
                     child_node = Node(state=new_state, parent=node, food_item=food_item)
                     node.children.append(child_node)
 
-    def select(self, node):
-        # Select a child node based on the UCB formula until a node that is not fully expanded is found
-        while node.is_fully_expanded(self.available_food_items):
-            node = node.best_child()
-        return node
-
     def simulate(self, node, calorie_weight, energy_weight):
         # Start with the current state of the node (calories, energy, food_list)
         calories, energy, food_list = node.state
@@ -128,8 +130,8 @@ class MCTS:
             # Introducing randomness in food selection
             if random.random() < 0.5:  # 50% chance to pick a random food
                 food = random.choice(remaining_food)
-            else:  # 50% chance to pick the food with the highest energy
-                food = max(remaining_food, key=lambda f: f.energy)
+            else:  # 50% chance to pick the food with the lowest calorie
+                food = min(remaining_food, key=lambda f: f.calories)
 
             remaining_food.remove(food)  # Remove the chosen food from the remaining food list
 
@@ -138,12 +140,14 @@ class MCTS:
                 total_energy += food.energy
 
         # Normalize calories and energy
-        max_energy = max(f.energy for f in self.available_food_items)  # Maximum possible energy
-        normalized_calories = total_calories / self.calorie_limit  # Value between 0 and 1
-        normalized_energy = total_energy / max_energy  # Value between 0 and 1
+        max_energy = max(calorie_weight, energy_weight)  # Maximum possible energy
+        normalized_calories = calorie_weight/max_energy  # Value between 0 and 1
+        normalized_energy = energy_weight / max_energy  # Value between 0 and 1
+
+        print(normalized_calories, normalized_energy)
 
         # Revised scoring logic
-        weighted_score = (energy_weight * normalized_energy) - (calorie_weight * normalized_calories ** 2)
+        weighted_score = (energy_weight * normalized_energy) - (calorie_weight * normalized_calories)
 
         return weighted_score
 
@@ -199,7 +203,8 @@ if __name__ == "__main__":
 
     # Read food data from CSV file
     csv_file_path = 'filtered_food_data.csv'  # Path to your CSV file
-    data_prune(csv_file_path)
+    foods = ["Wine"]
+    data_prune(csv_file_path, foods)
     available_food_items = read_food_data_from_csv('pruned.csv')
 
     # Get user-defined weights for calories and energy (normalized to sum to 1)

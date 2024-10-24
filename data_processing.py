@@ -1,9 +1,11 @@
 import pandas as pd
 
+
 # Function to convert the "cal_per_serving" and "kj_per_serving" columns to float
 def clean_nutritional_values(value):
     # Extract the float value from the string
     return float(value.split()[0])  # Get the number before the unit
+
 
 # Load the CSV file
 file_path = 'calorie_data.csv'  # Change this to your file path
@@ -16,7 +18,7 @@ df['kj_per_serving'] = df['kj_per_serving'].apply(clean_nutritional_values)
 # Remove rows where cal_per_serving or kj_per_serving is 0
 df = df[(df['cal_per_serving'] != 0) & (df['kj_per_serving'] != 0)]
 
-# Remove rows where 'food_category' is 'Baking Ingredients'
+# Remove rows where 'food_category' is ___
 df = df[df['food_category'] != 'Baking Ingredients']
 df = df[df['food_category'] != 'Candy & Sweets']
 df = df[df['food_category'] != 'Cream Cheese']
