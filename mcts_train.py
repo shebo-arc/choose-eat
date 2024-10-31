@@ -118,7 +118,6 @@ class MCTS:
                     node.children.append(child_node)
 
     def simulate(self, node, calorie_weight, energy_weight):
-        # Start with the current state of the node (calories, energy, food_list)
         calories, energy, food_list = node.state
         remaining_food = [f for f in self.available_food_items if f not in food_list]
 
@@ -127,27 +126,15 @@ class MCTS:
 
         # Randomly pick food until we exceed the calorie limit or run out of valid options
         while remaining_food and total_calories <= self.calorie_limit:
-            # Introducing randomness in food selection
-            if random.random() < 0.5:  # 50% chance to pick a random food
-                food = random.choice(remaining_food)
-            else:  # 50% chance to pick the food with the lowest calorie
-                food = min(remaining_food, key=lambda f: f.calories)
-
-            remaining_food.remove(food)  # Remove the chosen food from the remaining food list
+            food = random.choice(remaining_food)
+            remaining_food.remove(food)
 
             if total_calories + food.calories <= self.calorie_limit:
                 total_calories += food.calories
                 total_energy += food.energy
 
-        # Normalize calories and energy
-        max_energy = max(calorie_weight, energy_weight)  # Maximum possible energy
-        normalized_calories = calorie_weight/max_energy  # Value between 0 and 1
-        normalized_energy = energy_weight / max_energy  # Value between 0 and 1
-
-        print(normalized_calories, normalized_energy)
-
-        # Revised scoring logic
-        weighted_score = (energy_weight * normalized_energy) - (calorie_weight * normalized_calories)
+        # Direct scoring - minimize calories and maximize energy based on weights
+        weighted_score = (calorie_weight * (-total_calories)) + (energy_weight * total_energy)
 
         return weighted_score
 

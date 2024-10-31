@@ -3,48 +3,144 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bullet Point Selector</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            padding: 20px;
-        }
-        label {
-            display: block;
-            margin-bottom: 10px;
-        }
-        input[type="text"] {
-            width: 100%;
-            padding: 8px;
-            margin-bottom: 20px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-        ul {
-            list-style-type: none;
-            padding-left: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-    </style>
+    <title>Healories</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
 </head>
 <body>
+    <div class="container mt-5">
+        <h1 class="mb-2">Healories</h1>
+        <p class="text-muted mb-4">where health and calories matter</p>
 
-    <h1>Bullet Point Selector</h1>
+        <form id="optimizerForm" class="mb-4">
+            <div class="mb-3">
+                <label class="form-label">Select Food Categories:</label>
+                <div class="row">
+                    {% for category in food_categories %}
+                    <div class="col-md-4 mb-2">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" name="categories[]" value="{{ category }}" id="category{{ loop.index }}">
+                            <label class="form-check-label" for="category{{ loop.index }}">
+                                {{ category }}
+                            </label>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
 
-    <form id="bulletForm" method="POST" action="/submit">
-        <!-- Selectable bullet points -->
-        <label>Select bullet points:</label>
-        <ul>
-            <li><input type="checkbox" name="bullets" value="Bullet Point 1"> Bullet Point 1</li>
-            <li><input type="checkbox" name="bullets" value="Bullet Point 2"> Bullet Point 2</li>
-            <li><input type="checkbox" name="bullets" value="Bullet Point 3"> Bullet Point 3</li>
-        </ul>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label for="calorieWeight" class="form-label">Calorie Weight:</label>
+                        <input type="number" class="form-control" id="calorieWeight" name="calorie_weight" step="0.1" value="1.0" required>
+                        <small class="text-muted">Higher means minimizing calories is more important</small>
+                    </div>
+                </div>
 
-        <!-- Submit button -->
-        <button type="submit">Submit</button>
-    </form>
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label for="energyWeight" class="form-label">Energy Weight:</label>
+                        <input type="number" class="form-control" id="energyWeight" name="energy_weight" step="0.1" value="1.0" required>
+                        <small class="text-muted">Higher means maximizing energy is more important</small>
+                    </div>
+                </div>
 
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label for="calorieLimit" class="form-label">Calorie Limit:</label>
+                        <input type="number" class="form-control" id="calorieLimit" name="calorie_limit" value="100" required>
+                        <small class="text-muted">Maximum calories allowed</small>
+                    </div>
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Optimize Food Plan</button>
+        </form>
+
+        <div id="results" class="mt-4" style="display: none;">
+            <h2>Optimized Food Plan</h2>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Food Name</th>
+                            <th>Calories</th>
+                            <th>Energy (kJ)</th>
+                        </tr>
+                    </thead>
+                    <tbody id="resultsTable">
+                    </tbody>
+                    <tfoot id="resultsTotals">
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+
+        <div id="errorMessage" class="alert alert-danger mt-4" style="display: none;">
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            $('#optimizerForm').on('submit', function(e) {
+                e.preventDefault();
+
+                // Show loading state
+                $('button[type="submit"]').prop('disabled', true).html(
+                    '<span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span> Processing...'
+                );
+
+                // Hide previous results/errors
+                $('#results').hide();
+                $('#errorMessage').hide();
+
+                $.ajax({
+                    url: '/optimize',
+                    method: 'POST',
+                    data: $(this).serialize(),
+                    success: function(response) {
+                        if (response.success) {
+                            // Clear previous results
+                            $('#resultsTable').empty();
+                            $('#resultsTotals').empty();
+
+                            // Add food items
+                            response.food_plan.forEach(function(food) {
+                                $('#resultsTable').append(`
+                                    <tr>
+                                        <td>${food.name}</td>
+                                        <td>${food.calories.toFixed(1)}</td>
+                                        <td>${food.energy.toFixed(1)}</td>
+                                    </tr>
+                                `);
+                            });
+
+                            // Add totals
+                            $('#resultsTotals').append(`
+                                <tr class="table-primary">
+                                    <td><strong>Totals</strong></td>
+                                    <td><strong>${response.total_calories.toFixed(1)}</strong></td>
+                                    <td><strong>${response.total_energy.toFixed(1)}</strong></td>
+                                </tr>
+                            `);
+
+                            $('#results').show();
+                        } else {
+                            $('#errorMessage').text(response.error).show();
+                        }
+                    },
+                    error: function() {
+                        $('#errorMessage').text('An error occurred while processing your request.').show();
+                    },
+                    complete: function() {
+                        // Reset button state
+                        $('button[type="submit"]').prop('disabled', false).text('Optimize Food Plan');
+                    }
+                });
+            });
+        });
+    </script>
 </body>
 </html>
