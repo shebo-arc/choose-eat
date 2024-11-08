@@ -3,6 +3,7 @@ import math
 import random
 import pandas as pd
 
+
 # Function to read food data from CSV
 def read_food_data_from_csv(file_path):
     food_items = []
@@ -15,39 +16,28 @@ def read_food_data_from_csv(file_path):
             food_items.append(FoodItem(food_name, calories, energy))
     return food_items
 
-def data_prune(file_path,foods):
+
+def data_prune(file_path, foods):
     df = pd.read_csv(file_path)
-    list = ["Fruit Juices",
-            "Alcoholic Drinks & Beverages",
-            "Beef & Veal",
-            "Beer",
-            "Cakes & Pies",
-            "Cereal Products",
-            "Cold Cuts & Lunch Meat",
-            "Dishes & Meals",
-            "Fast Food",
-            "Fish & Seafood",
-            "Fruits",
-            "Ice Cream",
-            "Legumes",
-            "Meat",
-            "Milk & Dairy Products",
-            "Non-Alcoholic Drinks & Beverages",
-            "Pasta & Noodles",
-            "Pastries, Breads & Rolls",
-            "Pizza",
-            "Pork",
-            "Potato Products",
-            "Poultry & Fowl",
-            "Soups",
-            "Tropical & Exotic Fruits",
-            "Venison & Game",
-            "Wine"]
+    food_list = [
+        "Fruit Juices", "Alcoholic Drinks & Beverages", "Beef & Veal",
+        "Beer", "Cakes & Pies", "Cereal Products", "Cold Cuts & Lunch Meat",
+        "Dishes & Meals", "Fast Food", "Fish & Seafood", "Fruits",
+        "Ice Cream", "Legumes", "Meat", "Milk & Dairy Products",
+        "Non-Alcoholic Drinks & Beverages", "Pasta & Noodles",
+        "Pastries, Breads & Rolls", "Pizza", "Pork",
+        "Potato Products", "Poultry & Fowl", "Soups",
+        "Tropical & Exotic Fruits", "Venison & Game", "Wine"
+    ]
+
     for food in foods:
-        list.remove(food)
-    for name in list:
+        food_list.remove(food)
+
+    for name in food_list:
         df = df[df['food_category'] != name]
+
     df.to_csv('pruned.csv')
+
 
 # Function to get weights for calories and energy from the user, and normalize them
 def get_user_weights():
@@ -112,6 +102,7 @@ class MCTS:
             if all(c.food_item != food_item for c in node.children):
                 new_calories = node.state[0] + food_item.calories
                 new_energy = node.state[1] + food_item.energy
+
                 if new_calories <= self.calorie_limit:
                     new_state = (new_calories, new_energy, node.state[2] + [food_item])
                     child_node = Node(state=new_state, parent=node, food_item=food_item)
@@ -139,15 +130,17 @@ class MCTS:
         return weighted_score
 
     def select(self, node):
-        # Randomly choose to explore more
-        if random.random() < 0.1:  # 10% chance to select a random child
+        # Randomly choose to explore more if random.random() < 0.1: # 10% chance to select a random child
+        if random.random() < 0.1:
             return random.choice(node.children) if node.children else node
+
         while node.is_fully_expanded(self.available_food_items):
             node = node.best_child()
+
         return node
 
     def backpropagate(self, node, reward):
-        # Backpropagate the reward up the tree
+        # Back propagate the reward up the tree
         while node:
             node.visits += 1
             node.total_reward += reward
@@ -162,51 +155,65 @@ class MCTS:
 
         for _ in range(self.simulations):
             node = self.select(root)
-            if node.is_fully_expanded(self.available_food_items):
-                node = self.expand(node)
+            if not node.is_fully_expanded(self.available_food_items):
+                self.expand(node)
             reward = self.simulate(node, calorie_weight, energy_weight)  # Pass weights to simulate
             self.backpropagate(node, reward)
 
-        # Best action from the root node, ensure there are children
+        # Record all explored nodes into data.csv
+        with open('data.csv', 'w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(['Calories', 'Energy', 'Food List', 'Visits', 'Total Reward'])  # Header
+
+            # Write all nodes including root and children
+            nodes_to_write = [root] + root.children
+            for node in nodes_to_write:
+                writer.writerow([node.state[0], node.state[1], [food.name for food in node.state[2]], node.visits,
+                                 node.total_reward])
+
+        # Best action from the root node; ensure there are children before proceeding.
         if not root.children:
             raise ValueError("No valid food choices were generated.")
-        else:
-            for child in root.children:
-                data = [child.state,child.visits,child.total_reward]
-                with open('data.csv', 'a') as file:
-                    writer = csv.writer(file)
-                    writer.writerow(data)
 
         best_child = max(root.children, key=lambda c: c.visits)
-        return best_child.state[2]  # Return the best sequence of food items
+        print(best_child)
 
+        # Return the best sequence of food items.
+        return best_child.state[2]
 
-# Main program to test the MCTS implementation
+'''
+# Main program to test the MCTS implementation.
 if __name__ == "__main__":
-    # clearing the data file each time
+    # Clearing the data file each time.
     with open('data.csv', 'w') as file:
         pass
+
     print("cleared the file")
 
-    # Read food data from CSV file
-    csv_file_path = 'filtered_food_data.csv'  # Path to your CSV file
-    foods = ["Wine"]
-    data_prune(csv_file_path, foods)
-    available_food_items = read_food_data_from_csv('pruned.csv')
+    # Read food data from CSV file.
+    csv_file_path = 'filtered_food_data.csv'  # Path to your CSV file.
 
-    # Get user-defined weights for calories and energy (normalized to sum to 1)
+    foods_to_prune = ["Wine"]
+
+    data_prune(csv_file_path, foods_to_prune)  # Prune unwanted foods.
+
+    available_food_items = read_food_data_from_csv('pruned.csv')  # Read pruned data.
+
+    # Get user-defined weights for calories and energy (normalized to sum to 1).
     calorie_weight, energy_weight = get_user_weights()
 
-    # Set the calorie limit
+    # Set the calorie limit.
     calorie_limit = 100
 
-    # Create MCTS instance
-    mcts = MCTS(available_food_items, calorie_limit, simulations=1000)
+    # Create MCTS instance.
+    mcts_instance = MCTS(available_food_items, calorie_limit, simulations=1000)
 
-    # Run MCTS to find the best food plan
-    best_food_plan = mcts.run(calorie_weight, energy_weight)
+    # Run MCTS to find the best food plan.
+    best_food_plan = mcts_instance.run(calorie_weight, energy_weight)
 
-    # Print the best food plan
+    # Print the best food plan.
     print("Best food plan to maximize the score under calorie limit:")
+
     for food in best_food_plan:
         print(f"{food.name} - Calories: {food.calories}, Energy: {food.energy}")
+'''

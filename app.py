@@ -1,10 +1,10 @@
-# app.py
-from flask import Flask, render_template, request, jsonify, send_from_directory
+from flask import Flask, render_template, request, jsonify
 import pandas as pd
-from mcts_train import FoodItem, MCTS, read_food_data_from_csv, data_prune
+from mcts_train import MCTS, read_food_data_from_csv, data_prune
 import os
 
 app = Flask(__name__, template_folder=os.path.abspath(os.path.dirname(__file__)))
+
 
 @app.route('/')
 def index():
@@ -12,6 +12,7 @@ def index():
     df = pd.read_csv('filtered_food_data.csv')
     food_categories = df['food_category'].unique().tolist()
     return render_template('frontPage.html', food_categories=food_categories)
+
 
 @app.route('/optimize', methods=['POST'])
 def optimize():
@@ -55,6 +56,7 @@ def optimize():
             'success': False,
             'error': str(e)
         })
+
 
 if __name__ == '__main__':
     app.run(debug=True)
