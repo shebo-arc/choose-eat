@@ -56,11 +56,11 @@
                 </div>
             </div>
 
-            <button type="submit" class="btn btn-primary">Optimize Food Plan</button>
+            <button type="submit" class="btn btn-primary">Optimize Dish</button>
         </form>
 
         <div id="results" class="mt-4" style="display: none;">
-            <h2>Optimized Food Plan</h2>
+            <h2>Optimized Dish</h2>
             <div class="table-responsive">
                 <table class="table table-striped">
                     <thead>
@@ -136,7 +136,7 @@
                     },
                     complete: function() {
                         // Reset button state
-                        $('button[type="submit"]').prop('disabled', false).text('Optimize Food Plan');
+                        $('button[type="submit"]').prop('disabled', false).text('Optimize Dish');
                     }
                 });
             });
